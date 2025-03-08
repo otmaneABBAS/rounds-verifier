@@ -1,4 +1,4 @@
-from prompt_processor import process_data
+from .prompt_processor import process_data
 
 def main() -> None:
     # File paths
