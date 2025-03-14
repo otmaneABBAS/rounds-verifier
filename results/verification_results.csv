@@ -1,0 +1,922 @@
+Company,Confidence_Score,Verification_Status,Matches,Mismatches,Verification_Date
+Virtual Reality Simulation Training with Data Analytics,0.0,unverified,,company,2025-03-11 21:43:17
+Relay Technologies,0.0,unverified,,company,2025-03-11 21:43:20
+KOKO Networks,0.0,unverified,,"company, round_type",2025-03-11 21:43:22
+Forbes Hungary,0.0,unverified,,company,2025-03-11 21:43:24
+Godmode,0.0,unverified,,company,2025-03-11 21:43:25
+Liquidium,0.5,unverified,"company, round_type",amount,2025-03-11 21:43:27
+Latitudo 40,0.0,unverified,,company,2025-03-11 21:43:28
+ImmuneAge Bio,0.0,unverified,,company,2025-03-11 21:43:35
+MetaWealth,0.0,unverified,,company,2025-03-11 21:43:36
+Starting Finance,0.75,verified,"company, amount, round_type",,2025-03-11 21:43:38
+XOOB,0.0,unverified,,company,2025-03-11 21:43:40
+SidcoDX,0.0,unverified,,company,2025-03-11 21:43:42
+Disruptive Industries,0.0,unverified,,company,2025-03-11 21:43:44
+Haltia AI,0.0,unverified,,company,2025-03-11 21:43:45
+Meditect,0.0,unverified,,company,2025-03-11 21:43:47
+Settle Payments,0.0,unverified,,company,2025-03-11 21:43:51
+Taskbase,0.25,unverified,company,round_type,2025-03-11 21:44:02
+Sundew,0.0,unverified,,company,2025-03-11 21:44:05
+Ubooker,0.0,unverified,,company,2025-03-11 21:44:07
+MiiCare,0.0,unverified,,company,2025-03-11 21:44:09
+Belú Travel,0.0,unverified,,company,2025-03-11 21:44:12
+Flexa Careers,0.0,unverified,,company,2025-03-11 21:44:14
+Auddy,0.0,unverified,,company,2025-03-11 21:44:16
+Tranched,0.0,unverified,,company,2025-03-11 21:44:17
+Bloop,0.0,unverified,,"company, round_type",2025-03-11 21:44:19
+Tonstarter,0.0,unverified,,company,2025-03-11 21:44:20
+Fanton,0.0,unverified,,company,2025-03-11 21:44:21
+Fuse Vectors,0.0,unverified,,company,2025-03-11 21:44:23
+Trigify,0.0,unverified,,company,2025-03-11 21:44:25
+Zen Educate,0.0,unverified,,company,2025-03-11 21:44:26
+FAAREN,0.0,unverified,,company,2025-03-11 21:44:29
+DC Connected,0.0,unverified,,company,2025-03-11 21:44:30
+DC Connected Car,0.0,unverified,,company,2025-03-11 21:44:32
+Neurovirt,0.0,unverified,,company,2025-03-11 21:44:33
+BIOVIT,0.0,unverified,,company,2025-03-11 21:44:36
+NoPalm Ingredients,0.0,unverified,,company,2025-03-11 21:44:37
+Ucaneo,0.0,unverified,,company,2025-03-11 21:44:38
+Madmonq,0.0,unverified,,company,2025-03-11 21:44:42
+Folks Finance,0.0,unverified,,company,2025-03-11 21:44:44
+JustParent,0.0,unverified,,company,2025-03-11 21:44:45
+1Control srl,0.25,unverified,amount,"company, round_type",2025-03-11 21:44:49
+Footbar,0.25,unverified,round_type,"company, amount",2025-03-11 21:44:50
+LeaseTeq,0.0,unverified,,company,2025-03-11 21:44:52
+DentalPro,0.25,unverified,round_type,"company, amount",2025-03-11 21:44:56
+RTI Blockchain,0.0,unverified,,company,2025-03-11 21:44:58
+Keepz,0.0,unverified,,company,2025-03-11 21:45:01
+Zeely,0.0,unverified,,company,2025-03-11 21:45:02
+Kindred,0.0,unverified,,company,2025-03-11 21:45:04
+EHOSS,0.0,unverified,,company,2025-03-11 21:45:05
+TLDraw,0.5,unverified,"company, amount",round_type,2025-03-11 21:45:07
+Proxisense,0.0,unverified,,company,2025-03-11 21:45:12
+ELEXIR,0.5,unverified,"amount, round_type",company,2025-03-11 21:45:14
+Pandobac,0.0,unverified,,company,2025-03-11 21:45:15
+Term Stucture Lab,0.0,unverified,,company,2025-03-11 21:45:19
+Mettle,0.0,unverified,,company,2025-03-11 21:45:20
+Uzaje,0.0,unverified,,company,2025-03-11 21:45:21
+Skynet Technology,0.0,unverified,,company,2025-03-11 21:45:25
+Deepsense.ai,0.0,unverified,,company,2025-03-11 21:45:26
+Killwatt,0.0,unverified,,company,2025-03-11 21:45:28
+WELMO.,0.0,unverified,,company,2025-03-11 21:45:30
+Smarter Diagnostics,0.0,unverified,,company,2025-03-11 21:45:32
+Maad,0.0,unverified,,company,2025-03-11 21:45:34
+Avataris,0.0,unverified,,company,2025-03-11 21:45:35
+Momint,0.0,unverified,,company,2025-03-11 21:45:40
+Rad Propulsion,0.0,unverified,,company,2025-03-11 21:45:42
+BladeBUG,0.0,unverified,,company,2025-03-11 21:45:44
+OxDrive,0.0,unverified,,company,2025-03-11 21:45:46
+X-BOLT Orthopedics,0.0,unverified,,company,2025-03-11 21:45:47
+Adverttu,0.0,unverified,,company,2025-03-11 21:45:49
+BrandShield,0.0,unverified,,company,2025-03-11 21:45:50
+Tribo Games,0.25,unverified,company,round_type,2025-03-11 21:45:52
+F-Reg,0.0,unverified,,company,2025-03-11 21:45:53
+Intouch,0.75,verified,"company, amount, round_type",,2025-03-11 21:45:54
+Narravero,0.0,unverified,,company,2025-03-11 21:45:58
+Ixcys,0.25,unverified,round_type,"company, amount",2025-03-11 21:46:03
+Inoqo,0.0,unverified,,company,2025-03-11 21:46:06
+Advanced Commerce,0.0,unverified,,company,2025-03-11 21:46:08
+Konfir Uk Ltd,0.0,unverified,,company,2025-03-11 21:46:10
+Mindgard Ltd,0.0,unverified,,company,2025-03-11 21:46:11
+Akiba Digital,0.0,unverified,,company,2025-03-11 21:46:13
+Honest Burgers,0.0,unverified,,company,2025-03-11 21:46:16
+Kelda Showers,0.0,unverified,,company,2025-03-11 21:46:18
+PeopleSpheres,0.0,unverified,,company,2025-03-11 21:46:20
+Avantgarde,0.0,unverified,,company,2025-03-11 21:46:21
+Timeline,0.0,unverified,,company,2025-03-11 21:46:25
+Evertwine,0.0,unverified,,company,2025-03-11 21:46:26
+Avoca Clinic,0.5,unverified,"amount, round_type",company,2025-03-11 21:46:27
+Greenwood-Power,0.0,unverified,,company,2025-03-11 21:46:29
+Hexis,0.0,unverified,,company,2025-03-11 21:46:30
+Nanusens,0.0,unverified,,company,2025-03-11 21:46:33
+Birl,0.0,unverified,,company,2025-03-11 21:46:34
+reasy,0.0,unverified,,company,2025-03-11 21:46:37
+Urban Canopee,0.0,unverified,,company,2025-03-11 21:46:38
+VerifyMy,0.0,unverified,,company,2025-03-11 21:46:40
+Bidrento,0.0,unverified,,company,2025-03-11 21:46:42
+SharpGrid,0.0,unverified,,company,2025-03-11 21:46:44
+Automated Architecture,0.0,unverified,,company,2025-03-11 21:46:45
+StudentCrowd,0.25,unverified,company,"amount, round_type",2025-03-11 21:46:47
+TheCircle,0.0,unverified,,company,2025-03-11 21:46:49
+Mintouge,0.25,unverified,amount,"company, round_type",2025-03-11 21:46:54
+Agora Robotics,0.0,unverified,,company,2025-03-11 21:46:55
+COINSCAN,0.5,unverified,"company, amount",round_type,2025-03-11 21:46:56
+Fairmoove,0.0,unverified,,company,2025-03-11 21:46:58
+Picnic Media Limited,0.0,unverified,,company,2025-03-11 21:47:00
+Wheel of Work,0.0,unverified,,company,2025-03-11 21:47:01
+Stellar Omada,0.0,unverified,,company,2025-03-11 21:47:02
+terralayr,0.0,unverified,,company,2025-03-11 21:47:04
+Fractal Energy,0.0,unverified,,company,2025-03-11 21:47:05
+OneID,0.0,unverified,,company,2025-03-11 21:47:08
+StreamForge,0.0,unverified,,company,2025-03-11 21:47:10
+Mash Makes,0.5,unverified,"company, amount",round_type,2025-03-11 21:47:12
+Malted AI,0.0,unverified,,company,2025-03-11 21:47:13
+AMPLY Discovery,0.25,unverified,round_type,company,2025-03-11 21:47:15
+Redag Crop Protection,0.25,unverified,round_type,"company, amount",2025-03-11 21:47:17
+Kin,0.0,unverified,,company,2025-03-11 21:47:18
+Quantl AI,0.0,unverified,,company,2025-03-11 21:47:20
+Periphery,0.0,unverified,,company,2025-03-11 21:47:22
+Urban Group,0.0,unverified,,company,2025-03-11 21:47:24
+Yescapa,0.0,unverified,,company,2025-03-11 21:47:27
+TeamSec,0.0,unverified,,company,2025-03-11 21:47:28
+HOLY Energy,0.5,unverified,"amount, round_type",company,2025-03-11 21:47:29
+BHSN,0.5,unverified,"company, round_type",amount,2025-03-11 21:47:31
+MEVA energy,0.0,unverified,,company,2025-03-11 21:47:32
+Hyphen,0.0,unverified,,company,2025-03-11 21:47:34
+BirdsView,0.0,unverified,,company,2025-03-11 21:47:37
+NerdApp,0.0,unverified,,company,2025-03-11 21:47:38
+Curve DAO Token,0.0,unverified,,company,2025-03-11 21:47:40
+Netspeak Games,0.0,unverified,,company,2025-03-11 21:47:42
+Wingbot,0.0,unverified,,company,2025-03-11 21:47:44
+CGHero,0.0,unverified,,"company, round_type",2025-03-11 21:47:46
+KimboCare,0.0,unverified,,company,2025-03-11 21:47:50
+StrollMe,0.0,unverified,,company,2025-03-11 21:47:52
+Simpleclub,0.0,unverified,,company,2025-03-11 21:47:54
+Roadie,0.0,unverified,,company,2025-03-11 21:47:55
+Holiferm,0.0,unverified,,company,2025-03-11 21:47:56
+CHAIN Biotechnology,0.0,unverified,,company,2025-03-11 21:47:58
+AnyBook,0.0,unverified,,company,2025-03-11 21:48:00
+Marguerite & Cie,0.0,unverified,,company,2025-03-11 21:48:02
+Polar Analytics,0.0,unverified,,company,2025-03-11 21:48:05
+Reperio,0.0,unverified,,company,2025-03-11 21:48:07
+Hexacore,0.0,unverified,,company,2025-03-11 21:48:11
+Silent Protocol,0.0,unverified,,company,2025-03-11 21:48:15
+Lemonero,0.5,unverified,"company, round_type",,2025-03-11 21:48:18
+Joulica,0.0,unverified,,company,2025-03-11 21:48:20
+Optimeering,0.0,unverified,,company,2025-03-11 21:48:21
+RE-Lender,0.5,unverified,"company, amount",round_type,2025-03-11 21:48:25
+Tandem,0.0,unverified,,company,2025-03-11 21:48:27
+GScan,0.0,unverified,,company,2025-03-11 21:48:29
+Yenir,0.0,unverified,,company,2025-03-11 21:48:30
+Auravant,0.0,unverified,,company,2025-03-11 21:48:32
+Seven Bro7thers,0.0,unverified,,company,2025-03-11 21:48:35
+Oghji,0.0,unverified,,company,2025-03-11 21:48:36
+Cutbox,0.0,unverified,,company,2025-03-11 21:48:38
+Numa Health,0.0,unverified,,company,2025-03-11 21:48:40
+Exeliom,0.25,unverified,round_type,"company, amount",2025-03-11 21:48:41
+Almer Technologies,0.0,unverified,,company,2025-03-11 21:48:43
+Fighting Cancer Network,0.0,unverified,,company,2025-03-11 21:48:45
+MDaaS Global,0.0,unverified,,company,2025-03-11 21:48:46
+CAYA,0.0,unverified,,company,2025-03-11 21:48:49
+Rollingsquare,0.0,unverified,,company,2025-03-11 21:48:50
+GensDeConfiance,0.0,unverified,,company,2025-03-11 21:48:52
+Greenstic,0.0,unverified,,company,2025-03-11 21:48:53
+Impactpool,0.0,unverified,,company,2025-03-11 21:48:55
+Econans,0.0,unverified,,company,2025-03-11 21:48:57
+Mous,0.0,unverified,,company,2025-03-11 21:48:59
+Bovra Technologies,0.0,unverified,,company,2025-03-11 21:49:00
+skytrading.io,0.0,unverified,,company,2025-03-11 21:49:01
+innengine.com,0.0,unverified,,company,2025-03-11 21:49:05
+Geospatial Insight,0.0,unverified,,company,2025-03-11 21:49:06
+Bout'​ à Bout',0.0,unverified,,company,2025-03-11 21:49:09
+Meitner,0.0,unverified,,company,2025-03-11 21:49:12
+BitsCrunch,0.0,unverified,,"company, round_type",2025-03-11 21:49:14
+Nanusens,0.0,unverified,,company,2025-03-11 21:49:16
+Limenet,0.25,unverified,company,"amount, round_type",2025-03-11 21:49:19
+Smilee Finance,0.75,verified,"company, amount, round_type",,2025-03-11 21:49:21
+Cashy,0.0,unverified,,company,2025-03-11 21:49:25
+MJMK Restaurants,0.0,unverified,,company,2025-03-11 21:49:26
+Soolutions,0.0,unverified,,company,2025-03-11 21:49:28
+Sawayo,0.0,unverified,,company,2025-03-11 21:49:31
+OpenTrade,0.0,unverified,,company,2025-03-11 21:49:33
+BASH,0.25,unverified,company,round_type,2025-03-11 21:49:34
+HelioRec,0.0,unverified,,company,2025-03-11 21:49:36
+Oxi-Tech Solutions,0.0,unverified,,company,2025-03-11 21:49:38
+Pelikan Mobility,0.0,unverified,,company,2025-03-11 21:49:40
+Baia Food,0.0,unverified,,company,2025-03-11 21:49:53
+OYESS Beauty,0.0,unverified,,company,2025-03-11 21:49:55
+Opto Bio,0.0,unverified,,company,2025-03-11 21:49:56
+Funeral Safe,0.0,unverified,,company,2025-03-11 21:49:59
+HonuWorx,0.0,unverified,,company,2025-03-11 21:50:00
+FinCom,0.0,unverified,,company,2025-03-11 21:50:02
+Cynoia,0.0,unverified,,company,2025-03-11 21:50:03
+XITO,0.0,unverified,,company,2025-03-11 21:50:15
+PIXmania.com,0.0,unverified,,"company, round_type",2025-03-11 21:50:16
+Fraudio,0.0,unverified,,company,2025-03-11 21:50:19
+Ejara,0.0,unverified,,company,2025-03-11 21:50:24
+Atto,0.0,unverified,,company,2025-03-11 21:50:26
+Magnes,0.0,unverified,,company,2025-03-11 21:50:27
+Les Miraculeux,0.0,unverified,,company,2025-03-11 21:50:29
+Sugarox,0.0,unverified,,company,2025-03-11 21:50:31
+Lineat,0.0,unverified,,company,2025-03-11 21:50:32
+Ethiack,0.0,unverified,,company,2025-03-11 21:50:33
+Consultia Business Travel,0.0,unverified,,company,2025-03-11 21:50:35
+Berto’s,0.0,unverified,,company,2025-03-11 21:50:38
+Panax,0.0,unverified,,company,2025-03-11 21:50:39
+JUPUS,0.0,unverified,,company,2025-03-11 21:50:41
+Isomab,0.0,unverified,,company,2025-03-11 21:50:42
+PiggyVest,0.0,unverified,,"company, round_type",2025-03-11 21:50:44
+Onda,0.0,unverified,,company,2025-03-11 21:50:46
+Movingdoors,0.0,unverified,,company,2025-03-11 21:50:49
+MOTH,0.0,unverified,,company,2025-03-11 21:50:52
+Celltris,0.0,unverified,,company,2025-03-11 21:50:55
+BYWAY,0.0,unverified,,company,2025-03-11 21:50:57
+The Padel Club,0.0,unverified,,company,2025-03-11 21:50:58
+Pacifico Biolabs,0.0,unverified,,company,2025-03-11 21:51:00
+Innerskin,0.0,unverified,,company,2025-03-11 21:51:01
+Sunday Power,0.0,unverified,,company,2025-03-11 21:51:03
+Valeo,0.0,unverified,,company,2025-03-11 21:51:05
+Hailey HR,0.0,unverified,,company,2025-03-11 21:51:06
+VIBRA,0.0,unverified,,company,2025-03-11 21:51:08
+Narrative BI,0.0,unverified,,company,2025-03-11 21:51:10
+Keyring,0.0,unverified,,company,2025-03-11 21:51:12
+Serverpod,0.0,unverified,,company,2025-03-11 21:51:14
+getgigl,0.0,unverified,,company,2025-03-11 21:51:18
+FastLane Labs,0.0,unverified,,company,2025-03-11 21:51:20
+Colexion,0.0,unverified,,company,2025-03-11 21:51:22
+Farcana,0.0,unverified,,company,2025-03-11 21:51:25
+Performetry,0.0,unverified,,company,2025-03-11 21:51:26
+Relive,0.0,unverified,,company,2025-03-11 21:51:29
+Fondo,0.25,unverified,company,round_type,2025-03-11 21:51:31
+MyCellHub,0.0,unverified,,company,2025-03-11 21:51:39
+Zelok,0.25,unverified,round_type,"company, amount",2025-03-11 21:51:41
+Kurabu,0.0,unverified,,company,2025-03-11 21:51:43
+RESEE,0.0,unverified,,company,2025-03-11 21:51:44
+Eighty6,0.0,unverified,,company,2025-03-11 21:51:46
+1fs Wealth,0.0,unverified,,company,2025-03-11 21:51:48
+Cefinn,0.0,unverified,,company,2025-03-11 21:51:49
+Aiosyn,0.0,unverified,,company,2025-03-11 21:51:51
+Cube,0.0,unverified,,company,2025-03-11 21:51:52
+Polo del Gusto,0.75,verified,"company, amount, round_type",,2025-03-11 21:51:56
+Apeiron Synthesis,0.0,unverified,,company,2025-03-11 21:51:59
+Nemes Paris,0.0,unverified,,company,2025-03-11 21:52:00
+Avisomo,0.0,unverified,,company,2025-03-11 21:52:02
+Jalon Therapeutics,0.0,unverified,,company,2025-03-11 21:52:04
+ITC,0.0,unverified,,company,2025-03-11 21:52:05
+FTNet,0.5,unverified,"company, amount",round_type,2025-03-11 21:52:09
+Alderley Lighthouse Labs,0.0,unverified,,company,2025-03-11 21:52:11
+Salted CX,0.0,unverified,,company,2025-03-11 21:52:15
+Fusion Engineering,0.0,unverified,,company,2025-03-11 21:52:18
+Ocula,0.0,unverified,,"company, round_type",2025-03-11 21:52:20
+Ro&Zo,0.25,unverified,company,"amount, round_type",2025-03-11 21:52:21
+nona,0.0,unverified,,company,2025-03-11 21:52:23
+Surgery Hero,0.0,unverified,,company,2025-03-11 21:52:24
+Gbc-Beam,0.25,unverified,round_type,"company, amount",2025-03-11 21:52:26
+Pulsiv Solar,0.0,unverified,,company,2025-03-11 21:52:28
+Vispa,0.0,unverified,,company,2025-03-11 21:52:30
+Beeldi,0.0,unverified,,company,2025-03-11 21:52:32
+Dust Mobile_1,0.0,unverified,,company,2025-03-11 21:52:34
+Beti,0.0,unverified,,company,2025-03-11 21:52:39
+Flappin,0.0,unverified,,"company, amount, round_type",2025-03-11 21:52:46
+Winalist,0.0,unverified,,company,2025-03-11 21:52:48
+BYSTAMP,0.0,unverified,,"company, amount, round_type",2025-03-11 21:52:49
+Narwhal Media Group (NMG),0.0,unverified,,company,2025-03-11 21:53:01
+Les Causantes,0.0,unverified,,company,2025-03-11 21:53:04
+Audion,0.0,unverified,,company,2025-03-11 21:53:05
+EmailTree AI,0.0,unverified,,company,2025-03-11 21:53:06
+Albion Technologies UK,0.0,unverified,,company,2025-03-11 21:53:09
+Conservio,0.0,unverified,,company,2025-03-11 21:53:11
+Mycover.ai,0.0,unverified,,company,2025-03-11 21:53:14
+Nutritionpro,0.0,unverified,,"company, amount, round_type",2025-03-11 21:53:16
+Fabas,0.0,unverified,,company,2025-03-11 21:53:18
+Crealo,0.0,unverified,,"company, round_type",2025-03-11 21:53:22
+vlot,0.0,unverified,,company,2025-03-11 21:53:23
+Covalo,0.0,unverified,,company,2025-03-11 21:53:25
+Signifikant Solutions,0.0,unverified,,company,2025-03-11 21:53:26
+Dublin Vinyl,0.75,verified,"company, amount, round_type",,2025-03-11 21:53:28
+LegionellaDossier,0.0,unverified,,company,2025-03-11 21:53:31
+Hormona,0.0,unverified,,company,2025-03-11 21:53:35
+RedElectric,0.0,unverified,,company,2025-03-11 21:53:37
+JNPR Spirits,0.0,unverified,,company,2025-03-11 21:53:38
+DUA,0.0,unverified,,company,2025-03-11 21:53:40
+Optim Finance,0.25,unverified,amount,"company, round_type",2025-03-11 21:53:41
+Delta Business School,0.25,unverified,round_type,"company, amount",2025-03-11 21:53:43
+DIVIE,0.0,unverified,,company,2025-03-11 21:53:46
+Everyangle,0.0,unverified,,company,2025-03-11 21:53:49
+Payment Systems Regulator,0.25,unverified,round_type,"company, amount",2025-03-11 21:53:52
+Flowlife,0.0,unverified,,company,2025-03-11 21:53:54
+Gentian,0.0,unverified,,company,2025-03-11 21:53:56
+Bloomsbury Genetic Therapies,0.0,unverified,,company,2025-03-11 21:53:58
+Capsule Corp. Labs,0.0,unverified,,"company, amount, round_type",2025-03-11 21:53:59
+Limula,0.0,unverified,,company,2025-03-11 21:54:00
+Legal Services Board,0.25,unverified,round_type,"company, amount",2025-03-11 21:54:14
+PreComb,0.25,unverified,amount,"company, round_type",2025-03-11 21:54:27
+Drupps,0.0,unverified,,company,2025-03-11 21:54:28
+Poplar Studio,0.0,unverified,,company,2025-03-11 21:54:30
+Recruitment Smart Technologies,0.0,unverified,,company,2025-03-11 21:54:32
+roclub,0.0,unverified,,company,2025-03-11 21:54:33
+Smino,0.0,unverified,,company,2025-03-11 21:54:35
+Twice Commerce,0.0,unverified,,company,2025-03-11 21:54:37
+NBX,0.25,unverified,round_type,"company, amount",2025-03-11 21:54:38
+Ittybit,0.0,unverified,,company,2025-03-11 21:54:41
+Agel,0.0,unverified,,company,2025-03-11 21:54:42
+Relate - The Relationship Company,0.0,unverified,,company,2025-03-11 21:54:44
+Valueco,0.0,unverified,,"company, round_type",2025-03-11 21:54:46
+Taskbase,0.0,unverified,,company,2025-03-11 21:54:48
+Commune,0.25,unverified,round_type,"company, amount",2025-03-11 21:54:49
+Relox Robotics | Poki Robotics,0.0,unverified,,company,2025-03-11 21:54:50
+Berny,0.0,unverified,,company,2025-03-11 21:54:52
+Bloobloom,0.25,unverified,company,"amount, round_type",2025-03-11 21:54:53
+Ripple Energy,0.5,unverified,"amount, round_type",company,2025-03-11 21:54:54
+Live Stock Wealth,0.0,unverified,,company,2025-03-11 21:54:55
+SiVIEW,0.0,unverified,,company,2025-03-11 21:54:56
+Arecor,0.0,unverified,,company,2025-03-11 21:55:13
+Villa Seafood,0.0,unverified,,company,2025-03-11 21:55:14
+Climate Solutions Exchange,0.0,unverified,,company,2025-03-11 21:55:15
+Marine Edge,0.0,unverified,,company,2025-03-11 21:55:17
+Ponea Health,0.0,unverified,,company,2025-03-11 21:55:19
+Vyld,0.0,unverified,,company,2025-03-11 21:55:20
+Gozen Institute,0.0,unverified,,company,2025-03-11 21:55:22
+Faction Skis,0.0,unverified,,company,2025-03-11 21:55:23
+Vian,0.0,unverified,,company,2025-03-11 21:55:24
+Equip Sport,0.0,unverified,,company,2025-03-11 21:55:28
+Amplo GmbH,0.0,unverified,,company,2025-03-11 21:55:30
+Goodnewsco,0.0,unverified,,company,2025-03-11 21:55:33
+Wearisma,0.0,unverified,,company,2025-03-11 21:55:34
+AMAKA Studio,0.0,unverified,,company,2025-03-11 21:55:36
+BioBetter,0.0,unverified,,company,2025-03-11 21:55:37
+Butlr,0.0,unverified,,company,2025-03-11 21:55:39
+Bling,0.0,unverified,,company,2025-03-11 21:55:42
+ShanX Medtech,0.0,unverified,,company,2025-03-11 21:55:43
+WARD 24/7,0.0,unverified,,company,2025-03-11 21:55:45
+Shopperai,0.0,unverified,,company,2025-03-11 21:55:49
+The Landbanking Group,0.0,unverified,,company,2025-03-11 21:55:51
+Nium,0.0,unverified,,company,2025-03-11 21:55:53
+Swedish Temptations,0.0,unverified,,company,2025-03-11 21:55:54
+NOMOQ,0.0,unverified,,company,2025-03-11 21:55:56
+topi,0.0,unverified,,company,2025-03-11 21:56:00
+Healios,0.0,unverified,,company,2025-03-11 21:56:01
+Neur.on,0.0,unverified,,company,2025-03-11 21:56:02
+Hiiper,0.0,unverified,,company,2025-03-11 21:56:04
+OneFarm,0.0,unverified,,company,2025-03-11 21:56:06
+Kula Tech,0.5,unverified,"amount, round_type",company,2025-03-11 21:56:08
+Sharz.Net,0.0,unverified,,company,2025-03-11 21:56:09
+NQ64 Arcade Bars,0.0,unverified,,company,2025-03-11 21:56:11
+Coinnect,0.0,unverified,,company,2025-03-11 21:56:13
+Thriftify,0.5,unverified,"company, amount",round_type,2025-03-11 21:56:24
+Growth Intelligence,0.0,unverified,,company,2025-03-11 21:56:26
+ReLearn,0.0,unverified,,company,2025-03-11 21:56:28
+Bab Iot Technologies,0.0,unverified,,company,2025-03-11 21:56:29
+Usedemand,0.0,unverified,,company,2025-03-11 21:56:31
+George Medicines,0.0,unverified,,company,2025-03-11 21:56:33
+CreationDose,0.0,unverified,,company,2025-03-11 21:56:35
+OCTAIPIPE,0.0,unverified,,company,2025-03-11 21:56:36
+Anytype,0.0,unverified,,company,2025-03-11 21:56:38
+Fighting Cancer Network,0.0,unverified,,company,2025-03-11 21:56:39
+Maholla,0.0,unverified,,company,2025-03-11 21:56:42
+Subphoton,0.0,unverified,,company,2025-03-11 21:56:44
+Suturion Ab,0.0,unverified,,company,2025-03-11 21:56:45
+Ejara,0.0,unverified,,company,2025-03-11 21:56:46
+L'atelier des Chefs,0.0,unverified,,company,2025-03-11 21:56:47
+Airsonett,0.0,unverified,,company,2025-03-11 21:56:49
+Creative Fabrica,0.0,unverified,,company,2025-03-11 21:56:51
+Kessel,0.0,unverified,,company,2025-03-11 21:56:53
+api.video,0.0,unverified,,company,2025-03-11 21:56:55
+Cashy,0.0,unverified,,company,2025-03-11 21:56:57
+Atomic Growth,0.0,unverified,,company,2025-03-11 21:56:59
+Voidless,0.0,unverified,,company,2025-03-11 21:57:01
+Jolt Energy,0.0,unverified,,company,2025-03-11 21:57:04
+Living Brain,0.0,unverified,,company,2025-03-11 21:57:06
+ABC Transfer,0.0,unverified,,company,2025-03-11 21:57:07
+Everfund,0.0,unverified,,company,2025-03-11 21:57:08
+Nolea Health,0.0,unverified,,company,2025-03-11 21:57:10
+Silta Finance,0.0,unverified,,"company, round_type",2025-03-11 21:57:12
+Spring Vision,0.0,unverified,,company,2025-03-11 21:57:15
+O.c. Hairsystems,0.0,unverified,,company,2025-03-11 21:57:18
+Arab Therapy,0.5,unverified,"amount, round_type",company,2025-03-11 21:57:20
+HRLink,0.0,unverified,,company,2025-03-11 21:57:23
+Ingenieur.de,0.0,unverified,,company,2025-03-11 21:57:25
+Naturbeads,0.0,unverified,,company,2025-03-11 21:57:28
+kodehyve,0.0,unverified,,company,2025-03-11 21:57:29
+Biovitae,0.25,unverified,round_type,"company, amount",2025-03-11 21:57:33
+Happity,0.25,unverified,company,round_type,2025-03-11 21:57:35
+CergenX,0.0,unverified,,company,2025-03-11 21:57:37
+Sprk Capital,0.0,unverified,,company,2025-03-11 21:57:39
+Wholey,0.0,unverified,,company,2025-03-11 21:57:41
+Everon AG,0.0,unverified,,company,2025-03-11 21:57:42
+GameWard,0.0,unverified,,company,2025-03-11 21:57:44
+Heights,0.0,unverified,,company,2025-03-11 21:57:46
+iRaiser,0.0,unverified,,company,2025-03-11 21:57:48
+Lingio,0.0,unverified,,company,2025-03-11 21:57:49
+Cognibotics,0.5,unverified,"company, round_type",amount,2025-03-11 21:57:51
+Digital4Better,0.0,unverified,,company,2025-03-11 21:57:55
+PIXmania.com,0.0,unverified,,company,2025-03-11 21:57:56
+Countagen,0.0,unverified,,company,2025-03-11 21:57:58
+SENSIVIC,0.0,unverified,,company,2025-03-11 21:58:00
+Airolit,0.0,unverified,,company,2025-03-11 21:58:01
+Base,0.0,unverified,,company,2025-03-11 21:58:03
+Periapt,0.0,unverified,,company,2025-03-11 21:58:05
+Aiperia,0.0,unverified,,company,2025-03-11 21:58:06
+Negocios Verdes,0.0,unverified,,company,2025-03-11 21:58:11
+Filu,0.0,unverified,,company,2025-03-11 21:58:13
+Velvet AutoInvest,0.0,unverified,,company,2025-03-11 21:58:17
+foodforecast,0.0,unverified,,company,2025-03-11 21:58:19
+Tamatem,0.0,unverified,,company,2025-03-11 21:58:20
+Honestly Tasty,0.0,unverified,,company,2025-03-11 21:58:22
+ENLYZE,0.0,unverified,,company,2025-03-11 21:58:24
+Quizrr,0.0,unverified,,company,2025-03-11 21:58:25
+ConWize,0.0,unverified,,company,2025-03-11 21:58:26
+Data Science Group,0.0,unverified,,company,2025-03-11 21:58:27
+Muckle Brig,0.0,unverified,,company,2025-03-11 21:58:29
+Magpie,0.0,unverified,,"company, round_type",2025-03-11 21:58:31
+KidStart,0.0,unverified,,"company, amount, round_type",2025-03-11 21:58:32
+Famedly,0.0,unverified,,company,2025-03-11 21:58:38
+Autentica,0.0,unverified,,company,2025-03-11 21:58:40
+Distributed,0.0,unverified,,company,2025-03-11 21:58:41
+GetWhy,0.0,unverified,,company,2025-03-11 21:58:43
+Photon Sports Technologies,0.0,unverified,,company,2025-03-11 21:58:44
+enshift,0.0,unverified,,company,2025-03-11 21:58:46
+Aggua,0.0,unverified,,company,2025-03-11 21:58:59
+Concr,0.0,unverified,,company,2025-03-11 21:59:01
+Voxalyze,0.0,unverified,,company,2025-03-11 21:59:03
+Turnpike,0.0,unverified,,company,2025-03-11 21:59:04
+African Clean Energy,0.75,verified,"company, amount, round_type",,2025-03-11 21:59:08
+Learned.io,0.0,unverified,,company,2025-03-11 21:59:09
+Reglo,0.0,unverified,,company,2025-03-11 21:59:10
+Intelecy,0.0,unverified,,company,2025-03-11 21:59:32
+Vitala,0.0,unverified,,company,2025-03-11 21:59:34
+Caption,0.0,unverified,,company,2025-03-11 21:59:35
+Chainflip,0.0,unverified,,company,2025-03-11 21:59:38
+MALL Pay,0.0,unverified,,company,2025-03-11 21:59:39
+Glimpse,0.0,unverified,,company,2025-03-11 21:59:40
+Isochronic AG,0.0,unverified,,company,2025-03-11 21:59:42
+Aramune,0.0,unverified,,company,2025-03-11 21:59:49
+Comparesoft,0.0,unverified,,company,2025-03-11 21:59:50
+Sequentify,0.0,unverified,,company,2025-03-11 21:59:51
+Intelligence Anesthesia,0.0,unverified,,company,2025-03-11 21:59:53
+Klarpay AG,0.0,unverified,,company,2025-03-11 21:59:55
+Synctive,0.0,unverified,,company,2025-03-11 21:59:57
+Lineat,0.0,unverified,,company,2025-03-11 21:59:59
+NAVIT,0.0,unverified,,company,2025-03-11 22:00:01
+Bosque Foods,0.0,unverified,,company,2025-03-11 22:00:04
+Exalens,0.0,unverified,,company,2025-03-11 22:00:05
+OTOVINN,0.0,unverified,,company,2025-03-11 22:00:08
+Livy Care,0.0,unverified,,company,2025-03-11 22:00:09
+Skyseed,0.0,unverified,,company,2025-03-11 22:00:12
+Scompler,0.0,unverified,,company,2025-03-11 22:00:13
+valyria,0.0,unverified,,company,2025-03-11 22:00:15
+ABAKA,0.0,unverified,,company,2025-03-11 22:00:21
+Badili,0.0,unverified,,company,2025-03-11 22:00:22
+auto-ecole.net,0.5,unverified,"amount, round_type",company,2025-03-11 22:00:24
+Lanterne,0.0,unverified,,company,2025-03-11 22:00:26
+Unbound Nation,0.0,unverified,,company,2025-03-11 22:00:29
+Scooper Energy,0.0,unverified,,company,2025-03-11 22:00:30
+Quai,0.5,unverified,"amount, round_type",company,2025-03-11 22:00:33
+Utila,0.0,unverified,,company,2025-03-11 22:00:34
+Kikimora,0.0,unverified,,"company, amount, round_type",2025-03-11 22:00:38
+MYSO Finance,0.5,unverified,"company, amount",round_type,2025-03-11 22:00:40
+spacebands,0.0,unverified,,company,2025-03-11 22:00:41
+Blue Shock Race,0.25,unverified,company,"amount, round_type",2025-03-11 22:00:43
+Lita.co,0.0,unverified,,company,2025-03-11 22:00:44
+Maison Stella & Suzie,0.0,unverified,,company,2025-03-11 22:00:46
+Rubypayeur,0.0,unverified,,company,2025-03-11 22:00:48
+Insert Coin,0.0,unverified,,company,2025-03-11 22:00:52
+LottieLab,0.0,unverified,,company,2025-03-11 22:00:54
+Tech5,0.0,unverified,,company,2025-03-11 22:01:02
+Virtuagym,0.0,unverified,,company,2025-03-11 22:01:08
+Lawtech Software Group,0.0,unverified,,company,2025-03-11 22:01:09
+Healthy Workers,0.0,unverified,,company,2025-03-11 22:01:11
+RDS,0.0,unverified,,company,2025-03-11 22:01:15
+IPOR,0.5,unverified,"amount, round_type",company,2025-03-11 22:01:19
+Maison Sport,0.0,unverified,,company,2025-03-11 22:01:22
+Optimate,0.0,unverified,,company,2025-03-11 22:01:25
+GoodsForecast,0.0,unverified,,company,2025-03-11 22:01:27
+Violet,0.0,unverified,,company,2025-03-11 22:01:29
+AGORA images,0.0,unverified,,company,2025-03-11 22:01:31
+Meet5,0.0,unverified,,company,2025-03-11 22:01:33
+Audyo,0.0,unverified,,company,2025-03-11 22:01:34
+CGHero,0.0,unverified,,company,2025-03-11 22:01:36
+White Sands,0.0,unverified,,company,2025-03-11 22:01:38
+Operance,0.0,unverified,,company,2025-03-11 22:01:40
+Freshflow,0.0,unverified,,company,2025-03-11 22:01:42
+Fusion Engineering,0.0,unverified,,company,2025-03-11 22:01:45
+Standard Gas,0.0,unverified,,company,2025-03-11 22:01:49
+MedicubeX,0.0,unverified,,company,2025-03-11 22:01:52
+MyMove,0.0,unverified,,company,2025-03-11 22:01:53
+Gripable,0.0,unverified,,company,2025-03-11 22:01:55
+Konfir Uk Ltd,0.0,unverified,,"company, amount, round_type",2025-03-11 22:01:57
+Beacon Power Services,0.0,unverified,,company,2025-03-11 22:01:58
+AugmentedCISO,0.0,unverified,,company,2025-03-11 22:02:00
+Wanda Fish,0.0,unverified,,company,2025-03-11 22:02:02
+Sensible Biotechnologies,0.0,unverified,,company,2025-03-11 22:02:03
+Spark+ Africa Fund,0.0,unverified,,company,2025-03-11 22:02:05
+DOOD,0.0,unverified,,company,2025-03-11 22:02:08
+Sileon,0.0,unverified,,company,2025-03-11 22:02:15
+Zelt,0.0,unverified,,company,2025-03-11 22:02:27
+Elevien,0.0,unverified,,company,2025-03-11 22:02:29
+Drupps,0.25,unverified,round_type,"company, amount",2025-03-11 22:02:30
+Eggmented Reality,0.0,unverified,,company,2025-03-11 22:02:45
+TANKU,0.0,unverified,,company,2025-03-11 22:02:46
+CHILI publish,0.0,unverified,,company,2025-03-11 22:02:48
+Freyapharmasolutions,0.0,unverified,,company,2025-03-11 22:02:50
+cuvama,0.0,unverified,,company,2025-03-11 22:02:52
+Equinox Kombucha,0.0,unverified,,company,2025-03-11 22:02:54
+Medical Templates AG,0.0,unverified,,company,2025-03-11 22:02:56
+Caplena,0.0,unverified,,company,2025-03-11 22:02:57
+SafetyNet Technologies,0.0,unverified,,company,2025-03-11 22:02:58
+Nibble Technology,0.0,unverified,,company,2025-03-11 22:02:59
+2mee,0.0,unverified,,company,2025-03-11 22:03:03
+Zortify,0.0,unverified,,"company, amount, round_type",2025-03-11 22:03:04
+BoldBooks,0.0,unverified,,company,2025-03-11 22:03:07
+Rice in Action,0.5,unverified,"company, amount",round_type,2025-03-11 22:03:09
+MaaS Global,0.0,unverified,,company,2025-03-11 22:03:10
+Amplication,0.0,unverified,,company,2025-03-11 22:03:12
+auticon,0.0,unverified,,company,2025-03-11 22:03:13
+SAM Seamless Network,0.0,unverified,,company,2025-03-11 22:03:17
+Learnlife,0.0,unverified,,company,2025-03-11 22:03:18
+Fever Energy,0.0,unverified,,company,2025-03-11 22:03:19
+Anonymised,0.0,unverified,,company,2025-03-11 22:03:21
+Cordulus,0.0,unverified,,company,2025-03-11 22:03:22
+OakTree Power,0.0,unverified,,"company, round_type",2025-03-11 22:03:23
+RegTick,0.0,unverified,,company,2025-03-11 22:03:25
+Marine Edge,0.0,unverified,,company,2025-03-11 22:03:27
+Strike Pharma,0.5,unverified,"company, round_type",amount,2025-03-11 22:03:28
+Moroxite F,0.5,unverified,"company, round_type",,2025-03-11 22:03:29
+Saveggy,0.0,unverified,,company,2025-03-11 22:03:31
+Muse Group,0.0,unverified,,company,2025-03-11 22:03:32
+Redpanda,0.0,unverified,,company,2025-03-11 22:03:34
+KEEY AEROGEL,0.0,unverified,,company,2025-03-11 22:03:37
+Char.gy,0.0,unverified,,company,2025-03-11 22:03:38
+Sad Cat Studios,0.0,unverified,,company,2025-03-11 22:03:40
+Spectaflow,0.75,verified,"company, amount, round_type",,2025-03-11 22:03:41
+InSoma Bio,0.0,unverified,,company,2025-03-11 22:03:43
+Natix Network,0.0,unverified,,company,2025-03-11 22:03:44
+Albion Technologies UK,0.0,unverified,,company,2025-03-11 22:03:46
+Piggy,0.0,unverified,,company,2025-03-11 22:03:47
+End Game,0.0,unverified,,company,2025-03-11 22:03:49
+Optimeering,0.0,unverified,,company,2025-03-11 22:03:51
+Electrify Video Partners,0.0,unverified,,company,2025-03-11 22:03:54
+Fruitcast,0.0,unverified,,company,2025-03-11 22:03:56
+ManoCap Energy,0.0,unverified,,company,2025-03-11 22:03:59
+Bobbee,0.0,unverified,,company,2025-03-11 22:04:02
+ARX Alliance Ltd.,0.0,unverified,,company,2025-03-11 22:04:03
+Meatly,0.0,unverified,,company,2025-03-11 22:04:04
+Picosats,0.0,unverified,,company,2025-03-11 22:04:05
+Kynda,0.0,unverified,,company,2025-03-11 22:04:08
+ai|coustics,0.0,unverified,,company,2025-03-11 22:04:09
+Above Surveying,0.0,unverified,,company,2025-03-11 22:04:11
+Vinden,0.0,unverified,,company,2025-03-11 22:04:12
+Chilowé,0.25,unverified,round_type,"company, amount",2025-03-11 22:04:13
+Just Wont Die,0.0,unverified,,company,2025-03-11 22:04:15
+Groundcover,0.0,unverified,,company,2025-03-11 22:04:17
+Hypernative,0.0,unverified,,company,2025-03-11 22:04:19
+Vosbor,0.0,unverified,,company,2025-03-11 22:04:20
+OVEX,0.0,unverified,,company,2025-03-11 22:04:25
+Pheon Therapeutics,0.0,unverified,,company,2025-03-11 22:04:28
+Immortal Game,0.0,unverified,,company,2025-03-11 22:04:36
+AVEA,0.0,unverified,,company,2025-03-11 22:04:39
+Roof,0.0,unverified,,company,2025-03-11 22:04:41
+SMAFO,0.5,unverified,"company, amount",round_type,2025-03-11 22:04:44
+Kula Tech,0.25,unverified,amount,"company, round_type",2025-03-11 22:04:45
+Vesto,0.5,unverified,"company, amount",round_type,2025-03-11 22:04:48
+Kovalee,0.0,unverified,,company,2025-03-11 22:04:49
+Dhp,0.0,unverified,,company,2025-03-11 22:04:51
+PainDrainer,0.0,unverified,,company,2025-03-11 22:04:52
+Walliance,0.0,unverified,,company,2025-03-11 22:04:54
+Classified Cycling,0.0,unverified,,company,2025-03-11 22:04:56
+Molecular Attraction,0.25,unverified,round_type,company,2025-03-11 22:04:58
+Sylndr,0.0,unverified,,company,2025-03-11 22:04:59
+ATRO Medical B.V.,0.0,unverified,,company,2025-03-11 22:05:01
+PayAnalytics,0.5,unverified,"company, amount",round_type,2025-03-11 22:05:03
+Kuunda,0.0,unverified,,company,2025-03-11 22:05:05
+Exorde,0.25,unverified,amount,"company, round_type",2025-03-11 22:05:07
+Namastay,0.75,verified,"company, amount, round_type",,2025-03-11 22:05:08
+Tax Sketches,0.5,unverified,"company, amount",round_type,2025-03-11 22:05:09
+MailTrack,0.5,unverified,"amount, round_type",company,2025-03-11 22:05:11
+Zeitgeist,0.5,unverified,"company, amount",round_type,2025-03-11 22:05:12
+Akewatu,0.0,unverified,,company,2025-03-11 22:05:14
+Popsa,0.0,unverified,,company,2025-03-11 22:05:17
+Marefa Digital,0.0,unverified,,company,2025-03-11 22:05:19
+KWOTA,0.0,unverified,,company,2025-03-11 22:05:20
+Findependent,0.0,unverified,,company,2025-03-11 22:05:21
+Onex,0.0,unverified,,"company, round_type",2025-03-11 22:05:24
+Granode Materials,0.0,unverified,,company,2025-03-11 22:05:26
+ChargeNode,0.0,unverified,,company,2025-03-11 22:05:27
+WineSpark,0.0,unverified,,company,2025-03-11 22:05:29
+Leanspace,0.0,unverified,,company,2025-03-11 22:05:32
+OSHI,0.0,unverified,,company,2025-03-11 22:05:34
+Ento Labs,0.0,unverified,,company,2025-03-11 22:05:36
+Magicave,0.25,unverified,company,round_type,2025-03-11 22:05:38
+SeniorDomo,0.0,unverified,,company,2025-03-11 22:05:41
+Mtek,0.0,unverified,,company,2025-03-11 22:05:43
+Mooevo,0.0,unverified,,company,2025-03-11 22:05:44
+Fairown,0.0,unverified,,company,2025-03-11 22:05:45
+kokono.green,0.0,unverified,,company,2025-03-11 22:05:46
+Copresence,0.0,unverified,,company,2025-03-11 22:05:47
+Covalo,0.0,unverified,,company,2025-03-11 22:06:00
+Xaga Surgical,0.5,unverified,"company, round_type",amount,2025-03-11 22:06:01
+CombinedX,0.0,unverified,,company,2025-03-11 22:06:02
+Proactive,0.0,unverified,,"company, round_type",2025-03-11 22:06:03
+Youdge,0.0,unverified,,company,2025-03-11 22:06:05
+deskbird,0.0,unverified,,company,2025-03-11 22:06:08
+Floe Oral Care,0.0,unverified,,company,2025-03-11 22:06:27
+ANKA marketplace,0.0,unverified,,company,2025-03-11 22:06:28
+NodThera,0.0,unverified,,company,2025-03-11 22:06:30
+Versantis,0.0,unverified,,company,2025-03-11 22:06:31
+Raspberry Pi,0.0,unverified,,company,2025-03-11 22:06:33
+Paretos GmbH,0.0,unverified,,company,2025-03-11 22:06:34
+Vocsens,0.5,unverified,"company, amount",round_type,2025-03-11 22:06:40
+BeZero Carbon,0.0,unverified,,"company, amount, round_type",2025-03-11 22:06:41
+Linearity,0.0,unverified,,company,2025-03-11 22:06:44
+Infrascreen,0.0,unverified,,company,2025-03-11 22:06:46
+Jibu,0.0,unverified,,company,2025-03-11 22:06:49
+Kvix,0.25,unverified,round_type,"company, amount",2025-03-11 22:06:50
+predge,0.5,unverified,"company, round_type",,2025-03-11 22:06:52
+Joystream,0.0,unverified,,company,2025-03-11 22:06:55
+Clearpool,0.0,unverified,,company,2025-03-11 22:06:56
+Mines of Dalarnia,0.75,verified,"company, amount, round_type",,2025-03-11 22:06:57
+ubloquity,0.0,unverified,,company,2025-03-11 22:07:00
+Stepler,0.0,unverified,,company,2025-03-11 22:07:01
+Oversonic,0.0,unverified,,"company, round_type",2025-03-11 22:07:05
+Sane,0.0,unverified,,company,2025-03-11 22:07:07
+EFC Uganda,0.0,unverified,,company,2025-03-11 22:07:09
+alicia,0.0,unverified,,company,2025-03-11 22:07:11
+Redzinc Services,0.0,unverified,,company,2025-03-11 22:07:13
+Biotangents,0.25,unverified,round_type,"company, amount",2025-03-11 22:07:14
+Ella,0.0,unverified,,company,2025-03-11 22:07:16
+Carmoola,0.0,unverified,,company,2025-03-11 22:07:17
+Sona,0.0,unverified,,company,2025-03-11 22:07:19
+Time-travelling Milkman,0.0,unverified,,company,2025-03-11 22:07:21
+TheCircle,0.0,unverified,,"company, amount, round_type",2025-03-11 22:07:25
+Endel,0.0,unverified,,company,2025-03-11 22:07:27
+Conte.ai (Formerly Contenive or Postoplan),0.0,unverified,,company,2025-03-11 22:07:30
+KONTA,0.25,unverified,company,"amount, round_type",2025-03-11 22:07:32
+21bitcoin,0.0,unverified,,company,2025-03-11 22:07:34
+seventhings,0.0,unverified,,company,2025-03-11 22:07:35
+BTP,0.0,unverified,,company,2025-03-11 22:07:36
+Icoatmedical,0.0,unverified,,company,2025-03-11 22:07:37
+Linkup,0.0,unverified,,company,2025-03-11 22:07:39
+ServisSoft,0.0,unverified,,company,2025-03-11 22:07:41
+Simusolar,0.0,unverified,,company,2025-03-11 22:07:43
+Faveeo,0.0,unverified,,company,2025-03-11 22:07:45
+Nanolyze,0.0,unverified,,company,2025-03-11 22:07:46
+Myrspoven,0.0,unverified,,company,2025-03-11 22:07:47
+Mindmore,0.0,unverified,,company,2025-03-11 22:07:51
+Froots,0.0,unverified,,company,2025-03-11 22:07:53
+Bumbee Labs,0.0,unverified,,company,2025-03-11 22:07:56
+African Guarantee Fund,0.0,unverified,,company,2025-03-11 22:07:58
+Hilltop Leaf,0.0,unverified,,company,2025-03-11 22:08:00
+Cypher Coders,0.0,unverified,,company,2025-03-11 22:08:01
+PeekMed,0.5,unverified,"amount, round_type",company,2025-03-11 22:08:04
+MoonLake Immunotherapeutics,0.0,unverified,,company,2025-03-11 22:08:05
+Pulsiv Solar,0.0,unverified,,company,2025-03-11 22:08:07
+Elstor,0.25,unverified,company,round_type,2025-03-11 22:08:08
+Hopon,0.0,unverified,,company,2025-03-11 22:08:11
+SPCE,0.0,unverified,,company,2025-03-11 22:08:13
+bloXmove,0.0,unverified,,company,2025-03-11 22:08:15
+Bijles Aan Huis,0.0,unverified,,company,2025-03-11 22:08:17
+QDI-Systems,0.0,unverified,,company,2025-03-11 22:08:19
+Scramjet,0.0,unverified,,company,2025-03-11 22:08:21
+Neurobrave,0.0,unverified,,company,2025-03-11 22:08:23
+Glycanostics,0.0,unverified,,company,2025-03-11 22:08:26
+ANKA,0.0,unverified,,"company, amount, round_type",2025-03-11 22:08:29
+RBL Labs,0.0,unverified,,company,2025-03-11 22:08:31
+Outrun Therapeutics,0.0,unverified,,company,2025-03-11 22:08:32
+Bosque Foods,0.0,unverified,,company,2025-03-11 22:08:34
+Nexoya,0.0,unverified,,company,2025-03-11 22:08:36
+Scout Drone Inspection,0.0,unverified,,company,2025-03-11 22:08:37
+PresenceKit,0.0,unverified,,"company, amount, round_type",2025-03-11 22:08:38
+House of Math,0.0,unverified,,company,2025-03-11 22:08:42
+APWine,0.0,unverified,,company,2025-03-11 22:08:43
+PreVet,0.0,unverified,,company,2025-03-11 22:08:44
+Sea2Cell,0.0,unverified,,company,2025-03-11 22:08:48
+SessionStack,0.0,unverified,,company,2025-03-11 22:08:50
+ShiraTech Knowtion,0.0,unverified,,company,2025-03-11 22:08:52
+Wisesight Technologies,0.0,unverified,,company,2025-03-11 22:08:54
+Florence Finance,0.0,unverified,,company,2025-03-11 22:08:56
+Floatpays,0.0,unverified,,company,2025-03-11 22:09:08
+ThankUCash,0.0,unverified,,company,2025-03-11 22:09:10
+Purecontrol,0.0,unverified,,company,2025-03-11 22:09:12
+Mawingu,0.0,unverified,,company,2025-03-11 22:09:14
+LINKBY,0.0,unverified,,company,2025-03-11 22:09:16
+Sport Buff,0.5,unverified,"company, round_type",,2025-03-11 22:09:17
+Aligned Bio,0.25,unverified,company,"amount, round_type",2025-03-11 22:09:19
+STRATOSFAIR,0.0,unverified,,company,2025-03-11 22:09:22
+OTO,0.0,unverified,,company,2025-03-11 22:09:26
+Catalyco,0.0,unverified,,company,2025-03-11 22:09:27
+Faddom,0.0,unverified,,company,2025-03-11 22:09:28
+Mysphera,0.0,unverified,,company,2025-03-11 22:09:30
+Argonaute RNA,0.0,unverified,,company,2025-03-11 22:09:31
+Paceup,0.0,unverified,,company,2025-03-11 22:09:33
+Doctaly,0.0,unverified,,company,2025-03-11 22:09:35
+Poptop Event Planning Concierge,0.0,unverified,,"company, amount, round_type",2025-03-11 22:09:36
+Hark Technologies,0.0,unverified,,company,2025-03-11 22:09:40
+TOLV,0.0,unverified,,company,2025-03-11 22:09:52
+Trustmi,0.0,unverified,,company,2025-03-11 22:09:53
+Exeliom,0.25,unverified,round_type,"company, amount",2025-03-11 22:09:54
+Credable,0.0,unverified,,company,2025-03-11 22:09:57
+Lanetalk,0.0,unverified,,company,2025-03-11 22:09:58
+Meatafora,0.0,unverified,,company,2025-03-11 22:10:01
+DoctorApp,0.0,unverified,,company,2025-03-11 22:10:04
+ROADHOW,0.25,unverified,company,"amount, round_type",2025-03-11 22:10:06
+Yummy,0.0,unverified,,company,2025-03-11 22:10:09
+Rise,0.0,unverified,,company,2025-03-11 22:10:11
+Budibase,0.0,unverified,,company,2025-03-11 22:10:12
+Roofit.Solar,0.25,unverified,company,"amount, round_type",2025-03-11 22:10:14
+Maplerad,0.0,unverified,,company,2025-03-11 22:10:16
+MediCrops,0.0,unverified,,company,2025-03-11 22:10:18
+Chatfood,0.25,unverified,company,"amount, round_type",2025-03-11 22:10:21
+Freshflow,0.0,unverified,,company,2025-03-11 22:10:33
+Thabor Therapeutics,0.25,unverified,company,round_type,2025-03-11 22:10:34
+Redpanda,0.0,unverified,,company,2025-03-11 22:10:41
+Mission Zero Technologies,0.0,unverified,,company,2025-03-11 22:10:46
+Spirea,0.0,unverified,,company,2025-03-11 22:10:48
+Zeal,0.0,unverified,,company,2025-03-11 22:10:50
+8power,0.25,unverified,company,"amount, round_type",2025-03-11 22:10:51
+HAKKI AFRICA,0.0,unverified,,company,2025-03-11 22:10:53
+Urban Canopee,0.0,unverified,,company,2025-03-11 22:10:59
+Nimbl'Bot,0.0,unverified,,company,2025-03-11 22:11:01
+Twelve,0.0,unverified,,company,2025-03-11 22:11:03
+Bioman,0.0,unverified,,company,2025-03-11 22:11:04
+AC Bioscience,0.25,unverified,company,round_type,2025-03-11 22:11:06
+Tay Therapeutics,0.0,unverified,,company,2025-03-11 22:11:13
+Kubos Semiconductors,0.0,unverified,,company,2025-03-11 22:11:14
+Gebeya,0.0,unverified,,company,2025-03-11 22:11:26
+Nextory,0.0,unverified,,company,2025-03-11 22:11:27
+Datia,0.0,unverified,,company,2025-03-11 22:11:28
+Easycom,0.0,unverified,,company,2025-03-11 22:11:30
+ProntoPiso,0.0,unverified,,company,2025-03-11 22:11:33
+Agdata,0.0,unverified,,company,2025-03-11 22:11:36
+Solsten,0.0,unverified,,company,2025-03-11 22:11:37
+Tendmill,0.25,unverified,company,round_type,2025-03-11 22:11:41
+Xertified,0.0,unverified,,company,2025-03-11 22:11:42
+Biopix-T,0.0,unverified,,company,2025-03-11 22:11:45
+Kuldea,0.0,unverified,,company,2025-03-11 22:11:46
+Ufurnish,0.0,unverified,,company,2025-03-11 22:11:47
+RFISee,0.0,unverified,,company,2025-03-11 22:11:49
+Equity for Tanzania,0.0,unverified,,company,2025-03-11 22:11:50
+Digicust,0.0,unverified,,company,2025-03-11 22:11:52
+StockRepublic,0.0,unverified,,company,2025-03-11 22:11:53
+Brinja AB,0.0,unverified,,company,2025-03-11 22:11:54
+Finch 3D,0.0,unverified,,company,2025-03-11 22:11:56
+Ars Ingenii,0.0,unverified,,company,2025-03-11 22:11:58
+Transferchain,0.0,unverified,,company,2025-03-11 22:11:59
+Apotekamo,0.0,unverified,,company,2025-03-11 22:12:02
+Binary Brains,0.0,unverified,,company,2025-03-11 22:12:03
+Cinnamon Agency,0.0,unverified,,company,2025-03-11 22:12:15
+Loopfront,0.0,unverified,,company,2025-03-11 22:12:18
+Idana,0.0,unverified,,company,2025-03-11 22:12:20
+Brumbrum,0.0,unverified,,company,2025-03-11 22:12:22
+ViraSoft,0.0,unverified,,company,2025-03-11 22:12:23
+Biodelta Nutraceuticals,0.0,unverified,,company,2025-03-11 22:12:24
+Boneprox,0.0,unverified,,company,2025-03-11 22:12:26
+betteries,0.0,unverified,,company,2025-03-11 22:12:27
+George Medicines,0.0,unverified,,company,2025-03-11 22:12:29
+Pawprint,0.0,unverified,,company,2025-03-11 22:12:32
+Agrorobotica Srl,0.25,unverified,round_type,company,2025-03-11 22:12:37
+NeuroServo,0.0,unverified,,company,2025-03-11 22:12:40
+Adline,0.0,unverified,,company,2025-03-11 22:12:42
+BlueTree Technologies,0.0,unverified,,company,2025-03-11 22:12:46
+PMD Solutions,0.0,unverified,,company,2025-03-11 22:12:48
+MyWorkpapers,0.0,unverified,,company,2025-03-11 22:12:49
+Base,0.0,unverified,,company,2025-03-11 22:12:51
+Xoltar,0.0,unverified,,company,2025-03-11 22:12:53
+Alchemy Global Solutions,0.0,unverified,,company,2025-03-11 22:12:54
+superscale,0.0,unverified,,company,2025-03-11 22:12:55
+Trone,0.0,unverified,,company,2025-03-11 22:13:04
+Moby Bikes,0.25,unverified,company,"amount, round_type",2025-03-11 22:13:05
+Above Surveying,0.0,unverified,,company,2025-03-11 22:13:07
+BonusX,0.0,unverified,,company,2025-03-11 22:13:10
+Flow Living,0.0,unverified,,company,2025-03-11 22:13:12
+Drexcode,0.0,unverified,,company,2025-03-11 22:13:15
+Connexa Insurance,0.0,unverified,,company,2025-03-11 22:13:17
+Dublin Vinyl,0.5,unverified,"company, round_type",amount,2025-03-11 22:13:20
+FineCell,0.0,unverified,,company,2025-03-11 22:13:22
+Train Alliance,0.0,unverified,,company,2025-03-11 22:13:24
+Curoflow,0.0,unverified,,company,2025-03-11 22:13:25
+AISPECO,0.0,unverified,,company,2025-03-11 22:13:26
+core sensing,0.0,unverified,,company,2025-03-11 22:13:29
+MyMOWO,0.0,unverified,,company,2025-03-11 22:13:30
+Barnebys,0.0,unverified,,company,2025-03-11 22:13:31
+Vaderis Therapeutics,0.0,unverified,,company,2025-03-11 22:13:35
+RoboDeck,0.0,unverified,,company,2025-03-11 22:13:36
+Xyall,0.0,unverified,,company,2025-03-11 22:13:37
+BulutKlinik,0.0,unverified,,company,2025-03-11 22:13:39
+EFC Uganda,0.0,unverified,,company,2025-03-11 22:13:41
+WHOSSA,0.0,unverified,,company,2025-03-11 22:13:53
+Moonee,0.0,unverified,,company,2025-03-11 22:13:55
+Danalto,0.0,unverified,,company,2025-03-11 22:13:56
+Linearity,0.75,verified,"company, amount, round_type",,2025-03-11 22:13:58
+TolerogenixX,0.0,unverified,,company,2025-03-11 22:13:59
+Apollo Agriculture,0.0,unverified,,company,2025-03-11 22:14:00
+WatchHouse,0.25,unverified,company,"amount, round_type",2025-03-11 22:14:03
+MachinaWare,0.0,unverified,,company,2025-03-11 22:14:04
+Liquidity Capital,0.25,unverified,company,round_type,2025-03-11 22:14:06
+I-TES,0.0,unverified,,company,2025-03-11 22:14:09
+WOO,0.0,unverified,,company,2025-03-11 22:14:10
+Boositifed,0.0,unverified,,company,2025-03-11 22:14:12
+GOMECANO,0.0,unverified,,company,2025-03-11 22:14:13
+Empower New Energy,0.0,unverified,,company,2025-03-11 22:14:16
+Pawprint,0.0,unverified,,company,2025-03-11 22:14:18
+Weavr,0.0,unverified,,company,2025-03-11 22:14:20
+student tribe,0.0,unverified,,company,2025-03-11 22:14:21
+Aprao - Development Appraisal Software,0.0,unverified,,company,2025-03-11 22:14:23
+Banjo Robinson,0.0,unverified,,company,2025-03-11 22:14:30
+Adepto,0.0,unverified,,company,2025-03-11 22:14:32
+ProGrow,0.0,unverified,,company,2025-03-11 22:14:33
+PeptiSystems,0.0,unverified,,company,2025-03-11 22:14:34
+VEOWARE,0.0,unverified,,"company, round_type",2025-03-11 22:14:47
+Hawa Dawa,0.0,unverified,,"company, round_type",2025-03-11 22:14:49
+Albacross,0.0,unverified,,company,2025-03-11 22:14:50
+PlayerMaker,0.0,unverified,,company,2025-03-11 22:14:51
+Mash Makes,0.0,unverified,,company,2025-03-11 22:14:54
+Whistle Punks Urban Axe Throwing,0.25,unverified,round_type,company,2025-03-11 22:14:55
+Linearity,0.25,unverified,company,round_type,2025-03-11 22:14:57
+WizeCare,0.0,unverified,,company,2025-03-11 22:14:58
+Twice Commerce,0.0,unverified,,company,2025-03-11 22:15:01
+Myrspoven,0.0,unverified,,company,2025-03-11 22:15:03
+Xcademy,0.25,unverified,round_type,company,2025-03-11 22:15:08
+Abraham,0.0,unverified,,company,2025-03-11 22:15:10
+Arksen,0.0,unverified,,company,2025-03-11 22:15:12
+Keelham Food Hall,0.0,unverified,,company,2025-03-11 22:15:14
+Elementor,0.0,unverified,,company,2025-03-11 22:15:15
+Kashier,0.0,unverified,,company,2025-03-11 22:15:18
+SolarAfrica Energy,0.0,unverified,,company,2025-03-11 22:15:19
+ThrustMe,0.0,unverified,,company,2025-03-11 22:15:21
+Lynxter,0.0,unverified,,company,2025-03-11 22:15:23
+PxE Holographic Imaging ( Formerly PxE Computational Imaging ),0.0,unverified,,company,2025-03-11 22:15:24
+Triply,0.0,unverified,,company,2025-03-11 22:15:28
+StreamTV,0.0,unverified,,company,2025-03-11 22:15:31
+ClimateView,0.0,unverified,,company,2025-03-11 22:15:34
+Fresh The Good Food Market,0.0,unverified,,company,2025-03-11 22:15:37
+Poptop Event Planning Concierge,0.0,unverified,,company,2025-03-11 22:15:39
+KidsBrandStore,0.0,unverified,,company,2025-03-11 22:15:41
+Roobeo,0.0,unverified,,company,2025-03-11 22:15:44
+Nu Quantum,0.0,unverified,,"company, round_type",2025-03-11 22:15:48
+Sofant Technologies,0.0,unverified,,company,2025-03-11 22:15:49
+Market Beyond,0.0,unverified,,company,2025-03-11 22:15:51
+Actimed Therapeutics,0.0,unverified,,company,2025-03-11 22:15:52
+Bringo,0.0,unverified,,company,2025-03-11 22:15:54
+Power Ledger,0.0,unverified,,company,2025-03-11 22:15:56
+Numida,0.0,unverified,,company,2025-03-11 22:15:58
+Recycla,0.0,unverified,,company,2025-03-11 22:15:59
+Re-Flow,0.0,unverified,,company,2025-03-11 22:16:11
+Twelve,0.0,unverified,,"company, round_type",2025-03-11 22:16:13
+mozzeno,0.0,unverified,,company,2025-03-11 22:16:14
+Groundwork BioAg,0.0,unverified,,company,2025-03-11 22:16:16
+Lending Works,0.0,unverified,,company,2025-03-11 22:16:19
+4Fun,0.0,unverified,,company,2025-03-11 22:16:23
+Pera,0.0,unverified,,company,2025-03-11 22:16:25
+Idana,0.75,verified,"company, amount, round_type",,2025-03-11 22:16:26
+Solugate,0.0,unverified,,company,2025-03-11 22:16:29
+Cyance,0.0,unverified,,company,2025-03-11 22:16:31
+Pass the Keys,0.0,unverified,,company,2025-03-11 22:16:33
+Ambicare Health Limited,0.0,unverified,,company,2025-03-11 22:16:35
+Pekama,0.0,unverified,,company,2025-03-11 22:16:37
+Molecular Warehouse,0.0,unverified,,company,2025-03-11 22:16:39
+Bockatech,0.0,unverified,,company,2025-03-11 22:16:42
+2mee,0.0,unverified,,company,2025-03-11 22:16:45
+LuckyTrip,0.0,unverified,,company,2025-03-11 22:16:46
+AlbaCo,0.0,unverified,,company,2025-03-11 22:16:48
+EFC Uganda,0.0,unverified,,company,2025-03-11 22:16:52
+Moodify,0.0,unverified,,company,2025-03-11 22:16:53
+BreezoMeter,0.0,unverified,,company,2025-03-11 22:16:55
+CyberVadis,0.0,unverified,,company,2025-03-11 22:17:10
+Liquidity Capital,0.0,unverified,,company,2025-03-11 22:17:14
+Coyotta,0.0,unverified,,company,2025-03-11 22:17:17
+Storyblok,0.0,unverified,,company,2025-03-11 22:17:19
+Grips Intelligence,0.0,unverified,,company,2025-03-11 22:17:20
+Dropit Shopping,0.0,unverified,,company,2025-03-11 22:17:21
+Cambri,0.0,unverified,,company,2025-03-11 22:17:23
+Binary Brains,0.0,unverified,,company,2025-03-11 22:17:24
+SiVIEW,0.0,unverified,,company,2025-03-11 22:17:25
+SNIPR Biome,0.0,unverified,,company,2025-03-11 22:17:32
+Dublin Vinyl,0.0,unverified,,company,2025-03-11 22:17:34
+Ideal of Sweden,0.0,unverified,,company,2025-03-11 22:17:36
+Kura,0.0,unverified,,company,2025-03-11 22:17:37
+Little Green Pharma,0.0,unverified,,company,2025-03-11 22:17:40
+Flixxo,0.0,unverified,,company,2025-03-11 22:17:41
+East Africa Fruits,0.0,unverified,,company,2025-03-11 22:17:43
+ROXi,0.0,unverified,,company,2025-03-11 22:17:45
+Igetnow,0.0,unverified,,company,2025-03-11 22:17:47
+Cytrox Software,0.0,unverified,,company,2025-03-11 22:17:48
+Flock,0.0,unverified,,company,2025-03-11 22:17:50
+Axis Spine Technologies,0.0,unverified,,company,2025-03-11 22:17:55
+EpiCura,0.0,unverified,,company,2025-03-11 22:17:58
+Zoovu,0.25,unverified,company,"amount, round_type",2025-03-11 22:17:59
+Log'S,0.0,unverified,,company,2025-03-11 22:18:04
+Qiriness,0.0,unverified,,company,2025-03-11 22:18:07
+EFC Uganda,0.0,unverified,,company,2025-03-11 22:18:08
+Plotagon,0.0,unverified,,company,2025-03-11 22:18:11
+Cimagine,0.0,unverified,,company,2025-03-11 22:18:12
+Adabra,0.0,unverified,,company,2025-03-11 22:18:13
+Advanced Sport Instruments,0.0,unverified,,company,2025-03-11 22:18:15
+Mo,0.0,unverified,,company,2025-03-11 22:18:17
+WaystoCap,0.0,unverified,,company,2025-03-11 22:18:19
+Beach Bum,0.0,unverified,,company,2025-03-11 22:18:20
+Dropit Shopping,0.0,unverified,,company,2025-03-11 22:18:32
+Wint,0.0,unverified,,company,2025-03-11 22:18:33
+Pila Pharma,0.0,unverified,,company,2025-03-11 22:18:34
+Vector Watch,0.0,unverified,,company,2025-03-11 22:18:37
+Eneza education,0.0,unverified,,company,2025-03-11 22:18:39
+ULEMCo,0.0,unverified,,company,2025-03-11 22:18:41
+Laccure AB,0.0,unverified,,company,2025-03-11 22:18:42
+Komaza,0.0,unverified,,company,2025-03-11 22:18:45
+Chameleon Technology,0.25,unverified,round_type,company,2025-03-11 22:18:46
+4energy Ltd.,0.0,unverified,,company,2025-03-11 22:18:48
+Bornfight,0.0,unverified,,company,2025-03-11 22:18:50
+AddBIO AB,0.25,unverified,round_type,company,2025-03-11 22:18:52
+Safetica,0.0,unverified,,company,2025-03-11 22:18:55
+CelluComp,0.0,unverified,,company,2025-03-11 22:18:58
+Prototool Manufacturing Limited,0.0,unverified,,company,2025-03-11 22:19:01
+Robart,0.0,unverified,,company,2025-03-11 22:19:15
+TCX,0.0,unverified,,company,2025-03-11 22:19:17
+Displaydata,0.0,unverified,,company,2025-03-11 22:19:20
+CelluComp,0.0,unverified,,company,2025-03-11 22:19:22
+Symcel,0.0,unverified,,company,2025-03-11 22:19:24
+SILIOS Technologies,0.0,unverified,,company,2025-03-11 22:19:25
+Neuro3d,0.0,unverified,,company,2025-03-11 22:19:28
+Witbe,0.0,unverified,,company,2025-03-11 22:19:28
+SILIOS Technologies,0.0,unverified,,company,2025-03-11 22:19:30
+Neuro3d,0.0,unverified,,company,2025-03-11 22:19:32
+Presence Online,0.25,unverified,amount,"company, round_type",2025-03-11 22:19:33

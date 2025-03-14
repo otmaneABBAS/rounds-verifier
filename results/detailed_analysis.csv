@@ -1,0 +1,1026 @@
+Company,Reported_Amount,Extracted_Amount,Amount_Difference,Amount_Difference_Percentage,Reported_Round,Extracted_Round,Round_Match,Confidence_Score,Verification_Status,Matches,Mismatches,News_URL,Analysis_Date
+Virtual Reality Simulation Training with Data Analytics,5.5,5.0,0.5,9.090909090909092,SERIES A,Series A,True,1.0,verified,"amount, round_type",,https://tech.eu/2025/02/27/vrai-secures-5m-series-a-for-dual-use-defence-tech/,2025-03-11 21:37:28
+Relay Technologies,35.0,33.4,1.6000000000000014,4.571428571428576,SERIES A,Not specified,False,0.5,unverified,amount,round_type,https://siliconcanals.com/uks-relay-raises-33-4m/,2025-03-11 21:37:28
+KOKO Networks,8.0,,,,SERIES A,Not specified,False,0.0,unverified,,round_type,https://techmoran.com/2025/01/27/kapu-raises-funding-to-expand-low-cost-e-commerce-in-africa/,2025-03-11 21:37:28
+Forbes Hungary,2.5,7.0,4.5,180.0,SEED,Seed,True,0.5,unverified,round_type,amount,https://therecursive.com/axoflow-investments-seed-round-ebrd-balazs-scheidler-interview/,2025-03-11 21:37:28
+Godmode,2.6,,,,SEED,Not mentioned,False,0.0,unverified,,round_type,https://webrazzi.com/2024/08/12/girisimlerin-satis-sureclerini-ile-hizlandiran-girisim-godmode/,2025-03-11 21:37:28
+Liquidium,2.8,0.275,2.525,90.17857142857143,SEED,Seed,True,0.5,unverified,round_type,amount,https://liquidium.fi/zh/blog/liquidium-closes-2-75m-seed-round-to-revolutionize-bitcoin-finance,2025-03-11 21:37:28
+Latitudo 40,0.792,0.72,0.07200000000000006,9.090909090909099,SEED,Not specified,False,0.5,unverified,amount,round_type,https://www.spaceconomy360.it/software-e-applicazioni/immagini-satellitari-e-intelligenza-artificiale-fondi-per-latitudo-40/,2025-03-11 21:37:28
+ImmuneAge Bio,2.0,,,,SEED,,False,0.0,unverified,,,https://www.prnewswire.com/news-releases/immuneage-bio-launches-to-rejuvenate-the-immune-system-targeting-bone-marrow-stem-cells-302195874.html,2025-03-11 21:37:28
+MetaWealth,2.2,2.0,0.20000000000000018,9.090909090909099,SEED,Pre-A series,False,0.5,unverified,amount,round_type,https://www.romania-insider.com/metawealth-valuation-july-2024,2025-03-11 21:37:28
+Starting Finance,2.75,2.5,0.25,9.090909090909092,EARLY VC,Not specified,False,0.5,unverified,amount,round_type,https://italiaeconomy.it/starting-finance-chiude-perazione-da-25-milioni/,2025-03-11 21:37:28
+XOOB,1.6,,,,SEED,,False,0.0,unverified,,,https://foresightnews.pro/news/detail/48646,2025-03-11 21:37:28
+SidcoDX,1.98,1.8,0.17999999999999994,9.090909090909088,SEED,Not specified,False,0.5,unverified,amount,round_type,https://www.eu-startups.com/2024/07/london-based-contech-obralink-raises-e1-8-million-to-automate-and-speed-up-the-construction-process/,2025-03-11 21:37:28
+Disruptive Industries,3.8,,,,SEED,,False,0.0,unverified,,,https://6degrees.vc/portfolio/#disruptive-industries,2025-03-11 21:37:28
+Haltia AI,2.1,,,,SEED,,False,0.0,unverified,,,https://www.zawya.com/en/press-release/companies-news/haltiaai-celebrates-first-anniversary-with-launch-of-asimov-io25b4ne,2025-03-11 21:37:28
+Meditect,0.0,4.3,4.3,,SEED,Not specified,False,0.0,unverified,,round_type,https://empowerafrica.com/launch-africa-ventures-injects-4-3-million-into-16-african-startups/,2025-03-11 21:37:28
+Settle Payments,0.0,,,,SEED,,False,0.0,unverified,,,https://techmoonshot.com/2024/06/02/africas-new-accelerator-accelerate-africa-selects-its-inaugural-class-of-10-promising-ventures/,2025-03-11 21:37:28
+Taskbase,0.0,,,,SEED,Acquisition,False,0.0,unverified,,round_type,https://www.bloomhaus.vc/story/promising-edtech-taskbase-now-part-of-bloomhaus-portfolio,2025-03-11 21:37:28
+Taskbase,0.0,,,,SEED,Acquisition,False,0.0,unverified,,round_type,https://www.bloomhaus.vc/story/promising-edtech-taskbase-now-part-of-bloomhaus-portfolio,2025-03-11 21:37:28
+Taskbase,1.3,,,,SEED,Not specified in the provided news article,False,0.0,unverified,,round_type,https://www.startupticker.ch/index.php/en/news/taskbase-frisches-geld-fuer-expansion,2025-03-11 21:37:28
+Taskbase,1.3,,,,SEED,Not specified in the provided news article,False,0.0,unverified,,round_type,https://www.startupticker.ch/index.php/en/news/taskbase-frisches-geld-fuer-expansion,2025-03-11 21:37:28
+Sundew,0.0,,,,SERIES B,,False,0.0,unverified,,,https://www.linkedin.com/posts/sundew-aps_financing-trend-biodiversity-activity-7208738571434770433-zYdd/,2025-03-11 21:37:28
+Ubooker,0.775,,,,SEED,,False,0.0,unverified,,,https://www.voguebusiness.com/story/fashion/fashions-freelancers-are-under-pressure-whats-the-solution?uID=6881d9de9ab9cf69efd298367e3fcb70e6827a82b57024bab42f357e655f282d&utm_campaign=VB_NEXT_GEN_290524&utm_source=newsletter&utm_brand=vb&utm_mailing=VB_NEXT_GEN_290524&utm_medium=email&utm_term=VB_NextGen,2025-03-11 21:37:28
+MiiCare,0.0,,,,SEED,,False,0.0,unverified,,,https://marketingreport.one/news/plug-and-play-alberta-announces-72-startups-for-its-fifth-cohort.html,2025-03-11 21:37:28
+Belú Travel,2.0,,,,SEED,Seed,True,1.0,verified,round_type,,https://stack.angellist.com/fundraising/76a815db-6a5c-4189-8f22-633b179e7218/register,2025-03-11 21:37:28
+Flexa Careers,0.0,,,,SEED,,False,0.0,unverified,,,https://haatch.com/portfolio/flexa/,2025-03-11 21:37:28
+Auddy,0.0,,,,SEED,,False,0.0,unverified,,,https://haatch.com/portfolio/auddy/,2025-03-11 21:37:28
+Tranched,0.5,,,,SEED,Spring 2024 Cohort,False,0.0,unverified,,round_type,https://a16zcrypto.com/posts/article/crypto-startup-accelerator-csx-spring-2024-cohort/,2025-03-11 21:37:28
+Bloop,0.935,,,,SEED,Not specified,False,0.0,unverified,,round_type,https://monarquefunds.com/new-investment-closed-with-a-tech-company/,2025-03-11 21:37:28
+Tonstarter,0.0,8.0,8.0,,SEED,Not specified,False,0.0,unverified,,round_type,https://www.newswire.com/news/yolo-investments-backs-ton-in-widespread-8m-investment-22279275,2025-03-11 21:37:28
+Fanton,0.0,8.0,8.0,,SEED,Not specified,False,0.0,unverified,,round_type,https://www.newswire.com/news/yolo-investments-backs-ton-in-widespread-8m-investment-22279275,2025-03-11 21:37:28
+Fuse Vectors,0.0,,,,SEED,,False,0.0,unverified,,,https://www.linkedin.com/posts/fuse-vectors_hello-world-we-cannot-think-of-a-better-activity-7157730628543631360-mePd/?utm_source=share&utm_medium=member_desktop,2025-03-11 21:37:28
+Trigify,0.0,,,,SEED,,False,0.0,unverified,,,https://haatch.com/portfolio/trigify/,2025-03-11 21:37:28
+Zen Educate,0.0,,,,SERIES B,,False,0.0,unverified,,,https://www.fjlabs.com/portfolio?*=Zen+Educate,2025-03-11 21:37:28
+FAAREN,0.0,,,,SERIES A,,False,0.0,unverified,,,https://www.autoflotte.de/nachrichten/fuhrpark/auto-abos-branchenpionier-investiert-in-faaren-3484512,2025-03-11 21:37:28
+DC Connected,0.0,,,,SEED,,False,0.0,unverified,,,https://network.vc/portfolio/,2025-03-11 21:37:28
+DC Connected Car,0.0,,,,SEED,,False,0.0,unverified,,,https://network.vc/portfolio/,2025-03-11 21:37:28
+Neurovirt,0.0,,,,SEED,,False,0.0,unverified,,,https://therecursive.com/neurovirt-the-greek-founded-vr-rehabilitation-software-that-helps-stroke-survivors/,2025-03-11 21:37:28
+BIOVIT,0.329208,,,,SEED,,False,0.0,unverified,,,https://sfccapital.com/portfolio,2025-03-11 21:37:28
+NoPalm Ingredients,0.0,,,,SEED,,False,0.0,unverified,,,https://www.gaapvc.com/participants,2025-03-11 21:37:28
+Ucaneo,0.0,,,,SEED,,False,0.0,unverified,,,https://www.granthamfoundation.org/investing/,2025-03-11 21:37:28
+Madmonq,0.0,,,,SEED,,False,0.0,unverified,,,https://www.soulmatesventures.com/case/madmonq/,2025-03-11 21:37:28
+Folks Finance,0.0,,,,SEED,,False,0.0,unverified,,,https://majinx.io/portfolio/,2025-03-11 21:37:28
+JustParent,1.584,1.4,0.18400000000000016,11.616161616161627,SEED,Pre-Seed,False,0.0,unverified,,"amount, round_type",https://www.thesaasnews.com/news/harriet-raises-1-4-million-in-pre-seed-round,2025-03-11 21:37:28
+1Control srl,1.1,1.0,0.10000000000000009,9.090909090909099,EARLY VC,Seed,False,0.5,unverified,amount,round_type,https://bebeez.it/venture-capital/1control-incassa-round-da-un-mln-euro-guidato-da-cdp-venture-capital-sgr/,2025-03-11 21:37:28
+Footbar,3.3,601.0,597.7,18112.121212121216,EARLY VC,Not specified in the provided news article,False,0.0,unverified,,"amount, round_type",https://www.ecap-partner.com/news/research/synthese-des-levees-de-fonds-du-numerique-en-decembre-2023/,2025-03-11 21:37:28
+LeaseTeq,7.333334,8.0,0.6666660000000002,9.090899173554623,SERIES A,Not specified,False,0.5,unverified,amount,round_type,https://www.startupticker.ch/en/news/leaseteq-raises-chf8-million-to-digitize-leasing,2025-03-11 21:37:28
+DentalPro,1.953552,130.0,128.046448,6554.545156719658,LATE VC,Not specified,False,0.0,unverified,,"amount, round_type",https://gadgetonus.com/hot-news/150067.html,2025-03-11 21:37:28
+RTI Blockchain,2.75,2.5,0.25,9.090909090909092,SEED,Not specified,False,0.5,unverified,amount,round_type,https://siliconcanals.com/crowdfunding/rti-blockchain-raises-2-5m/,2025-03-11 21:37:28
+Keepz,1.8,,,,SEED,,False,0.0,unverified,,,https://forbes.ge/en/skillwill-and-keepz-head-to-london-tech-week/,2025-03-11 21:37:28
+Zeely,0.0,,,,SEED,,False,0.0,unverified,,,https://network.vc/portfolio/,2025-03-11 21:37:28
+Kindred,4.0,,,,SERIES A,,False,0.0,unverified,,,https://timesofindia.indiatimes.com/city/chennai/among-global-giants-of-turbines-passion-drives-their-local-dream/articleshow/102067464.cms,2025-03-11 21:37:28
+EHOSS,1.1,,,,SEED,,False,0.0,unverified,,,https://www.eu-startups.com/2023/05/10-slovakian-startups-to-keep-an-eye-on-in-2023-and-beyond/,2025-03-11 21:37:28
+TLDraw,2.0,2.0,0.0,0.0,SEED,Insiders' extension round,False,0.5,unverified,amount,round_type,https://tldraw.substack.com/p/tldraw-raised-another-2m,2025-03-11 21:37:28
+Proxisense,1.32,,,,SERIES A,,False,0.0,unverified,,,https://parkwalkadvisors.com/portfolio/proxisense/,2025-03-11 21:37:28
+ELEXIR,2.86,2.6,0.2599999999999998,9.090909090909085,SEED,Seed,True,1.0,verified,"amount, round_type",,https://www.veecle.io/news/2023-11-28-seed/,2025-03-11 21:37:28
+Pandobac,0.32626,1.5,1.17374,359.75602280389876,SEED,Not specified,False,0.0,unverified,,"amount, round_type",https://www.processalimentaire.com/emballage/pandobac-leve-1-5-million-d-euros-pour-accelerer-son-developpement,2025-03-11 21:37:28
+Term Stucture Lab,4.3,4.25,0.04999999999999982,1.1627906976744147,SEED,Series Seed,False,0.5,unverified,amount,round_type,https://www.newswire.ca/news-releases/term-structure-secured-an-initial-funding-of-usd-4-25-million-in-a-series-seed-fundraising-round-with-cumberland-drw-leading-the-investment-848362654.html,2025-03-11 21:37:28
+Mettle,3.3,,,,SEED,,False,0.0,unverified,,,https://www.msn.com/en-gb/money/other/bear-grylls-backed-mental-health-app-shows-mettle-with-25m-raise/ar-AA1ksKdm,2025-03-11 21:37:28
+Uzaje,12.1,175.0,162.9,1346.280991735537,SERIES B,Not specified,False,0.0,unverified,,"amount, round_type",https://www.maddyness.com/2023/11/17/maddymoney-175-millions-deuros-leves-cette-semaine-par-les-startups-francaises/,2025-03-11 21:37:28
+Skynet Technology,16.5,,,,EARLY VC,,False,0.0,unverified,,,https://legalcommunity.it/russo-de-rosa-con-fondo-italiano-dinvestimento-per-loperazione-skynet/,2025-03-11 21:37:28
+Deepsense.ai,0.748,0.68,0.06799999999999995,9.090909090909085,SEED,Pre-seed,False,0.5,unverified,amount,round_type,https://www.eu-startups.com/2023/11/warsaw-based-holi-raises-e680k-pre-seed-to-spearhead-an-holistic-approach-to-metabolic-health/,2025-03-11 21:37:28
+Killwatt,4.4,,,,EARLY VC,,False,0.0,unverified,,,https://www.angelone.in/blog/tvs-motor-e-mobility-expansion-a-closer-look,2025-03-11 21:37:28
+WELMO.,0.91707,,,,SEED,,False,0.0,unverified,,,https://infonet.fr/actualite/levees-de-fonds/financement-welmo-agence-en-ligne/,2025-03-11 21:37:28
+Smarter Diagnostics,0.72,,,,SEED,Not specified,False,0.0,unverified,,round_type,https://www.linkedin.com/posts/pawellipkowski_so-sunfish-partners-has-invested-in-smarter-activity-6981352730858532864-f0MQ/?trk=public_profile_like_view,2025-03-11 21:37:28
+Maad,0.0,,,,SEED,,False,0.0,unverified,,,https://www.venturesplatform.com/portfolio,2025-03-11 21:37:28
+Avataris,1.2,1.0,0.19999999999999996,16.666666666666664,SEED,Seed,True,0.5,unverified,round_type,amount,https://fastercapital.com/news/based-in-austria-fintech-avataris-is-raising-1m-with-fastercapital.html,2025-03-11 21:37:28
+Momint,1.3,1.25,0.050000000000000044,3.8461538461538494,SEED,Not specified,False,0.5,unverified,amount,round_type,https://afrikanheroes.com/2023/10/12/south-african-digital-asset-platform-momint-attracts-1-25m-in-investor-support/,2025-03-11 21:37:28
+Rad Propulsion,0.0,,,,SEED,,False,0.0,unverified,,,https://techeast.com/uk-based-robotics-ai-and-automation-companies-to-benefit-from-british-robotics-scale-up-fund-deployment/,2025-03-11 21:37:28
+BladeBUG,0.0,,,,SEED,,False,0.0,unverified,,,https://techeast.com/uk-based-robotics-ai-and-automation-companies-to-benefit-from-british-robotics-scale-up-fund-deployment/,2025-03-11 21:37:28
+OxDrive,3.08,,,,SEED,,False,0.0,unverified,,,https://labsoflatvia.com/en/news/ox-drive-attracts-e2-8-million-to-expand-fleet-of-electric-cars,2025-03-11 21:37:28
+X-BOLT Orthopedics,3.5,3.5,0.0,0.0,EARLY VC,Not specified,False,0.5,unverified,amount,round_type,https://www.businesspost.ie/tech/x-bolt-orthopaedics-secures-3-5m-from-backers/,2025-03-11 21:37:28
+Adverttu,3.96,3.0,0.96,24.242424242424242,SERIES A,Not specified,False,0.0,unverified,,"amount, round_type",https://bdaily.co.uk/articles/2023/10/24/media-agency-raises-3m-to-revolutionise-ooh-advertising-with-novel-concept,2025-03-11 21:37:28
+BrandShield,3.4,3.38,0.020000000000000018,0.5882352941176475,EARLY VC,Not specified,False,0.5,unverified,amount,round_type,https://www.webwire.com/ViewPressRel.asp?aId=313014,2025-03-11 21:37:28
+Tribo Games,0.0,,,,SEED,Not specified in the provided news article,False,0.0,unverified,,round_type,https://medium.com/@Tribo_Games/tribo-games-secures-investment-and-partners-with-merit-circle-7be729eee174,2025-03-11 21:37:28
+F-Reg,2.2,140.7,138.5,6295.454545454545,EARLY VC,Not specified,False,0.0,unverified,,"amount, round_type",https://www.maddyness.com/2023/10/13/maddymoney-1357-millions-deuros-leves-cette-semaine-par-les-startups-francaises/,2025-03-11 21:37:28
+Intouch,1.65,1.5,0.1499999999999999,9.090909090909086,EARLY VC,Not specified,False,0.5,unverified,amount,round_type,https://www.independent.ie/business/irish/irish-retail-media-tech-firm-intouch-raises-15m-for-global-growth-plan/a1323859492.html,2025-03-11 21:37:28
+Narravero,2.2,2.0,0.20000000000000018,9.090909090909099,EARLY VC,Not specified,False,0.5,unverified,amount,round_type,https://www.deutsche-startups.de/2023/10/04/dealmonitor-kranus-health-happyhotel/,2025-03-11 21:37:28
+Ixcys,2.75,,,,EARLY VC,,False,0.0,unverified,,,https://www.ecap-partner.com/news/research/synthese-des-levees-de-fonds-du-numerique-en-septembre-2023/,2025-03-11 21:37:28
+Inoqo,0.0,,,,SEED,,False,0.0,unverified,,,https://www.deutsche-startups.de/2023/10/06/msh-kauft-german-autolabs-gutefrage-net-uebernimmt-motor-talk-ptc-kauft-pure-systems/,2025-03-11 21:37:28
+Advanced Commerce,0.0,,,,SEED,,False,0.0,unverified,,,https://haatch.com/portfolio/advanced-commerce/,2025-03-11 21:37:28
+Konfir Uk Ltd,2.64,,,,SEED,Not mentioned,False,0.0,unverified,,round_type,https://loveventures.co.uk/why-we-invested-in-konfir/,2025-03-11 21:37:28
+Konfir Uk Ltd,2.64,,,,SEED,Not mentioned,False,0.0,unverified,,"amount, round_type",https://loveventures.co.uk/why-we-invested-in-konfir/,2025-03-11 21:37:28
+Konfir Uk Ltd,2.112,1.6,0.512,24.242424242424242,SEED,Pre-Seed,False,0.0,unverified,,round_type,https://www.uktechnews.info/2022/03/15/konfir-uk-secures-1-6-million-pre-seed-investment-led-by-triple-point-ventures/,2025-03-11 21:37:28
+Konfir Uk Ltd,2.112,1.6,0.512,24.242424242424242,SEED,Pre-Seed,False,0.0,unverified,,"amount, round_type",https://www.uktechnews.info/2022/03/15/konfir-uk-secures-1-6-million-pre-seed-investment-led-by-triple-point-ventures/,2025-03-11 21:37:28
+Mindgard Ltd,3.96,3.0,0.96,24.242424242424242,SEED,Seed Funding,False,0.0,unverified,,"amount, round_type",https://www.lancaster.ac.uk/news/lancaster-university-spinout-mindgard-ltd-raises-3m-in-seed-funding,2025-03-11 21:37:28
+Akiba Digital,0.0,,,,SEED,Not specified,False,0.0,unverified,,round_type,https://www.av.vc/portfolio,2025-03-11 21:37:28
+Honest Burgers,3.19,,,,SEED,,False,0.0,unverified,,,https://www.restaurantonline.co.uk/Article/2023/10/11/honest-burgers-smashes-crowdfunding-target,2025-03-11 21:37:28
+Kelda Showers,2.904,,,,SERIES A,Not specified,False,0.0,unverified,,round_type,https://www.keldashowers.com/company-news/kelda-showers-secures-over-2-2-million-in-funding/,2025-03-11 21:37:28
+PeopleSpheres,4.73,,,,LATE VC,,False,0.0,unverified,,,https://app.tudigo.co/equity/peoplespheres?utm_campaign=GS+-+Investir_Investissement&utm_term=peoplespheres&utm_medium=ppc&utm_source=adwords&hsa_grp=154142416758&hsa_ver=3&hsa_src=g&hsa_acc=8253627618&hsa_tgt=kwd-1021576234751&hsa_mt=p&hsa_net=adwords&hsa_cam=20181160311&hsa_ad=673355931098&hsa_kw=peoplespheres&gad_source=1,2025-03-11 21:37:28
+Avantgarde,5.5,,,,SERIES A,,False,0.0,unverified,,,https://thefintechtimes.com/hub71-welcomes-23-startups-as-part-of-13th-cohort-and-strengthens-climatetech-focus/,2025-03-11 21:37:28
+Timeline,13.2,10.0,3.1999999999999993,24.24242424242424,SERIES B,Not specified,False,0.0,unverified,,"amount, round_type",https://bdaily.co.uk/articles/2023/10/03/north-east-executives-celebrate-double-milestone-as-london-fintech-raises-10m,2025-03-11 21:37:28
+Evertwine,1.2,,,,SEED,,False,0.0,unverified,,,https://www.globenewswire.com/news-release/2023/09/11/2741121/0/en/Introducing-the-new-and-improved-Evertwine-revamped-and-refueled.html,2025-03-11 21:37:28
+Avoca Clinic,7.7,7.0,0.7000000000000002,9.090909090909092,EARLY VC,Not specified,False,0.5,unverified,amount,round_type,https://businessplus.ie/ma/funding/bgf-the-avoca-clinic/,2025-03-11 21:37:28
+Greenwood-Power,5.61,,,,EARLY VC,,False,0.0,unverified,,,https://www.deutsche-startups.de/2023/09/30/startupticker-39-2023/,2025-03-11 21:37:28
+Hexis,0.066,,,,EARLY VC,,False,0.0,unverified,,,https://businesscloud.co.uk/news/baltic-ventures-accelerator-unveils-9-strong-first-cohort/,2025-03-11 21:37:28
+Nanusens,0.0,,,,SERIES A,,False,0.0,unverified,,,https://www.eenewseurope.com/en/nanusens-starts-series-a-funding-round-with-ai-pitch/,2025-03-11 21:37:28
+Nanusens,0.0,,,,SERIES A,,False,0.0,unverified,,,https://www.eenewseurope.com/en/nanusens-starts-series-a-funding-round-with-ai-pitch/,2025-03-11 21:37:28
+Nanusens,0.581724,,,,SEED,,False,0.0,unverified,,,https://www.eenewseurope.com/en/nanusens-embeds-its-mems-sensors-in-digital-design-crowdfunds-for-development/,2025-03-11 21:37:28
+Nanusens,0.581724,,,,SEED,,False,0.0,unverified,,,https://www.eenewseurope.com/en/nanusens-embeds-its-mems-sensors-in-digital-design-crowdfunds-for-development/,2025-03-11 21:37:28
+Birl,0.066,,,,SEED,,False,0.0,unverified,,,https://businesscloud.co.uk/news/baltic-ventures-accelerator-unveils-9-strong-first-cohort/,2025-03-11 21:37:28
+reasy,2.2,,,,SEED,,False,0.0,unverified,,,https://www.deutsche-startups.de/2023/09/07/dealmonitor-leanix-gmh/,2025-03-11 21:37:28
+Urban Canopee,2.97,291.4,288.42999999999995,9711.44781144781,EARLY VC,Not specified,False,0.0,unverified,,"amount, round_type",https://www.maddyness.com/2023/09/29/maddymoney-2914-millions-deuros-leves-cette-semaine-par-les-startups-francaises/,2025-03-11 21:37:28
+Urban Canopee,2.97,291.4,288.42999999999995,9711.44781144781,EARLY VC,Not specified,False,0.0,unverified,,,https://www.maddyness.com/2023/09/29/maddymoney-2914-millions-deuros-leves-cette-semaine-par-les-startups-francaises/,2025-03-11 21:37:28
+Urban Canopee,1.87,,,,SEED,,False,0.0,unverified,,"amount, round_type",https://www.maddyness.com/entreprise/urban-canopee/,2025-03-11 21:37:28
+Urban Canopee,1.87,,,,SEED,,False,0.0,unverified,,,https://www.maddyness.com/entreprise/urban-canopee/,2025-03-11 21:37:28
+VerifyMy,6.6,,,,EARLY VC,,False,0.0,unverified,,,https://beamstart.com/news/verifymy-raises-5m-appoints-growth-16946788087522,2025-03-11 21:37:28
+Bidrento,0.0,,,,SEED,,False,0.0,unverified,,,https://www.morganstanley.com/press-releases/morgan-stanley-expands-global-inclusive-ventures-lab,2025-03-11 21:37:28
+SharpGrid,1.87,1.7,0.17000000000000015,9.090909090909099,SEED,Not specified,False,0.5,unverified,amount,round_type,https://www.sharpgrid.com/ontrade-insights-eng/press-release-sharpgrid-has-raised-over-1-7-million-eur,2025-03-11 21:37:28
+Automated Architecture,0.0,,,,SEED,,False,0.0,unverified,,,https://www.morganstanley.com/press-releases/morgan-stanley-expands-global-inclusive-ventures-lab,2025-03-11 21:37:28
+StudentCrowd,3.3,2.5,0.7999999999999998,24.24242424242424,SEED,Strategic Investment,False,0.0,unverified,,"amount, round_type",https://www.donews.com/news/detail/8/3707466.html,2025-03-11 21:37:28
+TheCircle,2.31,,,,EARLY VC,,False,0.0,unverified,,,https://bebeez.it/wp-content/uploads/2023/10/CS-14_-THE-CIRCLE_ROUND-16-MILIONI-_DEFDEF1.pdf,2025-03-11 21:37:28
+TheCircle,2.31,,,,EARLY VC,,False,0.0,unverified,,"amount, round_type",https://bebeez.it/wp-content/uploads/2023/10/CS-14_-THE-CIRCLE_ROUND-16-MILIONI-_DEFDEF1.pdf,2025-03-11 21:37:28
+TheCircle,0.48554,2.1,1.61446,332.5081352720682,SEED,Not specified,False,0.0,unverified,,,https://bebeez.it/venture-capital/the-circle-coltivazione-acquaponica-incassa-round-da-21-mln-euro-guidato-da-opes-italia-partecipa-anche-sparviero-holding/,2025-03-11 21:37:28
+TheCircle,0.48554,2.1,1.61446,332.5081352720682,SEED,Not specified,False,0.0,unverified,,"amount, round_type",https://bebeez.it/venture-capital/the-circle-coltivazione-acquaponica-incassa-round-da-21-mln-euro-guidato-da-opes-italia-partecipa-anche-sparviero-holding/,2025-03-11 21:37:28
+Mintouge,2.5,2.5,0.0,0.0,SEED,Not specified,False,0.5,unverified,amount,round_type,https://bebeez.it/fintech/vaultik-incassa-round-da-25-mln-guidato-da-the-operating-group/,2025-03-11 21:37:28
+Agora Robotics,0.0,,,,SEED,Accelerator program,False,0.0,unverified,,round_type,"https://www.romania-insider.com/orange-fab-six-startups-5g-call-oct-2023#:~:text=Agora%20Robotics%20is%20a%20deep,industrial%20robot%20for%20floor%20cleaning.",2025-03-11 21:37:28
+COINSCAN,6.3,6.3,0.0,0.0,SEED,Not specified,False,0.5,unverified,amount,round_type,https://pulse2.com/coinscan-crypto-analytics-company-6-3-million/,2025-03-11 21:37:28
+Fairmoove,6.05,,,,SEED,,False,0.0,unverified,,,https://www.ecap-partner.com/news/research/synthese-des-levees-de-fonds-du-numerique-en-septembre-2023/,2025-03-11 21:37:28
+Picnic Media Limited,1.3,1.25,0.050000000000000044,3.8461538461538494,SERIES A,Not specified,False,0.5,unverified,amount,round_type,https://www.linkedin.com/posts/picnic-io_picnic-raises-125m-to-support-ad-density-activity-7108382223459835904-Ojcf/?trk=public_profile_like_view,2025-03-11 21:37:28
+Wheel of Work,2.2,,,,SEED,,False,0.0,unverified,,,https://www.ecap-partner.com/news/research/synthese-des-levees-de-fonds-du-numerique-en-septembre-2023/,2025-03-11 21:37:28
+Stellar Omada,5.94,4.5,1.4400000000000004,24.24242424242425,EARLY VC,Not specified,False,0.0,unverified,,"amount, round_type",https://www.digit.fyi/stellar-omada-receives-4-5-million-investment-from-bgf/,2025-03-11 21:37:28
+terralayr,22.0,4.3,17.7,80.45454545454545,LATE VC,Not specified,False,0.0,unverified,,"amount, round_type",https://www.deutsche-startups.de/2023/09/04/dealmonitor-terralayr-askui/,2025-03-11 21:37:28
+Fractal Energy,2.2,2.0,0.20000000000000018,9.090909090909099,SEED,Not specified,False,0.5,unverified,amount,round_type,https://fractalenergy.io/particulier/news/1293/,2025-03-11 21:37:28
+OneID,1.32,1.3,0.020000000000000018,1.5151515151515165,SEED,Not specified,False,0.5,unverified,amount,round_type,https://www.biometricupdate.com/202309/oneid-secures-1-3m-in-fresh-funding-to-expand-bank-verified-digital-id-services,2025-03-11 21:37:28
+StreamForge,1.2,1.2,0.0,0.0,SEED,Seed,True,1.0,verified,"amount, round_type",,https://www.finsmes.com/2023/09/streamforge-raises-usd1-2m-in-seed-funding.html,2025-03-11 21:37:28
+Mash Makes,12.5,12.5,0.0,0.0,SERIES A,Not specified,False,0.5,unverified,amount,round_type,https://www.linkedin.com/posts/mashmakes_2023-was-about-growth-and-learning-for-mash-activity-7157734346240528385-CPnx/,2025-03-11 21:37:28
+Mash Makes,12.5,12.5,0.0,0.0,SERIES A,Not specified,False,0.0,unverified,,round_type,https://www.linkedin.com/posts/mashmakes_2023-was-about-growth-and-learning-for-mash-activity-7157734346240528385-CPnx/,2025-03-11 21:37:28
+Mash Makes,0.5735,,,,SEED,Investment by DFDS (not specified as a specific funding round),False,0.5,unverified,amount,round_type,https://biofuels-news.com/news/ferry-operator-dfds-invests-in-biofuel-producer-mash-energy/,2025-03-11 21:37:28
+Mash Makes,0.5735,,,,SEED,Investment by DFDS (not specified as a specific funding round),False,0.0,unverified,,round_type,https://biofuels-news.com/news/ferry-operator-dfds-invests-in-biofuel-producer-mash-energy/,2025-03-11 21:37:28
+Malted AI,1.32,6.0,4.68,354.5454545454545,SEED,Not specified,False,0.0,unverified,,"amount, round_type",https://businesscloud.co.uk/news/6m-for-scottish-firm-shrinking-ai-into-small-language-models/,2025-03-11 21:37:28
+AMPLY Discovery,0.02,,,,EARLY VC,Pre-accelerator/accelerator program,False,0.0,unverified,,round_type,https://www.techstars.com/newsroom/techstars-chicago-powered-by-j-p-morgan-announces-september-2023-class,2025-03-11 21:37:28
+Redag Crop Protection,2.112,1.6,0.512,24.242424242424242,EARLY VC,Equity fundraising,False,0.0,unverified,,"amount, round_type",https://www.acceleris.com/news-resources/redag-crop-protection-secures-ps1-6m-of-growth-capital-in-fight-to-support-global-food-security,2025-03-11 21:37:28
+Kin,1.1,,,,SEED,,False,0.0,unverified,,,https://kapwatch.dk/article16388777.ece,2025-03-11 21:37:28
+Quantl AI,1.2,,,,SEED,,False,0.0,unverified,,,https://citywire.com/middle-east/news/former-ceo-of-iam-bets-big-on-ai-in-trading-digital-assets,2025-03-11 21:37:28
+Periphery,0.02,,,,SEED,,False,0.0,unverified,,,https://www.techstars.com/newsroom/techstars-london-accelerator-announces-fall-class-of-2023,2025-03-11 21:37:28
+Urban Group,10.428,7.85,2.578000000000001,24.721902570003845,EARLY VC,Not specified,False,0.0,unverified,,"amount, round_type",https://www.business-live.co.uk/enterprise/bristol-hospital-receives-785-million-27457827,2025-03-11 21:37:28
+Yescapa,7.7,179.3,171.60000000000002,2228.571428571429,EARLY VC,Not specified,False,0.0,unverified,,"amount, round_type",https://www.maddyness.com/2023/09/08/maddymoney-1793-millions-deuros-leves-cette-semaine-par-les-startups-francaises/,2025-03-11 21:37:28
+TeamSec,0.0,,,,SEED,,False,0.0,unverified,,,https://egirisim.com/2023/08/09/teamsec-42-milyon-dolar-degerleme-uzerinden-yatirim-aldi/,2025-03-11 21:37:28
+HOLY Energy,11.55,10.5,1.0500000000000007,9.090909090909097,SERIES A,Series A,True,1.0,verified,"amount, round_type",,https://globallegalchronicle.com/holy-energy-gmbhs-10-5-million-euro-series-a-financing-round/,2025-03-11 21:37:28
+BHSN,5.030488,60.0,54.969512,1092.7272264639137,SERIES A,Series A,True,0.5,unverified,round_type,amount,https://platum.kr/archives/212852,2025-03-11 21:37:28
+MEVA energy,9.9,9.0,0.9000000000000004,9.090909090909093,SERIES A,Not specified,False,0.5,unverified,amount,round_type,https://siliconcanals.com/crowdfunding/meva-energy-raises-9m/,2025-03-11 21:37:28
+Hyphen,1.1,,,,SEED,,False,0.0,unverified,,,https://kapwatch.dk/article16388777.ece,2025-03-11 21:37:28
+BirdsView,1.0,11.0,10.0,1000.0,SEED,Not specified,False,0.0,unverified,,"amount, round_type",https://www.deutsche-startups.de/2023/08/22/dealmonitor-clinomic-qualifyze-wirelane/,2025-03-11 21:37:28
+NerdApp,2.2,2.2,0.0,0.0,SEED,Seed Funding,False,0.5,unverified,amount,round_type,https://www.finsmes.com/2023/08/supportwave-raises-2-2m-in-seed-funding.html,2025-03-11 21:37:28
+Curve DAO Token,5.0,,,,EARLY VC,,False,0.0,unverified,,,https://www.tradingview.com/news/cointelegraph:6a0847b8d094b:0-defi-tries-to-recover-from-curve-hack-but-exploits-continue-finance-redefined/,2025-03-11 21:37:28
+Netspeak Games,12.0,,,,SERIES A,,False,0.0,unverified,,,https://www.pocketgamer.biz/news/82139/netspeak-takes-sunshine-days-cross-platform-with-pc-debut-and-planned-creator-mode/,2025-03-11 21:37:28
+Wingbot,9.0486,,,,SEED,,False,0.0,unverified,,,https://therecursive.com/david-menger-ceo-of-wingbot-ai-talks-ai-tech-the-future-of-e-commerce-and-plans-to-secure-seed-funding/,2025-03-11 21:37:28
+CGHero,0.0,,,,SERIES A,Not mentioned in the provided news article,False,0.0,unverified,,round_type,https://medium.com/verb-ventures/lights-camera-action-our-investment-in-cg-hero-44ad5146a1c7,2025-03-11 21:37:28
+CGHero,0.0,,,,SERIES A,Not mentioned in the provided news article,False,0.5,unverified,amount,round_type,https://medium.com/verb-ventures/lights-camera-action-our-investment-in-cg-hero-44ad5146a1c7,2025-03-11 21:37:28
+CGHero,5.28,5.2,0.08000000000000007,1.5151515151515165,SEED,Not specified,False,0.0,unverified,,round_type,https://www.businessinsider.com/pitch-deck-cghero-4-million-games-artists-metaverse-2022-4,2025-03-11 21:37:28
+CGHero,5.28,5.2,0.08000000000000007,1.5151515151515165,SEED,Not specified,False,0.5,unverified,amount,round_type,https://www.businessinsider.com/pitch-deck-cghero-4-million-games-artists-metaverse-2022-4,2025-03-11 21:37:28
+KimboCare,0.363,,,,SEED,Partnership,False,0.0,unverified,,round_type,https://kimbocare.com/blog/kimbocare-partners-with-malaica-and-wheels-for-life,2025-03-11 21:37:28
+StrollMe,0.0,3.0,3.0,,SEED,Not specified,False,0.0,unverified,,round_type,https://www.deutsche-startups.de/2023/07/11/dealmonitor-solaris-ivy-buycycle/,2025-03-11 21:37:28
+Simpleclub,3.3,3.0,0.2999999999999998,9.090909090909086,EARLY VC,Not specified,False,0.5,unverified,amount,round_type,https://www.deutsche-startups.de/2023/07/12/dealmonitor-studyflix-chrono24/,2025-03-11 21:37:28
+Roadie,3.7,,,,SEED,,False,0.0,unverified,,,https://pulse2.com/roadie-general-availability-of-its-tech-insights-feature-revealed/,2025-03-11 21:37:28
+Holiferm,2.64,2.0,0.6400000000000001,24.242424242424246,EARLY VC,Not specified,False,0.0,unverified,,"amount, round_type",https://businesscloud.co.uk/news/2m-investment-in-biotech-firm-will-create-green-jobs/,2025-03-11 21:37:28
+CHAIN Biotechnology,2.376,,,,SEED,Not specified in the news article,False,0.0,unverified,,round_type,https://www.labiotech.eu/trends-news/chain-biotech-funding-cadd-therapeutic-platform/,2025-03-11 21:37:28
+AnyBook,2.0,,,,SEED,,False,0.0,unverified,,,https://www.calcalistech.com/ctechnews/article/sk6ejmewp,2025-03-11 21:37:28
+Marguerite & Cie,1.65,,,,EARLY VC,,False,0.0,unverified,,,https://www.ecap-partner.com/news/research/synthese-des-levees-de-fonds-du-numerique-en-juin-2023/,2025-03-11 21:37:28
+Polar Analytics,9.0,40.7,31.700000000000003,352.2222222222223,SERIES A,Not specified,False,0.0,unverified,,"amount, round_type",https://www.maddyness.com/2023/07/21/maddymoney-40-millions-startups/,2025-03-11 21:37:28
+Reperio,3.3,3.0,0.2999999999999998,9.090909090909086,EARLY VC,Seed,False,0.5,unverified,amount,round_type,https://siliconcanals.com/crowdfunding/reyedar-raises-3m/,2025-03-11 21:37:28
+Hexacore,3.5,,,,EARLY VC,,False,0.0,unverified,,,https://bebeez.it/private-equity-breakfast/notizie-da-cvc-bain-capital-scalo-technologies-xsolla-estoty-levine-leichtman-capital-partners-bridgepoint-gainline-capital-partners/,2025-03-11 21:37:28
+Silent Protocol,5.0,5.0,0.0,0.0,EARLY VC,Strategic investment,False,0.5,unverified,amount,round_type,https://www.iimedia.cn/c1064/94805.html,2025-03-11 21:37:28
+Lemonero,0.0,,,,SEED,Seed,True,1.0,verified,round_type,,https://thepaypers.com/online-mobile-banking/lemonero-secures-additional-seed-funding-round--1263250,2025-03-11 21:37:28
+Joulica,1.98,,,,SEED,,False,0.0,unverified,,,https://www.elkstonepartners.com/venture-portfolio,2025-03-11 21:37:28
+Optimeering,1.7,,,,SEED,,False,0.0,unverified,,,https://www.farvatnventure.com/portfolio,2025-03-11 21:37:28
+Optimeering,1.7,,,,SEED,,False,0.0,unverified,,,https://www.farvatnventure.com/portfolio,2025-03-11 21:37:28
+Optimeering,0.5,,,,SEED,,False,0.0,unverified,,,https://www.farvatnventure.com/portfolio,2025-03-11 21:37:28
+Optimeering,0.5,,,,SEED,,False,0.0,unverified,,,https://www.farvatnventure.com/portfolio,2025-03-11 21:37:28
+RE-Lender,1.1,1.0,0.10000000000000009,9.090909090909099,SEED,Not specified,False,0.5,unverified,amount,round_type,https://bebeez.it/crowdfunding/la-piattaforma-di-lending-re-lender-chiude-la-campagna-su-finnexta-e-raccoglie-piu-di-un-mln-euro/,2025-03-11 21:37:28
+Tandem,0.77,,,,SEED,,False,0.0,unverified,,,https://www.maddyness.com/2024/05/14/tandem-leve-des-fonds-pour-democratiser-le-velo-de-fonction-en-entreprise/,2025-03-11 21:37:28
+GScan,0.0,,,,SEED,,False,0.0,unverified,,,https://creativedestructionlab.com/companies/gscan/,2025-03-11 21:37:28
+Yenir,0.0,5.0,5.0,,SEED,Not specified,False,0.0,unverified,,round_type,https://webrazzi.com/2024/02/02/yenir-5-milyon-dolar-degerleme-uzerinden-yatirim-aldi/,2025-03-11 21:37:28
+Auravant,1.7,,,,SEED,,False,0.0,unverified,,,https://www.theyieldlab.com/europe,2025-03-11 21:37:28
+Seven Bro7thers,0.662772,,,,SEED,,False,0.0,unverified,,,https://www.morningadvertiser.co.uk/Article/2023/08/10/seven-bro7hers-overfunded-with-the-latest-crowdcube-campaign,2025-03-11 21:37:28
+Oghji,1.43,1.2,0.22999999999999998,16.083916083916083,EARLY VC,Seed,False,0.0,unverified,,"amount, round_type",https://www.investincotedazur.com/en/successful-funding-round-for-oghji-e1-2m-raised-from-key-players/,2025-03-11 21:37:28
+Cutbox,0.644292,,,,SEED,,False,0.0,unverified,,,https://www.linkedin.com/posts/louis-angel-scott_cutbox-crowdfunding-video-activity-7074695759580819456-0wCt/?trk=public_profile_like_view,2025-03-11 21:37:28
+Numa Health,4.4,,,,SEED,,False,0.0,unverified,,,https://www.ecap-partner.com/news/research/synthese-des-levees-de-fonds-du-numerique-en-juin-2023/,2025-03-11 21:37:28
+Exeliom,8.8,24.0,15.2,172.72727272727272,SERIES A,Series A,True,0.5,unverified,round_type,amount,https://www.thepharmaletter.com/article/exeliom-biosciences-closes-24-million-series-a-financing,2025-03-11 21:37:28
+Exeliom,8.8,24.0,15.2,172.72727272727272,SERIES A,Series A,True,0.5,unverified,round_type,amount,https://www.thepharmaletter.com/article/exeliom-biosciences-closes-24-million-series-a-financing,2025-03-11 21:37:28
+Exeliom,3.3,24.0,20.7,627.2727272727273,SERIES A,Series A,True,0.5,unverified,round_type,amount,https://www.thepharmaletter.com/article/exeliom-biosciences-closes-24-million-series-a-financing,2025-03-11 21:37:28
+Exeliom,3.3,24.0,20.7,627.2727272727273,SERIES A,Series A,True,0.5,unverified,round_type,amount,https://www.thepharmaletter.com/article/exeliom-biosciences-closes-24-million-series-a-financing,2025-03-11 21:37:28
+Almer Technologies,4.125,4.5,0.375,9.090909090909092,SEED,Seed II,False,0.5,unverified,amount,round_type,https://www.venturelab.swiss/Almer-Technologies-secures-CHF-45-million-Seed-II-Funding-Round-to-drive-AR-Technology-development-and-market-expansion,2025-03-11 21:37:28
+Fighting Cancer Network,0.8,,,,SEED,,False,0.0,unverified,,,https://www.bizjournals.com/birmingham/inno/stories/fundings/2023/06/22/fighting-cancer-network-gets-funding.html,2025-03-11 21:37:28
+Fighting Cancer Network,0.8,,,,SEED,,False,0.0,unverified,,,https://www.bizjournals.com/birmingham/inno/stories/fundings/2023/06/22/fighting-cancer-network-gets-funding.html,2025-03-11 21:37:28
+Fighting Cancer Network,0.5,,,,SEED,,False,0.0,unverified,,,https://www.bizjournals.com/birmingham/inno/stories/fundings/2022/07/21/fighting-cancer-network-inc-raises-seed-funds.html,2025-03-11 21:37:28
+Fighting Cancer Network,0.5,,,,SEED,,False,0.0,unverified,,,https://www.bizjournals.com/birmingham/inno/stories/fundings/2022/07/21/fighting-cancer-network-inc-raises-seed-funds.html,2025-03-11 21:37:28
+MDaaS Global,0.15,,,,EARLY VC,Cohort selection,False,0.0,unverified,,round_type,https://blog.google/intl/en-africa/company-news/announcing-the-2023-black-founders-fund-cohort-in-africa/,2025-03-11 21:37:28
+CAYA,6.6,1.0,5.6,84.84848484848484,SERIES A,Not specified,False,0.0,unverified,,"amount, round_type",https://www.deutsche-startups.de/2023/06/13/dealmonitor/,2025-03-11 21:37:28
+Rollingsquare,0.7551,,,,SEED,Not mentioned,False,0.0,unverified,,round_type,https://www.macrumors.com/2023/06/13/aircard-find-my-digital-business-card/,2025-03-11 21:37:28
+GensDeConfiance,2.2,2.0,0.20000000000000018,9.090909090909099,EARLY VC,Not specified,False,0.5,unverified,amount,round_type,https://www.maddyness.com/2023/06/05/gens-de-confiance-levee-de-fonds/,2025-03-11 21:37:28
+Greenstic,1.54,,,,EARLY VC,,False,0.0,unverified,,,https://www.prnewswire.com/news-releases/hungarian-startup-greenstic-obtains-investment-from-hiventures-for-green-gastronomy-reform-301842430.html,2025-03-11 21:37:28
+Impactpool,1.331133,,,,EARLY VC,,False,0.0,unverified,,,https://mailchi.mp/9483d81c98a4/swedish-tech-weekly-213-anocca-sana-bovra-zparq-encare-meitner-econans-impactpool-fragsheet-mother-stylee-aimplan-and-more,2025-03-11 21:37:28
+Econans,1.694169,,,,EARLY VC,,False,0.0,unverified,,,https://mailchi.mp/9483d81c98a4/swedish-tech-weekly-213-anocca-sana-bovra-zparq-encare-meitner-econans-impactpool-fragsheet-mother-stylee-aimplan-and-more,2025-03-11 21:37:28
+Mous,0.198,,,,EARLY VC,,False,0.0,unverified,,,http://dlvr.it/SqDV7P,2025-03-11 21:37:28
+Bovra Technologies,5.082508,,,,SEED,,False,0.0,unverified,,,https://mailchi.mp/9483d81c98a4/swedish-tech-weekly-213-anocca-sana-bovra-zparq-encare-meitner-econans-impactpool-fragsheet-mother-stylee-aimplan-and-more,2025-03-11 21:37:28
+skytrading.io,1.0,2.0,1.0,100.0,SEED,Not specified,False,0.0,unverified,,"amount, round_type",https://www.arkleybrinc.vc/blog-quotes/sky-trading-raises-pln-2000000-bring-trading-strategy-platform-market,2025-03-11 21:37:28
+innengine.com,1.32,,,,SEED,,False,0.0,unverified,,,https://www.linkedin.com/posts/innengine_crowdfunding-crowdcube-innengine-activity-7069277612694548481-Sg3o/?originalSubdomain=es,2025-03-11 21:37:28
+Geospatial Insight,0.0,,,,SERIES B,,False,0.0,unverified,,,https://futureplanetcapital.com/portfolio,2025-03-11 21:37:28
+Bout'​ à Bout',8.03,,,,EARLY VC,,False,0.0,unverified,,,https://www.maddyness.com/2023/07/17/reemploi-du-verre-la-filiere-sagite/,2025-03-11 21:37:28
+Meitner,2.020902,16.7,14.679098,726.3636732508553,LATE VC,Not specified,False,0.0,unverified,,"amount, round_type",https://www.di.se/digital/24-aringens-skolplattform-fyller-kassan/,2025-03-11 21:37:28
+BitsCrunch,0.0,4.7,4.7,,SEED,Series A,False,0.0,unverified,,round_type,https://incubees.com/web3-discovery-fund-from-coinswitch-ventures-enables-12-web3-startups-to-receive-nearly-25-m-in-additional-funding/,2025-03-11 21:37:28
+Limenet,0.55,2.5,1.95,354.5454545454545,SEED,Breve round,False,0.0,unverified,,"amount, round_type",https://bebeez.it/venture-capital/limenet-a-breve-round-da-25-mln-per-sviluppare-un-nuovo-impianto/?utm_source=rss&utm_medium=rss&utm_campaign=limenet-a-breve-round-da-25-mln-per-sviluppare-un-nuovo-impianto&mc_cid=62a9760af6&mc_eid=7727f36d0f,2025-03-11 21:37:28
+Smilee Finance,2.0,2.0,0.0,0.0,SEED,Seed,True,1.0,verified,"amount, round_type",,https://medium.com/smilee-finance/announcing-our-2m-seed-raise-bf93d078ab9d,2025-03-11 21:37:28
+Cashy,0.0,,,,SEED,,False,0.0,unverified,,,https://novobrief.com/lulla-care-becomes-the-first-and-only-spanish-startup-to-join-beyond-accelerator-program/10329/,2025-03-11 21:37:28
+Cashy,0.0,,,,SEED,,False,0.0,unverified,,,https://novobrief.com/lulla-care-becomes-the-first-and-only-spanish-startup-to-join-beyond-accelerator-program/10329/,2025-03-11 21:37:28
+Cashy,2.42,,,,EARLY VC,,False,0.0,unverified,,,https://www.meinbezirk.at/wien/c-wirtschaft/schnell-zu-cash-dank-cashy_a4604561,2025-03-11 21:37:28
+Cashy,2.42,,,,EARLY VC,,False,0.0,unverified,,,https://www.meinbezirk.at/wien/c-wirtschaft/schnell-zu-cash-dank-cashy_a4604561,2025-03-11 21:37:28
+MJMK Restaurants,1.716,,,,SEED,,False,0.0,unverified,,,http://dlvr.it/SnyZDS,2025-03-11 21:37:28
+Soolutions,2.2,,,,SEED,Seed,True,1.0,verified,round_type,,https://siliconcanals.com/crowdfunding/soolutions-raises-capital/,2025-03-11 21:37:28
+Sawayo,0.88,4.5,3.62,411.3636363636363,EARLY VC,Not specified,False,0.0,unverified,,"amount, round_type",https://www.deutsche-startups.de/2023/05/03/dealmonitor-lilium-spread-sykell/,2025-03-11 21:37:28
+OpenTrade,1.5,1.5,0.0,0.0,SEED,Seed,True,1.0,verified,"amount, round_type",,https://www.ledgerinsights.com/opentrade-tokenize-treasuries-trade-finance/,2025-03-11 21:37:28
+BASH,0.0,,,,SEED,Pre-seed,False,0.0,unverified,,round_type,https://www.graduate.nl/insights/bash-the-ultimate-social-app-for-event-discovery-and-connection,2025-03-11 21:37:28
+HelioRec,0.0,,,,SEED,Not specified in the news article,False,0.0,unverified,,round_type,https://www.offshore-energy.biz/french-floating-solar-start-up-attracts-new-major-investors/,2025-03-11 21:37:28
+Oxi-Tech Solutions,0.93258,,,,SEED,,False,0.0,unverified,,,https://www.linkedin.com/posts/robertmisselbrook_delighted-to-announce-oxi-tech-solutions-activity-7056704312361541632-Oxym?utm_source=share&utm_medium=member_desktop,2025-03-11 21:37:28
+Pelikan Mobility,0.0195,,,,SEED,,False,0.0,unverified,,,https://www.techstars.com/newsroom/announcing-techstars-sustainability-paris-april-2023-class,2025-03-11 21:37:28
+Baia Food,0.0,2.9,2.9,,SEED,Not specified,False,0.0,unverified,,round_type,https://elreferente.es/actualidad/capsa-vida-finaliza-su-primera-fase-de-implantacion-con-una-inversion-global-de-29-millones-de-euros-en-proyectos-de-innovacion/,2025-03-11 21:37:28
+OYESS Beauty,4.07,,,,SERIES A,,False,0.0,unverified,,,https://www.deutsche-startups.de/2023/04/06/startupticker-agrilution-infarm/,2025-03-11 21:37:28
+Opto Bio,2.508,,,,SEED,Not specified,False,0.0,unverified,,round_type,https://www.cambridgebiocapital.com/issue/opto-biosystems-launches-with-1-85-million-pre-seed-funding,2025-03-11 21:37:28
+Funeral Safe,3.96,,,,EARLY VC,Additional growth capital,False,0.0,unverified,,round_type,https://www.linkedin.com/feed/update/urn:li:activity:7048666545048227841/,2025-03-11 21:37:28
+HonuWorx,0.0,,,,SEED,,False,0.0,unverified,,,https://futureplanetcapital.com/portfolio,2025-03-11 21:37:28
+FinCom,2.0,,,,EARLY VC,,False,0.0,unverified,,,https://www.calcalistech.com/ctechnews/article/b1vaeduch,2025-03-11 21:37:28
+Cynoia,0.2,,,,SEED,,False,0.0,unverified,,,https://www.webmanagercenter.com/2023/08/14/511655/24-07-2023nasreddine-riahi-cofondateur-de-cynoia-nous-nous-installons-a-marseille-pour-lever-plus-de-fonds/,2025-03-11 21:37:28
+XITO,0.0,,,,SEED,Seed,True,1.0,verified,round_type,,https://www.finsmes.com/2023/03/toolify-raises-seed-funding.html,2025-03-11 21:37:28
+PIXmania.com,0.0,,,,SEED,,False,0.0,unverified,,,https://www.ecap-partner.com/news/research/synthese-des-levees-de-fonds-du-numerique-en-fevrier-2023/,2025-03-11 21:37:28
+PIXmania.com,0.0,,,,SEED,,False,0.0,unverified,,,https://www.ecap-partner.com/news/research/synthese-des-levees-de-fonds-du-numerique-en-fevrier-2023/,2025-03-11 21:37:28
+PIXmania.com,12.1,,,,SEED,,False,0.0,unverified,,,https://www.ecap-partner.com/news/research/synthese-des-levees-de-fonds-du-numerique-en-juin-2022/,2025-03-11 21:37:28
+PIXmania.com,12.1,,,,SEED,,False,0.0,unverified,,,https://www.ecap-partner.com/news/research/synthese-des-levees-de-fonds-du-numerique-en-juin-2022/,2025-03-11 21:37:28
+Fraudio,2.2,,,,SEED,,False,0.0,unverified,,,https://www.whitecase.com/insight-our-thinking/financial-ma-september-2023/fintech,2025-03-11 21:37:28
+Atto,9.9,,,,SERIES A,,False,0.0,unverified,,,https://buff.ly/3XWw5tD,2025-03-11 21:37:28
+Magnes,1.65,,,,SEED,Bridge funding,False,0.0,unverified,,round_type,https://www.startupticker.ch/en/news/june-2021/magnes-secures-bridge-funding,2025-03-11 21:37:28
+Les Miraculeux,5.5,,,,SERIES B,,False,0.0,unverified,,,"https://www.lsa-conso.fr/les-miraculeux-deviennent-mium-lab-et-levent-encore-des-fonds,429879",2025-03-11 21:37:28
+Sugarox,1.848,,,,SEED,,False,0.0,unverified,,,https://www.linkedin.com/posts/louise-manning-a120745_sugarox-raises-850k-from-regenerate-ventures-activity-7034537502333890560-KHIa/?originalSubdomain=my,2025-03-11 21:37:28
+Lineat,0.0,,,,SEED,,False,0.0,unverified,,,https://futureplanetcapital.com/portfolio,2025-03-11 21:37:28
+Lineat,0.0,,,,SEED,,False,1.0,verified,round_type,,https://futureplanetcapital.com/portfolio,2025-03-11 21:37:28
+Lineat,0.0,,,,SEED,Seed,True,0.0,unverified,,,https://bit.ly/3kBxMve,2025-03-11 21:37:28
+Lineat,0.0,,,,SEED,Seed,True,1.0,verified,round_type,,https://bit.ly/3kBxMve,2025-03-11 21:37:28
+Ethiack,0.0858,78.0,77.9142,90809.0909090909,SEED,Accelerator,False,0.0,unverified,,"amount, round_type",https://www.portugalbusinessesnews.com/post/portuguese-hackers-ethiack-chosen-for-the-startup-wise-guys-eur-78-000-accelerator,2025-03-11 21:37:28
+Consultia Business Travel,0.0,,,,SERIES A,,False,0.0,unverified,,,https://elreferente.es/sin-categoria/consultia-business-travel-se-prepara-para-levantar-su-siguiente-ronda-de-inversion-serie-a/,2025-03-11 21:37:28
+Berto’s,0.55,1.0,0.44999999999999996,81.8181818181818,SEED,Not specified,False,0.0,unverified,,"amount, round_type",https://contxto.com/en/spain/bertos-raises-e1-million-in-funding-round-led-by-glovo-and-deporvillage-founders/,2025-03-11 21:37:28
+Panax,5.5,10.0,4.5,81.81818181818183,SEED,Series A,False,0.0,unverified,,"amount, round_type",https://techcrunch.com/2024/05/08/israeli-startup-panax-raises-a-10-million-series-a-for-its-ai-driven-cash-flow-management-platform/,2025-03-11 21:37:28
+JUPUS,0.605,,,,SEED,,False,0.0,unverified,,,https://www.deutsche-startups.de/2023/02/13/startupticker-flowkey-natural-mojo/,2025-03-11 21:37:28
+Isomab,0.0,7.5,7.5,,SEED,Not specified,False,0.0,unverified,,round_type,https://www.prnewswire.com/news-releases/isomab-announces-close-of-7-5-million-financing-to-accelerate-lead-candidate-for-treatment-of-peripheral-arterial-disease-302066299.html,2025-03-11 21:37:28
+PiggyVest,3.0,,,,SEED,Investment,False,0.0,unverified,,round_type,https://innovation-village.com/in-2023-flutterwave-made-an-investment-in-piggyvests-parent-company/#google_vignette,2025-03-11 21:37:28
+Onda,0.0,,,,SEED,,False,0.0,unverified,,,https://northstar.vc/portfolio,2025-03-11 21:37:28
+Movingdoors,1.32,1.1,0.21999999999999997,16.666666666666664,SEED,Seed,True,0.5,unverified,round_type,amount,https://servicedapartmentnews.com/news/industry-news/movingdoors-seed-funding/,2025-03-11 21:37:28
+MOTH,0.0,,,,SEED,,False,0.0,unverified,,,https://pentecapital.com/MOTH,2025-03-11 21:37:28
+Celltris,0.0,,,,SEED,,False,0.0,unverified,,,https://qantx.co.uk/portfolio/,2025-03-11 21:37:28
+BYWAY,0.0,,,,SEED,,False,0.0,unverified,,,https://www.hermesa.co.uk/portfolio,2025-03-11 21:37:28
+The Padel Club,1.716,,,,EARLY VC,,False,0.0,unverified,,,https://www.thepadelclub.co.uk/news/further-funding-success-following-the-highly-successful-launch,2025-03-11 21:37:28
+Pacifico Biolabs,0.0,20.0,20.0,,SEED,Seed,True,1.0,verified,round_type,,https://exceptional.ventures/portfolio/,2025-03-11 21:37:28
+Innerskin,3.3,5.0,1.7000000000000002,51.51515151515152,SEED,Not specified,False,0.0,unverified,,"amount, round_type",https://beautymatter.com/articles/innerskin-aesthetic-clinic-raises-euro-5-million,2025-03-11 21:37:28
+Sunday Power,0.0,,,,SEED,,False,0.0,unverified,,,https://www.farvatnventure.com/portfolio,2025-03-11 21:37:28
+Valeo,0.0,,,,SEED,,False,0.0,unverified,,,https://mena.500.co/companies,2025-03-11 21:37:28
+Hailey HR,3.630363,1.7,1.930363,53.17272680445454,SEED,Not specified,False,0.0,unverified,,"amount, round_type",https://www.eu-startups.com/2023/10/stockholm-based-hailey-hr-secures-an-additional-e1-7-million-to-simplify-the-entire-employee-journey/,2025-03-11 21:37:28
+VIBRA,0.0,,,,SEED,,False,0.0,unverified,,,https://lateralfrontiers.com/portfolio/,2025-03-11 21:37:28
+Narrative BI,0.0,,,,SEED,,False,0.0,unverified,,,https://dvc-collective.notion.site/443e90bcb27f465b82113b2170b984d4?v=d201fba8eaac40b4a44555566826b9aa,2025-03-11 21:37:28
+Keyring,0.0,,,,SEED,,False,0.0,unverified,,,https://www.ebergcapital.com/portfolio/,2025-03-11 21:37:28
+Serverpod,0.0,,,,SEED,,False,0.0,unverified,,,https://www.irregular.vc/portfolio,2025-03-11 21:37:28
+getgigl,0.0,,,,SEED,,False,0.0,unverified,,,https://www.food-management.com/healthcare/5-tech-things-sodexo-live-accelerator-program-chooses-four-emerging-tech-startups-nurture,2025-03-11 21:37:28
+FastLane Labs,0.0,,,,SEED,,False,0.0,unverified,,,https://techcrunch.com/2023/01/10/web3-focused-beacon-launches-flagship-demo-day-with-13-crypto-startups/?tpcc=tcplustwitter,2025-03-11 21:37:28
+Colexion,0.0,,,,SEED,,False,0.0,unverified,,,https://techcrunch.com/2023/01/10/web3-focused-beacon-launches-flagship-demo-day-with-13-crypto-startups/?tpcc=tcplustwitter,2025-03-11 21:37:28
+Farcana,0.0,,,,SEED,,False,0.0,unverified,,,https://medium.com/unpopular-vc/unpopular-ventures-annual-report-2023-8eb860b1cf64,2025-03-11 21:37:28
+Performetry,0.0,,,,SEED,,False,0.0,unverified,,,https://www.bizjournals.com/sanfrancisco/inno/stories/news/2023/05/30/alchemist-accelerator-class33-graduates.html,2025-03-11 21:37:28
+Relive,1.1,4.6,3.4999999999999996,318.18181818181813,SEED,Not specified,False,0.0,unverified,,"amount, round_type",https://gritdaily.com/indico-commits-4-6m-to-5-startups-2-related-to-ai-and-3-to-the-blue-economy/,2025-03-11 21:37:28
+Fondo,1.9,,,,SEED,Nyemission (New issuance),False,0.0,unverified,,round_type,https://www.breakit.se/artikel/35970/fintechbolaget-fondo-fyller-kassan-med-nya-miljoner,2025-03-11 21:37:28
+MyCellHub,2.2,,,,EARLY VC,Not mentioned,False,0.0,unverified,,round_type,https://biotech-finances.com/mycellhub-gemma-frisius-fund-noshaq-the-faktory-fund-lrm-oncodesign-precision-medicine-servier-novo-holdings-minervax/,2025-03-11 21:37:28
+Zelok,1.76,,,,EARLY VC,,False,0.0,unverified,,,https://www.ecap-partner.com/news/research/synthese-des-levees-de-fonds-du-numerique-en-decembre-2022/,2025-03-11 21:37:28
+Kurabu,1.76,,,,SEED,,False,0.0,unverified,,,https://www.deutsche-startups.de/2022/12/08/startupticker-gsg-pepper-grover/,2025-03-11 21:37:28
+RESEE,3.3,,,,EARLY VC,,False,0.0,unverified,,,https://www.ecap-partner.com/news/research/synthese-des-levees-de-fonds-du-numerique-en-decembre-2022/,2025-03-11 21:37:28
+Eighty6,0.0,,,,SEED,Batch 4,False,0.0,unverified,,round_type,https://globalfintechseries.com/cryptocurrency/500-global-and-sanabil-investments-announce-batch-4-of-the-sanabil-500-mena-seed-accelerator-program/?utm_source=hootsuite&utm_medium=twitter&utm_term=fintech_series&utm_content=4ee2e1d0-e9d4-4c63-a26d-f05996d442d1&utm_campaign=Organic,2025-03-11 21:37:28
+1fs Wealth,0.0,,,,SEED,,False,0.0,unverified,,,https://bit.ly/3VRQ3oZ,2025-03-11 21:37:28
+Cefinn,1.584,,,,EARLY VC,,False,0.0,unverified,,,https://www.msn.com/en-gb/money/other/samcam-nets-%C2%A312m-of-new-backing-after-sales-boom-demand-at-cefinn-soared-by-45percent-to-%C2%A338m-in-year-to-end-of-october/ar-AA15oOQN,2025-03-11 21:37:28
+Aiosyn,2.2,,,,SEED,,False,0.0,unverified,,,https://egirisim.com/2022/12/26/saglik-teknolojileri-gelistiren-aiosyn-2-milyon-euro-yatirim-aldi/,2025-03-11 21:37:28
+Cube,2.2,,,,EARLY VC,,False,0.0,unverified,,,https://www.ecap-partner.com/news/research/synthese-des-levees-de-fonds-du-numerique-en-decembre-2022/,2025-03-11 21:37:28
+Polo del Gusto,3.3,3.0,0.2999999999999998,9.090909090909086,EARLY VC,Not specified,False,0.5,unverified,amount,round_type,https://bebeez.it/private-equity/simest-con-3-mln-euro-supporta-polo-del-gusto-per-lo-sviluppo-del-cioccolato-domori-in-regno-unito/,2025-03-11 21:37:28
+Apeiron Synthesis,4.8,4.8,0.0,0.0,SEED,Not specified,False,0.5,unverified,amount,round_type,https://buff.ly/3Ga0rmH,2025-03-11 21:37:28
+Nemes Paris,0.0,,,,SEED,,False,0.0,unverified,,,https://www.ecap-partner.com/news/research/synthese-des-levees-de-fonds-du-numerique-en-novembre-2022/,2025-03-11 21:37:28
+Avisomo,2.2,2.0,0.20000000000000018,9.090909090909099,SEED,Seed,True,1.0,verified,"amount, round_type",,https://vertical-farming.net/blog/2022/12/07/norway-vertical-farming-system-developer-avisomo-announces-e2m-seed-financing-to-build-their-proof-of-concept-automated-facility/,2025-03-11 21:37:28
+Jalon Therapeutics,0.484,2.0,1.516,313.22314049586777,SEED,Not specified,False,0.0,unverified,,"amount, round_type",https://www.finsmes.com/2022/12/jalon-therapeutics-raises-nearly-e2m-in-funding.html,2025-03-11 21:37:28
+ITC,5.0,5.0,0.0,0.0,SERIES A,Series A,True,1.0,verified,"amount, round_type",,https://www.finsmes.com/2022/12/intelligent-traffic-control-raises-5m-usd-in-series-a-funding.html,2025-03-11 21:37:28
+FTNet,3.3,3.0,0.2999999999999998,9.090909090909086,SEED,Second round,False,0.5,unverified,amount,round_type,https://bebeez.it/business-angel/la-startup-medtech-ftnet-chiude-il-suo-secondo-round-dinvestimento-da-3-mln-euro-2/,2025-03-11 21:37:28
+Alderley Lighthouse Labs,0.66,1.0,0.33999999999999997,51.5151515151515,SEED,Not specified,False,0.0,unverified,,"amount, round_type",https://www.thebusinessdesk.com/northwest/news/2119307-alderley-lighthouse-labs-secures-1m-investment-to-drive-expansion,2025-03-11 21:37:28
+Salted CX,1.5,,,,SEED,,False,0.0,unverified,,,https://forbes.cz/vostra-dvojka-je-zpet-zakladatele-miliardove-ytiky-rozjizdi-projekt-se-svetovymi-ambicemi/,2025-03-11 21:37:28
+Fusion Engineering,0.5,1.0,0.5,100.0,SEED,Grand Prize,False,0.0,unverified,,"amount, round_type",http://www.geniusny.com/news/governor-hochul-announces-1-million-grand-prize-winner-of-genius-ny-the-worlds-largest-accelerator-for-uncrewed-aerial-systems,2025-03-11 21:37:28
+Fusion Engineering,0.5,1.0,0.5,100.0,SEED,Grand Prize,False,0.5,unverified,round_type,amount,http://www.geniusny.com/news/governor-hochul-announces-1-million-grand-prize-winner-of-genius-ny-the-worlds-largest-accelerator-for-uncrewed-aerial-systems,2025-03-11 21:37:28
+Fusion Engineering,0.77,700.0,699.23,90809.09090909091,SEED,Seed,True,0.0,unverified,,"amount, round_type",https://siliconcanals.com/crowdfunding/fusion-engineering-raises-700k/,2025-03-11 21:37:28
+Fusion Engineering,0.77,700.0,699.23,90809.09090909091,SEED,Seed,True,0.5,unverified,round_type,amount,https://siliconcanals.com/crowdfunding/fusion-engineering-raises-700k/,2025-03-11 21:37:28
+Ocula,0.0,,,,SEED,Strategic Investment,False,0.0,unverified,,round_type,https://ffnews.com/newsarticle/funding/lloyds-banking-group-and-castelnau-group-make-new-strategic-investment-in-decision-intelligence-firm-ocula-technologies/,2025-03-11 21:37:28
+Ro&Zo,1.98,1.5,0.48,24.242424242424242,SEED,Not specified,False,0.0,unverified,,"amount, round_type",https://www.angelnews.co.uk/blog/consumer-goods-retail/pembroke-vct-leads-15m-funding-for-womenswear-brand-rozo/,2025-03-11 21:37:28
+nona,1.21,,,,SEED,,False,0.0,unverified,,,https://www.ecap-partner.com/news/research/synthese-des-levees-de-fonds-du-numerique-en-novembre-2022/,2025-03-11 21:37:28
+Surgery Hero,2.64,2.0,0.6400000000000001,24.242424242424246,SEED,Not specified,False,0.0,unverified,,"amount, round_type",https://www.thebusinessdesk.com/yorkshire/news/2102750-2m-awarded-to-scale-up-digital-clinic,2025-03-11 21:37:28
+Gbc-Beam,2.5,250.0,247.5,9900.0,SEED,Seed,True,0.5,unverified,round_type,amount,https://cn.technode.com/post/2022-11-17/beam-2m5-seed-round-funding/,2025-03-11 21:37:28
+Pulsiv Solar,1.98,1.5,0.48,24.242424242424242,EARLY VC,Not specified,False,0.0,unverified,,"amount, round_type",https://markets.ft.com/data/announce/detail?dockey=1323-15705737-49MPOTD23AFKK3C7R7LC83HTAS,2025-03-11 21:37:28
+Pulsiv Solar,1.98,1.5,0.48,24.242424242424242,EARLY VC,Not specified,False,0.0,unverified,,,https://markets.ft.com/data/announce/detail?dockey=1323-15705737-49MPOTD23AFKK3C7R7LC83HTAS,2025-03-11 21:37:28
+Pulsiv Solar,1.65,,,,EARLY VC,,False,0.0,unverified,,"amount, round_type",https://pulsiv.co.uk/news/news-darrel-kingdam-ceo/,2025-03-11 21:37:28
+Pulsiv Solar,1.65,,,,EARLY VC,,False,0.0,unverified,,,https://pulsiv.co.uk/news/news-darrel-kingdam-ceo/,2025-03-11 21:37:28
+Vispa,1.65,,,,SEED,,False,0.0,unverified,,,https://www.deutsche-startups.de/2022/11/24/startupticker-billie-moove/,2025-03-11 21:37:28
+Beeldi,8.8,,,,SERIES A,,False,0.0,unverified,,,https://www.ecap-partner.com/news/research/synthese-des-levees-de-fonds-du-numerique-en-novembre-2022/,2025-03-11 21:37:28
+Dust Mobile_1,13.2,,,,SERIES B,,False,0.0,unverified,,,https://www.ecap-partner.com/news/research/synthese-des-levees-de-fonds-du-numerique-en-novembre-2022/,2025-03-11 21:37:28
+Beti,11.0,11.0,0.0,0.0,SERIES A,Growth Funding,False,0.5,unverified,amount,round_type,https://www.finsmes.com/2022/11/beti-raises-11m-in-growth-funding.html,2025-03-11 21:37:28
+Flappin,0.44,3.0,2.56,581.8181818181819,SEED,Not specified,False,0.0,unverified,,"amount, round_type",https://dealflow.es/issue/344/userzoom-to-be-merged-in-b-entity-if-raised-3m-bnext-on-sale,2025-03-11 21:37:28
+Winalist,1.43,725.0,723.57,50599.30069930071,SEED,Not specified,False,0.0,unverified,,"amount, round_type",https://www.ecap-partner.com/news/research/synthese-des-levees-de-fonds-du-numerique-en-octobre-2022/,2025-03-11 21:37:28
+BYSTAMP,3.3,725.0,721.7,21869.69696969697,SEED,Not specified,False,0.0,unverified,,"amount, round_type",https://www.ecap-partner.com/news/research/synthese-des-levees-de-fonds-du-numerique-en-octobre-2022/,2025-03-11 21:37:28
+Narwhal Media Group (NMG),2.64,2.0,0.6400000000000001,24.242424242424246,SEED,Not specified,False,0.0,unverified,,"amount, round_type",https://www.prnewswire.co.uk/news-releases/narwhal-media-group-nmg-raises-over-2-million-in-just-3-weeks-301690751.html,2025-03-11 21:37:28
+Les Causantes,3.96,,,,EARLY VC,,False,0.0,unverified,,,https://www.ecap-partner.com/news/research/synthese-des-levees-de-fonds-du-numerique-en-novembre-2022/,2025-03-11 21:37:28
+Audion,6.6,,,,SERIES A,,False,0.0,unverified,,,https://www.ecap-partner.com/news/research/synthese-des-levees-de-fonds-du-numerique-en-novembre-2022/,2025-03-11 21:37:28
+EmailTree AI,2.97,2.7,0.27,9.090909090909092,SEED,Not specified,False,0.5,unverified,amount,round_type,https://therecursive.com/emailtree-looking-to-onboard-its-first-vc-in-the-next-e2-7m-late-seed-funding-round/,2025-03-11 21:37:28
+Albion Technologies UK,0.528,,,,SEED,,False,0.0,unverified,,,https://albiontechnologies.co.uk/albion-technologies-announce-a-secured-investment-from-city-funds/,2025-03-11 21:37:28
+Albion Technologies UK,0.528,,,,SEED,,False,0.0,unverified,,round_type,https://albiontechnologies.co.uk/albion-technologies-announce-a-secured-investment-from-city-funds/,2025-03-11 21:37:28
+Albion Technologies UK,1.122,,,,SEED,Capital charge-up,False,0.0,unverified,,,https://thebusinessmagazine.co.uk/professional-services/albion-technologies-secures-capital-charge-up-from-britbots/,2025-03-11 21:37:28
+Albion Technologies UK,1.122,,,,SEED,Capital charge-up,False,0.0,unverified,,round_type,https://thebusinessmagazine.co.uk/professional-services/albion-technologies-secures-capital-charge-up-from-britbots/,2025-03-11 21:37:28
+Conservio,0.2,0.2,0.0,0.0,SEED,Pre-Seed,False,0.5,unverified,amount,round_type,https://weetracker.com/2022/10/03/south-african-startup-conservation-club-secures-usd-200-k-pre-seed-round/,2025-03-11 21:37:28
+Mycover.ai,0.0,,,,SEED,,False,0.0,unverified,,,https://www.techstars.com/portfolio?name=MyCover.ai,2025-03-11 21:37:28
+Nutritionpro,2.2,74.0,71.8,3263.6363636363635,SEED,Not specified,False,0.0,unverified,,"amount, round_type",https://cc.cz/ceske-nutritionpro-mesicne-rozveze-pres-100-tisic-jidel-v-expanzi-i-do-nemecka-mu-pomuze-74-milionu/,2025-03-11 21:37:28
+Fabas,0.1,,,,SEED,,False,0.0,unverified,,,https://www.startupticker.ch/index.php/en/news/hoehle-der-loewen-myfeld-ueberwintert-mit-frischem-kapital,2025-03-11 21:37:28
+Crealo,0.2,,,,SEED,Incubation,False,0.0,unverified,,round_type,https://www.moroccoworldnews.com/2022/10/351743/moroccos-state-owned-cdg-invest-fund-incubates-12-startups,2025-03-11 21:37:28
+vlot,0.4,,,,SEED,,False,0.0,unverified,,,https://www.sictic.ch/startup/vlot/,2025-03-11 21:37:28
+Covalo,1.2,,,,EARLY VC,Not specified in the news article,False,0.0,unverified,,round_type,https://www.sictic.ch/sictic-startups/,2025-03-11 21:37:28
+Covalo,1.2,,,,EARLY VC,Not specified in the news article,False,0.0,unverified,,,https://www.sictic.ch/sictic-startups/,2025-03-11 21:37:28
+Covalo,0.0,,,,SEED,,False,0.0,unverified,,round_type,https://www.sictic.ch/sictic-startups/,2025-03-11 21:37:28
+Covalo,0.0,,,,SEED,,False,0.0,unverified,,,https://www.sictic.ch/sictic-startups/,2025-03-11 21:37:28
+Signifikant Solutions,1.2,,,,EARLY VC,,False,0.0,unverified,,,https://www.sictic.ch/startup/signifikant-biz/,2025-03-11 21:37:28
+Dublin Vinyl,1.1,1.0,0.10000000000000009,9.090909090909099,EARLY VC,Equity round,False,0.5,unverified,amount,round_type,https://www.independent.ie/business/irish/dublin-vinyl-raises-1m-in-latest-equity-round-42098026.html,2025-03-11 21:37:28
+Dublin Vinyl,1.1,1.0,0.10000000000000009,9.090909090909099,EARLY VC,Equity round,False,0.0,unverified,,"amount, round_type",https://www.independent.ie/business/irish/dublin-vinyl-raises-1m-in-latest-equity-round-42098026.html,2025-03-11 21:37:28
+Dublin Vinyl,1.1,1.0,0.10000000000000009,9.090909090909099,EARLY VC,Equity round,False,0.0,unverified,,,https://www.independent.ie/business/irish/dublin-vinyl-raises-1m-in-latest-equity-round-42098026.html,2025-03-11 21:37:28
+Dublin Vinyl,0.66,1.0,0.33999999999999997,51.5151515151515,EARLY VC,Equity round,False,0.5,unverified,amount,round_type,https://www.independent.ie/business/irish/dublin-vinyl-raises-1m-in-latest-equity-round-42098026.html,2025-03-11 21:37:28
+Dublin Vinyl,0.66,1.0,0.33999999999999997,51.5151515151515,EARLY VC,Equity round,False,0.0,unverified,,"amount, round_type",https://www.independent.ie/business/irish/dublin-vinyl-raises-1m-in-latest-equity-round-42098026.html,2025-03-11 21:37:28
+Dublin Vinyl,0.66,1.0,0.33999999999999997,51.5151515151515,EARLY VC,Equity round,False,0.0,unverified,,,https://www.independent.ie/business/irish/dublin-vinyl-raises-1m-in-latest-equity-round-42098026.html,2025-03-11 21:37:28
+Dublin Vinyl,0.605,,,,SEED,,False,0.5,unverified,amount,round_type,https://www.irishtimes.com/business/manufacturing/dublin-vinyl-gets-set-to-give-records-another-spin-1.3336706,2025-03-11 21:37:28
+Dublin Vinyl,0.605,,,,SEED,,False,0.0,unverified,,"amount, round_type",https://www.irishtimes.com/business/manufacturing/dublin-vinyl-gets-set-to-give-records-another-spin-1.3336706,2025-03-11 21:37:28
+Dublin Vinyl,0.605,,,,SEED,,False,0.0,unverified,,,https://www.irishtimes.com/business/manufacturing/dublin-vinyl-gets-set-to-give-records-another-spin-1.3336706,2025-03-11 21:37:28
+LegionellaDossier,4.4,4.0,0.40000000000000036,9.090909090909099,SEED,Not specified,False,0.5,unverified,amount,round_type,https://bit.ly/3gIjPx3,2025-03-11 21:37:28
+Hormona,1.5,,,,SEED,,False,0.0,unverified,,,https://tcrn.ch/3D5B6Zw,2025-03-11 21:37:28
+RedElectric,0.935,1.0,0.06499999999999995,6.951871657754005,SEED,Not specified in the provided news article,False,0.5,unverified,amount,round_type,https://www.ecap-partner.com/news/research/synthese-des-levees-de-fonds-du-numerique-en-septembre-2022/,2025-03-11 21:37:28
+JNPR Spirits,1.21,,,,EARLY VC,,False,0.0,unverified,,,https://www.ecap-partner.com/news/research/synthese-des-levees-de-fonds-du-numerique-en-septembre-2022/,2025-03-11 21:37:28
+DUA,4.0,,,,SERIES A,,False,0.0,unverified,,,https://www.startupticker.ch/en/news/swiss-dua-com-buys-german-dating-app,2025-03-11 21:37:28
+Optim Finance,3.9,3.9,0.0,0.0,SEED,Seed Round,False,0.5,unverified,amount,round_type,https://optim-labs.medium.com/optim-seed-round-funding-126481413928,2025-03-11 21:37:28
+Delta Business School,1.21,,,,EARLY VC,,False,0.0,unverified,,,https://www.ecap-partner.com/news/research/synthese-des-levees-de-fonds-du-numerique-en-septembre-2022/,2025-03-11 21:37:28
+DIVIE,2.2,2.0,0.20000000000000018,9.090909090909099,SEED,Not specified,False,0.5,unverified,amount,round_type,https://data.ladn.eu/blog/startup/levee-fonds-divie-cbd/,2025-03-11 21:37:28
+Everyangle,2.97,270.0,267.03,8990.90909090909,SEED,Not specified,False,0.0,unverified,,"amount, round_type",https://www.niutoushe.com/lives/jisuanjishijuepingtaieveryanglehuo270wanouyuanrongzisurevalleyventuresdengduojiazibenlianhelingtou,2025-03-11 21:37:28
+Payment Systems Regulator,30.36,23.0,7.359999999999999,24.24242424242424,SERIES A,Series A,True,0.5,unverified,round_type,amount,https://thepaypers.com/online-payments/tymit-secures-gbp-23-mln-series-a-funding-round--1258881,2025-03-11 21:37:28
+Flowlife,2.057206,,,,SEED,,False,0.0,unverified,,,https://mailchi.mp/e3a0ca255edd/swedish-tech-weekly-181-kive-tradera-flowlife-steep-flox-pirr-nona-parametric-solutions-della8-spotscale-exeger-hormona-gwen-node-vc-i-15523948,2025-03-11 21:37:28
+Gentian,0.1,,,,SEED,,False,0.0,unverified,,,https://www.gener8tor.com/news/gener8tor-announces-startups-selected-for-fall-2022-sustainability-accelerator,2025-03-11 21:37:28
+Bloomsbury Genetic Therapies,6.6,5.0,1.5999999999999996,24.24242424242424,SEED,Seed,True,0.5,unverified,round_type,amount,https://www.bioworld.com/articles/690534-bloomsbury-advancing-gene-therapies-for-rare-diseases-with-5m-seed-financing,2025-03-11 21:37:28
+Capsule Corp. Labs,2.75,7.3,4.55,165.45454545454547,EARLY VC,Seed,False,0.0,unverified,,"amount, round_type",https://hackernoon.com/ternoa-completes-a-$73m-seed-to-foster-nft-mass-adoption-and-launches-web3-activity-in-dubai-uae,2025-03-11 21:37:28
+Limula,0.0,,,,SEED,,False,0.0,unverified,,,https://www.startupticker.ch/en/news/biopole-funding-for-limula-and-nd-biosciences,2025-03-11 21:37:28
+Legal Services Board,2.244,1.7,0.5440000000000003,24.242424242424253,SEED,Seed,True,0.5,unverified,round_type,amount,https://www.uktechnews.info/2022/10/07/lawhive-secures-1-7-million-seed-investment-led-by-episode-1-ventures/,2025-03-11 21:37:28
+PreComb,1.191666,1.3,0.10833400000000015,9.090970120822458,SEED,Pre-Series A,False,0.5,unverified,amount,round_type,https://longevc.com/news-media/tpost/pacry86j71-personalised-oncology-platform-precomb-t,2025-03-11 21:37:28
+Drupps,2.154016,,,,LATE VC,,False,0.0,unverified,,,"https://news.cision.com/drupps/r/drupps-completes-directed-new-issue-of-shares,c3640554",2025-03-11 21:37:28
+Drupps,2.154016,,,,LATE VC,,False,0.0,unverified,,"amount, round_type","https://news.cision.com/drupps/r/drupps-completes-directed-new-issue-of-shares,c3640554",2025-03-11 21:37:28
+Drupps,0.605061,5.0,4.394939,726.362961750964,EARLY VC,Directed new share issue,False,0.0,unverified,,,https://www.longruncapital.com/updates/drupps,2025-03-11 21:37:28
+Drupps,0.605061,5.0,4.394939,726.362961750964,EARLY VC,Directed new share issue,False,0.0,unverified,,"amount, round_type",https://www.longruncapital.com/updates/drupps,2025-03-11 21:37:28
+Poplar Studio,0.0,,,,SEED,,False,0.0,unverified,,,https://haatch.com/portfolio/poplar/,2025-03-11 21:37:28
+Recruitment Smart Technologies,2.64,,,,SERIES A,,False,0.0,unverified,,,https://blackfinch.investments/assets/Blackfinch_Spring_Venture_Capital_Trust_Prospectus_2023_dde168136c.pdf,2025-03-11 21:37:28
+roclub,2.2,2.0,0.20000000000000018,9.090909090909099,SEED,Pre-Seed,False,0.5,unverified,amount,round_type,https://www.roclub.com/press/roclub-raises-2m-euro-in-pre-seed-round,2025-03-11 21:37:28
+Smino,0.0,,,,SERIES A,,False,0.0,unverified,,,https://www.startupticker.ch/en/news/smino-uebernimmt-oesterreichisches-bim-deeptech,2025-03-11 21:37:28
+Twice Commerce,4.18,3.8,0.3799999999999999,9.090909090909088,SEED,Not specified,False,0.5,unverified,amount,round_type,https://tech.eu/2022/09/19/reimagining-commerce-for-circular-economy-finnish-platform-rentle-raises-38-million,2025-03-11 21:37:28
+Twice Commerce,4.18,3.8,0.3799999999999999,9.090909090909088,SEED,Not specified,False,0.5,unverified,amount,round_type,https://tech.eu/2022/09/19/reimagining-commerce-for-circular-economy-finnish-platform-rentle-raises-38-million,2025-03-11 21:37:28
+Twice Commerce,0.275,0.25,0.025000000000000022,9.090909090909099,SEED,Pre-seed,False,0.5,unverified,amount,round_type,https://www.fiban.org/news/angels-gentle-towards-rentle-who-raise-pre-seed-round-of-250k-to-help-create-better-rental-experiences,2025-03-11 21:37:28
+Twice Commerce,0.275,0.25,0.025000000000000022,9.090909090909099,SEED,Pre-seed,False,0.5,unverified,amount,round_type,https://www.fiban.org/news/angels-gentle-towards-rentle-who-raise-pre-seed-round-of-250k-to-help-create-better-rental-experiences,2025-03-11 21:37:28
+NBX,12.10121,100.0,87.89879,726.3636446272728,LATE VC,Equity financing facility,False,0.0,unverified,,"amount, round_type",https://www.inderes.dk/en/releases/nbx-norwegian-block-exchange-secures-a-nok-100-million-equity-financing-facility,2025-03-11 21:37:28
+Ittybit,0.066,,,,SEED,,False,0.0,unverified,,,https://businesscloud.co.uk/news/baltic-ventures-accelerator-unveils-9-strong-first-cohort/,2025-03-11 21:37:28
+Agel,0.0,,,,SEED,,False,0.0,unverified,,,https://www.linkedin.com/posts/flat6labs_meet-the-12-startups-at-flat6labs-2023-demo-activity-7029409590723100672-fxx1/,2025-03-11 21:37:28
+Relate - The Relationship Company,0.7,,,,SEED,,False,0.0,unverified,,,https://www.di.se/digital/h-m-s-ordforande-fortsatter-ploja-ned-pengar-i-dejtingapp/,2025-03-11 21:37:28
+Valueco,0.1405,,,,SEED,Not specified,False,0.0,unverified,,round_type,https://www.techstars.com/newsroom/techstars-abn-amro-future-of-finance-accelerator-announces-2022-class,2025-03-11 21:37:28
+Commune,1.65,,,,EARLY VC,,False,0.0,unverified,,,https://www.ecap-partner.com/news/research/synthese-des-levees-de-fonds-du-numerique-en-septembre-2022/,2025-03-11 21:37:28
+Relox Robotics | Poki Robotics,1.331133,,,,EARLY VC,,False,0.0,unverified,,,https://www.almi.se/almi-invest/nyheter/almi-invest-investerar-i-relox-vars-robot-samlar-golfbollar-pa-rangen/,2025-03-11 21:37:28
+Berny,2.2,,,,SEED,,False,0.0,unverified,,,https://www.ecap-partner.com/news/research/synthese-des-levees-de-fonds-du-numerique-en-septembre-2022/,2025-03-11 21:37:28
+Bloobloom,4.884,3.7,1.1840000000000002,24.242424242424242,SEED,Not specified,False,0.0,unverified,,"amount, round_type",https://www.angelnews.co.uk/blog/vct/pembroke-vct-leads-37m-investment-into-ethical-glasses-brand-bloobloom/,2025-03-11 21:37:28
+Ripple Energy,0.275,0.25,0.025000000000000022,9.090909090909099,EARLY VC,Not specified,False,0.5,unverified,amount,round_type,https://www.renewableenergymagazine.com/panorama/ecosia-to-invest-250-000-euros-in-20220929,2025-03-11 21:37:28
+Live Stock Wealth,0.6875,10.0,9.3125,1354.5454545454545,EARLY VC,Not specified,False,0.0,unverified,,"amount, round_type",https://ventureburn.com/2022/09/mic-invests-r10m-in-crowd-farming-fintech-livestock-wealth/,2025-03-11 21:37:28
+SiVIEW,6.05,5.5,0.5499999999999998,9.090909090909088,SERIES A,Capital increase,False,0.5,unverified,amount,round_type,https://www.lbofrance.com/en/siview-a-specialist-in-ai-driven-visual-diagnostics-announces-with-lbo-france-a-capital-increase-of-e5-5m/,2025-03-11 21:37:28
+SiVIEW,6.05,5.5,0.5499999999999998,9.090909090909088,SERIES A,Capital increase,False,0.0,unverified,,round_type,https://www.lbofrance.com/en/siview-a-specialist-in-ai-driven-visual-diagnostics-announces-with-lbo-france-a-capital-increase-of-e5-5m/,2025-03-11 21:37:28
+SiVIEW,0.0,5.5,5.5,,SEED,Capital increase,False,0.5,unverified,amount,round_type,https://www.lbofrance.com/en/siview-a-specialist-in-ai-driven-visual-diagnostics-announces-with-lbo-france-a-capital-increase-of-e5-5m/,2025-03-11 21:37:28
+SiVIEW,0.0,5.5,5.5,,SEED,Capital increase,False,0.0,unverified,,round_type,https://www.lbofrance.com/en/siview-a-specialist-in-ai-driven-visual-diagnostics-announces-with-lbo-france-a-capital-increase-of-e5-5m/,2025-03-11 21:37:28
+Arecor,6.6,,,,EARLY VC,,False,0.0,unverified,,,https://bit.ly/3DbOKuD,2025-03-11 21:37:28
+Villa Seafood,3.037404,,,,SEED,,False,0.0,unverified,,,http://dlvr.it/SZ1gTv,2025-03-11 21:37:28
+Climate Solutions Exchange,3.3,,,,SEED,Seed funding,False,0.0,unverified,,round_type,https://csxcarbon.com/2022/09/26/successful-seed-funding-csx-carbon/,2025-03-11 21:37:28
+Marine Edge,1.0,,,,SEED,,False,0.0,unverified,,,https://www.linkedin.com/pulse/weekly-firgun-newsletter-eze-vidra-6e,2025-03-11 21:37:28
+Marine Edge,1.0,,,,SEED,,False,0.0,unverified,,,https://www.linkedin.com/pulse/weekly-firgun-newsletter-eze-vidra-6e,2025-03-11 21:37:28
+Marine Edge,0.0,,,,SEED,,False,0.0,unverified,,,https://www.offshore-energy.biz/eastern-pacific-invests-in-9-more-next-gen-startups/,2025-03-11 21:37:28
+Marine Edge,0.0,,,,SEED,,False,0.0,unverified,,,https://www.offshore-energy.biz/eastern-pacific-invests-in-9-more-next-gen-startups/,2025-03-11 21:37:28
+Ponea Health,4.3,,,,SEED,,False,0.0,unverified,,,http://dlvr.it/SYs5fp,2025-03-11 21:37:28
+Vyld,0.033,,,,SEED,,False,0.0,unverified,,,https://www.eu-startups.com/2022/09/impact-shakers-makes-first-investments-in-purpose-driven-ventures-led-by-underrepresented-founders/,2025-03-11 21:37:28
+Gozen Institute,0.53,,,,SEED,,False,0.0,unverified,,,http://dlvr.it/SYlT50,2025-03-11 21:37:28
+Faction Skis,7.333334,,,,EARLY VC,,False,0.0,unverified,,,https://www.startupticker.ch/en/news/fresh-capital-and-a-new-acquisition-for-the-faction-collective#.Yyh7oizU91A.twitter,2025-03-11 21:37:28
+Vian,10.0,,,,EARLY VC,,False,0.0,unverified,,,https://www.ebrd.com/news/2022/ebrd-invests-us-35-million-in-georgias-healthcare-sector.html,2025-03-11 21:37:28
+Equip Sport,4.583334,5.0,0.4166660000000002,9.090893223142809,SEED,Not specified,False,0.5,unverified,amount,round_type,https://shop-eat-surf.com/2022/09/equip-raises-5-million-chf-to-revolutionize-access-to-sports/,2025-03-11 21:37:28
+Amplo GmbH,1.466666,1.6,0.13333400000000006,9.090958677708494,SEED,Pre-seed,False,0.5,unverified,amount,round_type,https://www.startupticker.ch/en/news/amplo-secures-chf-1-6-million-in-pre-seed-round,2025-03-11 21:37:28
+Goodnewsco,12.1,,,,SERIES A,,False,0.0,unverified,,,https://www.linkedin.com/posts/good-news-coffee_hoy-estamos-muy-contentos-de-compartir-con-activity-6972829084221353984-jyIF/?utm_source=share&utm_medium=member_desktop,2025-03-11 21:37:28
+Wearisma,0.0,,,,SEED,,False,0.0,unverified,,,https://www.morganstanley.com/press-releases/five-innovative-women-led-startups-in-multicultural-innovation-l?cid=SM_CORP_SM_CORP_TWITTER_MorganStanley_20220906&linkId=180289414,2025-03-11 21:37:28
+AMAKA Studio,0.0,,,,SEED,,False,0.0,unverified,,,https://www.morganstanley.com/press-releases/five-innovative-women-led-startups-in-multicultural-innovation-l?cid=SM_CORP_SM_CORP_TWITTER_MorganStanley_20220906&linkId=180289414,2025-03-11 21:37:28
+BioBetter,10.0,10.0,0.0,0.0,SERIES A,Not specified,False,0.5,unverified,amount,round_type,https://www.prnewswire.com/news-releases/biobetter-lands-usd10m-funding-to-relieve-cultivated-meats-bottleneck-using-tobacco-plants-301619117.html,2025-03-11 21:37:28
+Butlr,0.0,,,,SEED,Seed,True,1.0,verified,round_type,,https://www.finextra.com/pressarticle/93895/marketplace-payments-platform-ryft-secures-seed-investment,2025-03-11 21:37:28
+Bling,0.0,10.0,10.0,,SEED,Not specified,False,0.0,unverified,,round_type,https://www.deutsche-startups.de/2022/04/07/dealmonitor-grover-productsup/,2025-03-11 21:37:28
+ShanX Medtech,2.9,,,,SEED,,False,0.0,unverified,,,https://shanxmedtech.com/sxm-has-raised-cumulative-eur2-7mln-in-granted-projects-from-the-eindhoven-region-the-dutch-government-and-the-european-commission/,2025-03-11 21:37:28
+WARD 24/7,2.64,18.0,15.36,581.8181818181818,SEED,Not specified,False,0.0,unverified,,"amount, round_type",https://medwatch.dk/Medico___Rehab/article14278662.ece,2025-03-11 21:37:28
+Shopperai,5.0,,,,SERIES A,,False,0.0,unverified,,,https://www.calcalistech.com/ctechnews/article/b1911k6gga,2025-03-11 21:37:28
+The Landbanking Group,0.0,,,,SEED,,False,0.0,unverified,,,https://www.deutsche-startups.de/2023/03/27/portfolio-planet-a-ventures-2023/,2025-03-11 21:37:28
+Nium,0.1584,,,,SEED,,False,0.0,unverified,,,https://www.cambridgeindependent.co.uk/business/third-carbon13-cohort-is-first-to-launch-with-a-carbon-reduc-9267589/,2025-03-11 21:37:28
+Swedish Temptations,1.694169,14.0,12.305831,726.3638397349969,SEED,Not specified,False,0.0,unverified,,"amount, round_type",https://nordic9.com/news/swedish-temptations-barta-secured-sek-14-million-via-pepins/,2025-03-11 21:37:28
+NOMOQ,5.5,5.0,0.5,9.090909090909092,EARLY VC,Not specified,False,0.5,unverified,amount,round_type,https://www.startupticker.ch/en/news/nomoq-secures-over-5-million-equity-and-debt-capital,2025-03-11 21:37:28
+topi,15.0,,,,EARLY VC,,False,0.0,unverified,,,https://www.deutsche-startups.de/2022/09/05/investitionen-august-2022/,2025-03-11 21:37:28
+Healios,0.0,,,,SEED,Not specified,False,0.0,unverified,,round_type,https://www.startupticker.ch/en/news/healios-ag-secures-substantial-funds-to-meet-demand#.Yw8o-zH65QE.twitter,2025-03-11 21:37:28
+Neur.on,1.466666,1.6,0.13333400000000006,9.090958677708494,SEED,Not specified,False,0.5,unverified,amount,round_type,https://www.startupticker.ch/en/news/chf-1-6m-to-empower-legal-professionals-with-ai-translation-solutions#.YxIIIpKc1DY.twitter,2025-03-11 21:37:28
+Hiiper,2.2,,,,EARLY VC,,False,0.0,unverified,,,https://siliconcanals.com/news/startups/scoupy-acquired-by-cashback-holding/,2025-03-11 21:37:28
+OneFarm,9.9,,,,EARLY VC,,False,0.0,unverified,,,https://bit.ly/3TuHVKk,2025-03-11 21:37:28
+Kula Tech,12.0,12.0,0.0,0.0,SEED,Seed,True,1.0,verified,"amount, round_type",,https://vcnewsdaily.com/kula/venture-capital-funding/svjmcxlfwn,2025-03-11 21:37:28
+Kula Tech,12.0,12.0,0.0,0.0,SEED,Seed,True,0.5,unverified,amount,round_type,https://vcnewsdaily.com/kula/venture-capital-funding/svjmcxlfwn,2025-03-11 21:37:28
+Kula Tech,2.7,2.7,0.0,0.0,SEED,Not specified,False,1.0,verified,"amount, round_type",,https://vcnewsdaily.com/kula/venture-capital-funding/lkmvrpwxwh,2025-03-11 21:37:28
+Kula Tech,2.7,2.7,0.0,0.0,SEED,Not specified,False,0.5,unverified,amount,round_type,https://vcnewsdaily.com/kula/venture-capital-funding/lkmvrpwxwh,2025-03-11 21:37:28
+Sharz.Net,2.2,40.0,37.8,1718.181818181818,SEED,Not specified,False,0.0,unverified,,"amount, round_type",https://egirisim.com/2022/08/22/sharz-40-milyon-tllik-yatirimla-turkiyedeki-elektrikli-arac-sarj-noktasini-1000e-yukseltecek/,2025-03-11 21:37:28
+NQ64 Arcade Bars,3.3,2.5,0.7999999999999998,24.24242424242424,EARLY VC,Growth capital investment,False,0.0,unverified,,"amount, round_type",https://bdaily.co.uk/articles/2022/08/23/arcade-bar-operator-nq64-earns-a-power-up-via-25m-growth-capital-investment,2025-03-11 21:37:28
+Coinnect,2.0,,,,SEED,,False,0.0,unverified,,,https://www.linkedin.com/feed/update/urn:li:activity:6964944488603500544/,2025-03-11 21:37:28
+Thriftify,1.76,1.6,0.15999999999999992,9.090909090909086,SEED,Not specified,False,0.5,unverified,amount,round_type,https://www.independent.ie/business/irish/thriftify-to-create-20-new-jobs-following-16m-investment-deal-41899012.html,2025-03-11 21:37:28
+Growth Intelligence,1.98,1.5,0.48,24.242424242424242,EARLY VC,Not specified,False,0.0,unverified,,"amount, round_type",https://www.uktech.news/ai/growth-intelligence-funding-20220802,2025-03-11 21:37:28
+ReLearn,0.0715,,,,SEED,,False,0.0,unverified,,,https://www.linkedin.com/posts/lventure-group_zero-cleantech-joule-activity-6958035600893468672-AMyw?utm_source=linkedin_share&utm_medium=member_desktop_web,2025-03-11 21:37:28
+Bab Iot Technologies,2.2,2.0,0.20000000000000018,9.090909090909099,SEED,Not specified,False,0.5,unverified,amount,round_type,https://webrazzi.com/2022/08/08/iot-donanimlari-ve-yazilimlari-ureten-bab-iot-2-milyon-euro-degerleme-uzerinden-yatirim-aldi,2025-03-11 21:37:28
+Usedemand,6.3,6.3,0.0,0.0,SEED,Not specified,False,0.5,unverified,amount,round_type,https://tech.eu/2022/08/01/saleshub-acquires-exactvisitor-and-techtracker-merges-to-become-demand-and-raises-6-3-million-in-the-process,2025-03-11 21:37:28
+George Medicines,1.5,,,,EARLY VC,,False,0.0,unverified,,,https://george-medicines.com/george-medicines-advances-triple-combination-candidate-gmrx4-into-phase-ii-clinical-development-for-first-line-treatment-of-type-2-diabetes/,2025-03-11 21:37:28
+George Medicines,1.5,,,,EARLY VC,,False,0.0,unverified,,round_type,https://george-medicines.com/george-medicines-advances-triple-combination-candidate-gmrx4-into-phase-ii-clinical-development-for-first-line-treatment-of-type-2-diabetes/,2025-03-11 21:37:29
+George Medicines,35.64,,,,LATE VC,Not mentioned,False,0.0,unverified,,,https://brandoncapital.vc/portfolio/george-medicine/,2025-03-11 21:37:29
+George Medicines,35.64,,,,LATE VC,Not mentioned,False,0.0,unverified,,round_type,https://brandoncapital.vc/portfolio/george-medicine/,2025-03-11 21:37:29
+CreationDose,0.825,,,,SEED,,False,0.0,unverified,,,https://www.crowdfundme.it/projects/creationdose/,2025-03-11 21:37:29
+OCTAIPIPE,0.055,0.05,0.0049999999999999975,9.090909090909086,SEED,Seed,True,1.0,verified,"amount, round_type",,https://start-up.ro/romanian-business-angels-growceanu-50-000-eur-investment-in-t-dab-ai/,2025-03-11 21:37:29
+Anytype,0.0,13.4,13.4,,SERIES A,Not specified,False,0.0,unverified,,round_type,https://www.finsmes.com/2023/08/anytype-raises-13-4m-in-funding.html,2025-03-11 21:37:29
+Maholla,0.58,1.5,0.92,158.62068965517244,SEED,Seed,True,0.5,unverified,round_type,amount,https://afrikanheroes.com/2023/04/25/consumer-rewards-startup-maholla-raises-1-5m-to-revolutionize-shopping-habits-in-south-africa/,2025-03-11 21:37:29
+Subphoton,0.825,,,,SEED,,False,0.0,unverified,,,https://www.liftt.com/portfolio-item/subphoton/,2025-03-11 21:37:29
+Suturion Ab,1.815182,15.0,13.184818,726.3634170017111,EARLY VC,Not specified,False,0.0,unverified,,"amount, round_type",https://nordic9.com/news/suturion-secured-sek-15-million-from-almi-invest-and-lu-holding/,2025-03-11 21:37:29
+Ejara,0.0,2.0,2.0,,SERIES A,Not specified,False,0.0,unverified,,round_type,https://techcrunch.com/2021/10/07/cameroons-ejara-raises-2m-to-offer-crypto-and-investment-services-in-francophone-africa/,2025-03-11 21:37:29
+L'atelier des Chefs,7.7,,,,EARLY VC,,False,0.0,unverified,,,https://www.ecap-partner.com/news/research/synthese-des-levees-de-fonds-du-numerique-en-juillet-2022/,2025-03-11 21:37:29
+Airsonett,2.420242,20.0,17.579757999999998,726.3636446272727,LATE VC,Not specified,False,0.0,unverified,,"amount, round_type",https://nordic9.com/news/airsonett-raised-sek-20-million-from-fahraeus-startup-growth-fund-industrifonden-seb-venture-and-magnus-lundberg/,2025-03-11 21:37:29
+Creative Fabrica,0.0,,,,SERIES B,,False,0.0,unverified,,,https://fjlabs.com/portfolio/,2025-03-11 21:37:29
+Kessel,1.54,,,,SEED,,False,0.0,unverified,,,https://www.ecap-partner.com/news/research/synthese-des-levees-de-fonds-du-numerique-en-juin-2022/,2025-03-11 21:37:29
+api.video,12.0,640.0,628.0,5233.333333333334,SERIES A,Not specified,False,0.0,unverified,,"amount, round_type",https://www.ecap-partner.com/news/research/synthese-des-levees-de-fonds-du-numerique-en-decembre-2022/,2025-03-11 21:37:29
+Atomic Growth,0.0,,,,SEED,,False,0.0,unverified,,,https://gandyr.com/en/gandyr-investments/gandyr-investment-portfolio/,2025-03-11 21:37:29
+Voidless,0.66,,,,SEED,,False,0.0,unverified,,,https://www.globallegalchronicle.com/italia/360-capital-partners-investe-in-voidless/,2025-03-11 21:37:29
+Jolt Energy,0.0,,,,SERIES A,,False,0.0,unverified,,,https://www.faz.net/aktuell/technik-motor/technik/ein-muenchner-unternehmen-vermietet-lastwagen-und-feste-akku-schnellladestationen-16774536.html,2025-03-11 21:37:29
+Living Brain,1.65,,,,SEED,,False,0.0,unverified,,,https://www.deutsche-startups.de/2022/07/11/dealmonitor-wefox-kadmos/,2025-03-11 21:37:29
+ABC Transfer,1.1,4.0,2.9,263.6363636363636,SERIES B,Not specified,False,0.0,unverified,,"amount, round_type",https://www.jaimelesstartups.fr/news/abc-transfer-levee-de-fonds/,2025-03-11 21:37:29
+Everfund,0.1,,,,SEED,,False,0.0,unverified,,,https://www.netlify.com/blog/jamstack-innovation-fund-launches-with-the-10-most-promising-jamstack-startups/,2025-03-11 21:37:29
+Nolea Health,0.1,,,,EARLY VC,,False,0.0,unverified,,,https://techcrunch.com/2022/06/16/google-for-startups-deploys-4m-of-grant-funding-to-40-black-led-startups-across-europe/,2025-03-11 21:37:29
+Silta Finance,2.3,,,,SEED,Not specified,False,0.0,unverified,,round_type,https://medium.com/silta-finance/news-silta-receives-backing-from-cerulean-ventures-b3d6aa21fe44,2025-03-11 21:37:29
+Spring Vision,2.0,,,,EARLY VC,,False,0.0,unverified,,,https://www.prnewswire.com/news-releases/spring-vision-announces-investment-by-medipress-health-limited-partnership-301580457.html,2025-03-11 21:37:29
+O.c. Hairsystems,0.0,,,,SEED,,False,0.0,unverified,,,https://www.deutsche-startups.de/2022/07/08/startupticker-27/,2025-03-11 21:37:29
+Arab Therapy,0.115,0.115,0.0,0.0,SEED,Seed,True,1.0,verified,"amount, round_type",,https://www.wamda.com/en/2022/07/flat6labs-invests-seven-jordanian-startups,2025-03-11 21:37:29
+HRLink,1.502732,,,,SEED,,False,0.0,unverified,,,https://oopstop.com/headhunter-became-a-minority-shareholder-of-hrlink/,2025-03-11 21:37:29
+Ingenieur.de,5.5,,,,SERIES A,,False,0.0,unverified,,,https://www.realwire.com/releases/Sentryc-raises-EUR-5-million-in-Series-A-funding,2025-03-11 21:37:29
+Naturbeads,1.65,1.3,0.34999999999999987,21.212121212121204,SEED,Not specified,False,0.0,unverified,,"amount, round_type",https://www.chemeurope.com/en/news/1176862/spin-out-company-aiming-to-replace-harmful-plastic-microbeads-receives-1-3m-investment.html,2025-03-11 21:37:29
+kodehyve,2.86,2.6,0.2599999999999998,9.090909090909085,SEED,Not specified,False,0.5,unverified,amount,round_type,https://www.eu-startups.com/2022/11/exclusive-look-luxembourg-based-kodehyve-bags-e2-6-million-to-make-real-estate-more-collaborative/,2025-03-11 21:37:29
+Biovitae,0.66,2.1,1.44,218.18181818181816,SEED,Seed funding,False,0.0,unverified,,"amount, round_type",https://bebeez.it/venture-capital/nextsense-incassa-600k-euro-da-ulixes-capital-partners-e-15-mln-in-direct-lending-attraverso-azimut-direct/,2025-03-11 21:37:29
+Happity,0.84018,,,,SEED,Not mentioned,False,0.0,unverified,,round_type,https://march8.com/articles/happity-using-technology-to-support-maternal-mental-health,2025-03-11 21:37:29
+CergenX,0.88,0.8,0.07999999999999996,9.090909090909086,SEED,Seed,True,1.0,verified,"amount, round_type",,https://www.businesspost.ie/post-plus/cork-medtech-firm-cergenx-raises-e800k-for-product-to-monitor-brain-health-of-newborns/,2025-03-11 21:37:29
+Sprk Capital,4.62,4.0,0.6200000000000001,13.41991341991342,SEED,Not specified (Debt financing),False,0.0,unverified,,"amount, round_type",https://bit.ly/44xl8T7,2025-03-11 21:37:29
+Wholey,0.0,,,,SEED,,False,0.0,unverified,,,https://www.deutsche-startups.de/2023/02/20/super-angels-lemcke-2023/,2025-03-11 21:37:29
+Everon AG,0.0,,,,SEED,,False,0.0,unverified,,,https://www.startupticker.ch/en/news/zurich-based-qbit-capital-launches-its-first-venture-capital-fund,2025-03-11 21:37:29
+GameWard,1.1,,,,SEED,,False,0.0,unverified,,,https://www.ecap-partner.com/news/research/synthese-des-levees-de-fonds-du-numerique-en-mai-2022/,2025-03-11 21:37:29
+Heights,1.98,,,,SEED,,False,0.0,unverified,,,http://dlvr.it/Sgk1VC,2025-03-11 21:37:29
+iRaiser,2.75,,,,EARLY VC,,False,0.0,unverified,,,https://www.ecap-partner.com/news/research/synthese-des-levees-de-fonds-du-numerique-en-juillet-2022/,2025-03-11 21:37:29
+Lingio,4.961496,41.0,36.038504,726.3636612828067,LATE VC,Equity round,False,0.0,unverified,,"amount, round_type",https://nordic9.com/news/lingio-in-a-sek-41-million-equity-round-backed-by-backing-minds/,2025-03-11 21:37:29
+Cognibotics,7.260726,60.0,52.739274,726.3636446272728,LATE VC,Not specified,False,0.0,unverified,,"amount, round_type",https://fairpoint.se/robotics-company-cognibotics-raises-sek-60-million-in-new-capital/,2025-03-11 21:37:29
+Digital4Better,2.2,,,,SEED,,False,0.0,unverified,,,https://www.usine-digitale.fr/article/avec-fruggr-digital4better-veut-aider-les-entreprises-a-reduire-leur-empreinte-numerique.N2021657,2025-03-11 21:37:29
+Countagen,1.39164,,,,EARLY VC,,False,0.0,unverified,,,https://www.almi.se/almi-invest/nyheter/almi-invest-investerar-i-countagen-som-gor-det-enklare-att-redigera-gener/,2025-03-11 21:37:29
+SENSIVIC,1.76,1.0,0.76,43.18181818181818,SEED,Not specified,False,0.0,unverified,,"amount, round_type",https://www.ecap-partner.com/news/research/synthese-des-levees-de-fonds-du-numerique-en-juin-2022/,2025-03-11 21:37:29
+Airolit,1.573157,13.0,11.426843,726.3638022142736,EARLY VC,Not specified,False,0.0,unverified,,"amount, round_type",https://nordic9.com/news/airolit-raised-sek-13-million/,2025-03-11 21:37:29
+Base,15.0,,,,SEED,,False,0.0,unverified,,,https://finance.sina.com.cn/tech/2022-06-20/doc-imizmscu7760283.shtml?finpagefr=p_114,2025-03-11 21:37:29
+Base,15.0,,,,SEED,,False,0.0,unverified,,,https://finance.sina.com.cn/tech/2022-06-20/doc-imizmscu7760283.shtml?finpagefr=p_114,2025-03-11 21:37:29
+Base,0.0,,,,SEED,,False,0.0,unverified,,,https://www.fusion-vc.com/portfolio,2025-03-11 21:37:29
+Base,0.0,,,,SEED,,False,0.0,unverified,,,https://www.fusion-vc.com/portfolio,2025-03-11 21:37:29
+Periapt,6.0,6.0,0.0,0.0,SEED,Not specified,False,0.5,unverified,amount,round_type,https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-708434,2025-03-11 21:37:29
+Aiperia,1.1,,,,SEED,,False,0.0,unverified,,,https://www.zdi-mainfranken.de/news/536060.Planer.AI-erhaelt-Seedfinanzierung-in-sechsstelliger-Hoehe.html,2025-03-11 21:37:29
+Negocios Verdes,5.322581,30.0,24.677419,463.6363260606086,LATE VC,Not specified,False,0.0,unverified,,"amount, round_type",https://startupi.com.br/2022/06/gk-ventures-investe-r-30-milhoes-em-plataforma-de-solucao-para-residuo-industrial/,2025-03-11 21:37:29
+Filu,0.0,,,,SEED,Not specified,False,0.0,unverified,,round_type,https://www.deutsche-startups.de/2022/06/16/dealmonitor-upvest-tldv/,2025-03-11 21:37:29
+Velvet AutoInvest,1.3,,,,SEED,,False,0.0,unverified,,,https://www.deutsche-startups.de/2022/06/15/dealmonitor-medifox-dan-vation/,2025-03-11 21:37:29
+foodforecast,0.55,,,,SEED,,False,0.0,unverified,,,https://www.deutsche-startups.de/2022/06/22/dealmonitor-personio-planted/,2025-03-11 21:37:29
+Tamatem,5.0,,,,EARLY VC,,False,0.0,unverified,,,http://www.myzaker.com/article/62b2ee9a8e9f0919d3462a1e/,2025-03-11 21:37:29
+Honestly Tasty,0.9504,,,,SEED,,False,0.0,unverified,,,https://honestlytasty.co.uk/blogs/news/a-crowdfunding-update,2025-03-11 21:37:29
+ENLYZE,0.0,30.0,30.0,,SEED,Not specified,False,0.0,unverified,,round_type,https://www.deutsche-startups.de/2022/06/08/dealmonitor-quantum-systems/,2025-03-11 21:37:29
+Quizrr,2.5,2.5,0.0,0.0,EARLY VC,Not specified,False,0.5,unverified,amount,round_type,https://www.quizrr.se/news/quizrr-raises-new-funds-to-fuel-global-expansion/,2025-03-11 21:37:29
+ConWize,2.8,2.8,0.0,0.0,SEED,Not specified,False,0.5,unverified,amount,round_type,https://www.prnewswire.co.uk/news-releases/conwize-raises-2-8-million-to-expand-operations-into-europe-818499232.html,2025-03-11 21:37:29
+Data Science Group,6.0,6.0,0.0,0.0,SERIES A,Series A,True,1.0,verified,"amount, round_type",,https://www.calcalistech.com/ctechnews/article/rkagtfzq9,2025-03-11 21:37:29
+Muckle Brig,2.904,,,,SEED,Crowdfunding,False,0.0,unverified,,round_type,https://www.insider.co.uk/news/port-leiths-vertical-distillery-gets-27357475,2025-03-11 21:37:29
+Magpie,0.0,,,,SEED,,False,0.0,unverified,,,https://medium.com/@Magpieprotocol/magpie-protocol-faster-and-easier-cross-chain-swaps-3a8d8b617979,2025-03-11 21:37:29
+KidStart,0.858,650.0,649.142,75657.57575757576,SEED,Crowdfunding,False,0.0,unverified,,"amount, round_type",https://www.angelnews.co.uk/blog/equity-crowdfunding/family-investment-app-beanstalk-exceeds-650k-crowdfunding-target/,2025-03-11 21:37:29
+Famedly,2.75,2.5,0.25,9.090909090909092,SEED,Seed,True,1.0,verified,"amount, round_type",,https://fundscene.com/famedly-seed-finanzierung/,2025-03-11 21:37:29
+Autentica,1.2,1.2,0.0,0.0,SEED,Pre-Seed,False,0.5,unverified,amount,round_type,https://www.finsmes.com/2022/06/autentica-raises-1-2m-in-pre-seed-funding.html,2025-03-11 21:37:29
+Distributed,6.6,8.0,1.4000000000000004,21.212121212121218,SERIES A,Not specified,False,0.0,unverified,,"amount, round_type",https://www.finsmes.com/2022/06/distributed-raises-8m-in-funding.html,2025-03-11 21:37:29
+GetWhy,6.6,,,,SEED,,False,0.0,unverified,,,https://regnskaber.cvrapi.dk/80601533/amNsb3VkczovLzAzLzgzL2I5LzZjL2E0L2M4YmUtNDJhMi05MTBjLTUzYTllNzk5MDdkZQ.pdf,2025-03-11 21:37:29
+Photon Sports Technologies,2.29923,19.0,16.70077,726.3636086863862,LATE VC,Not specified,False,0.0,unverified,,"amount, round_type",https://www-uminovainnovation-se.translate.goog/aktuellt/photon-sports-tar-in-19-miljoner-i-nytt-kapital/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=sc,2025-03-11 21:37:29
+enshift,3.208334,3.5,0.2916660000000002,9.090886422672959,SEED,Not specified,False,0.5,unverified,amount,round_type,https://www.deutsche-startups.de/2023/09/26/dealmonitor-rightmart-legal-one-pexapark/,2025-03-11 21:37:29
+Aggua,0.0,,,,SEED,,False,0.0,unverified,,,https://www.sabanventures.com/portfolio,2025-03-11 21:37:29
+Concr,1.584,,,,SEED,,False,0.0,unverified,,,https://www.concr.co/news/concr-announce-the-close-of-seed-round-to-enhance-first-in-class-ml-enabled-biomarker-discovery-in-oncology,2025-03-11 21:37:29
+Voxalyze,1.32,,,,SEED,,False,0.0,unverified,,,https://www.deutsche-startups.de/2022/12/05/startupticker-investmentkriterien/,2025-03-11 21:37:29
+Turnpike,3.388339,28.0,24.611660999999998,726.3635958503561,LATE VC,Angel round,False,0.0,unverified,,"amount, round_type",https://nordic9.com/news/turnpike-raised-sek-28-million-from-angel-investors-from-sweden/,2025-03-11 21:37:29
+African Clean Energy,3.85,3.5,0.3500000000000001,9.090909090909092,EARLY VC,Equity investment round,False,0.5,unverified,amount,round_type,https://africancleanenergy.com/press-release-african-clean-energy-closes-a-eur-3-5-million-investment-round/,2025-03-11 21:37:29
+Learned.io,1.65,,,,EARLY VC,Not specified in the news article,False,0.0,unverified,,round_type,https://arches.capital/press-releases/learned-io-raises-funding-to-growh-its-skill-based-talet-management-platform/,2025-03-11 21:37:29
+Reglo,1.98,,,,SEED,,False,0.0,unverified,,,https://www.ecap-partner.com/news/research/synthese-des-levees-de-fonds-du-numerique-en-mai-2022/,2025-03-11 21:37:29
+Intelecy,1.331133,11.0,9.668867,726.3637067069933,EARLY VC,Not specified,False,0.0,unverified,,"amount, round_type",https://nordic9.com/news/intelecy-secured-nok-11-million/,2025-03-11 21:37:29
+Vitala,1.089109,9.0,7.9108909999999995,726.3635687520715,EARLY VC,Not specified,False,0.0,unverified,,"amount, round_type",https://nordic9.com/news/vitala-in-a-sek-9-million-round-backed-by-veq-and-partnerinvest-norr/,2025-03-11 21:37:29
+Caption,2.2,2.0,0.20000000000000018,9.090909090909099,SEED,Not specified,False,0.5,unverified,amount,round_type,https://www.journaldunet.com/economie/finance/1511537-caption-leve-2-millions-d-euros-aupres-de-sa-communaute/,2025-03-11 21:37:29
+Chainflip,10.0,,,,EARLY VC,,False,0.0,unverified,,,https://www.cmnnews.live/chainflip-labs-has-received-10m-in-funding-for-their-cross-chain-dex/,2025-03-11 21:37:29
+MALL Pay,0.0,100.0,100.0,,SEED,Not specified,False,0.0,unverified,,round_type,https://www.lupa.cz/aktuality/csob-posila-dalsich-vice-nez-sto-milionu-do-ztratoveho-fintechu-mall-pay/,2025-03-11 21:37:29
+Glimpse,1.65,1.5,0.1499999999999999,9.090909090909086,SERIES A,Not specified,False,0.5,unverified,amount,round_type,https://www.siliconrepublic.com/start-ups/visionr-rebrand-glimpse-adtech-funding,2025-03-11 21:37:29
+Isochronic AG,1.833334,2.0,0.16666599999999998,9.090869421502028,SEED,Seed,True,1.0,verified,"amount, round_type",,https://www.venturelab.swiss/Isochronic-developing-softwaredriven-industrial-robot-for-PickPlace-applications-closes-CHF2-million-seed-round,2025-03-11 21:37:29
+Aramune,1.056,800.0,798.944,75657.57575757575,SEED,Not specified,False,0.0,unverified,,"amount, round_type",http://syncni.com/article/9327/aramune-technologies-raises-800k-to-scale-and-trial-its-first-product,2025-03-11 21:37:29
+Comparesoft,1.43,1.3,0.1299999999999999,9.090909090909085,SEED,Not specified,False,0.5,unverified,amount,round_type,https://www.prnewswire.com/news-releases/comparesoft-raises-1-3-million-from-blackfinch-ventures-301554585.html,2025-03-11 21:37:29
+Sequentify,7.0,7.0,0.0,0.0,SEED,Not specified,False,0.5,unverified,amount,round_type,https://www.life-sciences-europe.com/news/israel-based-sequentify-emerges-ltd-weizmann-institute-science-2001-120023.html,2025-03-11 21:37:29
+Intelligence Anesthesia,1.98,,,,SEED,,False,0.0,unverified,,,https://www.usine-digitale.fr/article/grace-a-l-ia-hoopcare-veut-ameliorer-la-preparation-des-patients-a-la-chirurgie.N2001802,2025-03-11 21:37:29
+Klarpay AG,2.75,3.0,0.25,9.090909090909092,SEED,Not specified,False,0.5,unverified,amount,round_type,https://www.finsmes.com/2022/05/klarpay-raises-chf-3m-in-funding.html,2025-03-11 21:37:29
+Synctive,1.65,1.5,0.1499999999999999,9.090909090909086,SEED,Not specified,False,0.5,unverified,amount,round_type,https://player.fm/series/startup-insider/iot-startup-synctive-sammelt-15-mio-euro-ein-software-maschinenbau-management,2025-03-11 21:37:29
+NAVIT,0.0,2.8,2.8,,SEED,Not specified,False,0.0,unverified,,round_type,https://www.deutsche-startups.de/2022/05/24/dealmonitor-knowunity-back/,2025-03-11 21:37:29
+Bosque Foods,3.3,47.0,43.7,1324.2424242424245,SEED,Not mentioned,False,0.0,unverified,,"amount, round_type",https://www.deutsche-startups.de/2022/05/17/dealmonitor-tradelink-storyblok/,2025-03-11 21:37:29
+Bosque Foods,3.3,47.0,43.7,1324.2424242424245,SEED,Not mentioned,False,0.0,unverified,,,https://www.deutsche-startups.de/2022/05/17/dealmonitor-tradelink-storyblok/,2025-03-11 21:37:29
+Bosque Foods,0.22,,,,SEED,,False,0.0,unverified,,"amount, round_type",https://vegconomist.com/startups-accelerators-incubators/the-innovative-startups-joining-the-6th-proveg-accelerator-are-revealed-from-mushroom-meat-to-upcycled-fruit-pits/,2025-03-11 21:37:29
+Bosque Foods,0.22,,,,SEED,,False,0.0,unverified,,,https://vegconomist.com/startups-accelerators-incubators/the-innovative-startups-joining-the-6th-proveg-accelerator-are-revealed-from-mushroom-meat-to-upcycled-fruit-pits/,2025-03-11 21:37:29
+Exalens,0.726,550.0,549.274,75657.57575757576,SEED,Seed,True,0.5,unverified,round_type,amount,https://www.exalens.com/resources/uncategorized/exalens-raises-550kto-bring-cyber-physical-security-to-industry-40/,2025-03-11 21:37:29
+OTOVINN,1.0,1.0,0.0,0.0,SEED,Seed,True,1.0,verified,"amount, round_type",,https://egirisim.com/2022/05/23/otovinn-15-milyon-dolar-degerleme-uzerinden-1-milyon-dolar-yatirim-aldi/,2025-03-11 21:37:29
+Livy Care,2.53,,,,SEED,,False,0.0,unverified,,,https://www.deutsche-startups.de/2022/05/20/dealmonitor-hellofreshgo/,2025-03-11 21:37:29
+Skyseed,2.2,30.0,27.8,1263.6363636363635,SEED,Not provided,False,0.0,unverified,,"amount, round_type",https://www.deutsche-startups.de/2022/05/04/dealmonitor-proglove-gropyus/,2025-03-11 21:37:29
+Scompler,7.7,,,,SERIES A,,False,0.0,unverified,,,https://www.deutsche-startups.de/2022/06/08/aufstrebende-startups-juni/,2025-03-11 21:37:29
+valyria,11.0,,,,SEED,,False,0.0,unverified,,,https://www.deutsche-startups.de/2022/07/20/investitionen-halbjahr-2022/,2025-03-11 21:37:29
+ABAKA,5.0,,,,SERIES A,,False,0.0,unverified,,,https://www.prweb.com/releases/2021/11/prweb18317169.htm,2025-03-11 21:37:29
+Badili,0.0,,,,SEED,Not specified in the article,False,0.0,unverified,,round_type,https://www.vccircle.com/artha-india-ventures-debuts-in-africa-with-investment-in-badili,2025-03-11 21:37:29
+auto-ecole.net,10.0,10.0,0.0,0.0,SERIES B,Series B,True,1.0,verified,"amount, round_type",,https://www.clipperton.com/transactions/auto-ecole-net-raises-a-series-b-round,2025-03-11 21:37:29
+Lanterne,0.44,,,,SEED,,False,0.0,unverified,,,https://siliconcanals.com/news/startups/travel-mobility/lanterne-raises-400k/,2025-03-11 21:37:29
+Unbound Nation,3.0,3.0,0.0,0.0,SEED,Not specified,False,0.5,unverified,amount,round_type,https://www.deutsche-startups.de/2022/05/11/dealmonitor-gethenry/,2025-03-11 21:37:29
+Scooper Energy,1.1,30.0,28.9,2627.272727272727,SEED,Not specified,False,0.0,unverified,,"amount, round_type",https://www.deutsche-startups.de/2022/05/04/dealmonitor-proglove-gropyus/,2025-03-11 21:37:29
+Quai,2.0,2.0,0.0,0.0,EARLY VC,Not specified,False,0.5,unverified,amount,round_type,https://blog.quai.network/quai-network-receives-2m-from-alumni-ventures-f64a21f711ac,2025-03-11 21:37:29
+Utila,0.05,,,,SEED,,False,0.0,unverified,,,https://www.k5global.com/companies,2025-03-11 21:37:29
+Kikimora,0.165,0.15,0.015000000000000013,9.090909090909099,SEED,Not specified,False,0.5,unverified,amount,round_type,https://forbesbulgaria.com/2022/05/20/socyber-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8-150-000-%D0%B5%D0%B2%D1%80%D0%BE-%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%B8%D1%80%D0%B0%D0%BD%D0%B5-%D0%BE%D1%82-%D0%B8%D0%BC%D0%B2%D0%B5%D0%BD%D1%87%D1%8A/?cn-reloaded=1,2025-03-11 21:37:29
+MYSO Finance,2.4,2.4,0.0,0.0,SEED,Seed Round,False,0.5,unverified,amount,round_type,https://medium.com/mysofinance/myso-closes-2-4m-seed-round-2f4f8114144e,2025-03-11 21:37:29
+spacebands,0.594,450.0,449.406,75657.57575757576,SEED,Seed,True,0.5,unverified,round_type,amount,https://www.innovateukedge.ukri.org/success-story/SpaceBands-raises-PS450K-to-grow-investment-readiness-support,2025-03-11 21:37:29
+Blue Shock Race,0.605,15.0,14.395,2379.3388429752067,SEED,Not specified,False,0.0,unverified,,"amount, round_type",https://www.baltictimes.com/from__150_000_to__15_million___the_result_of_blue_shock_race_s_firm_growth/,2025-03-11 21:37:29
+Lita.co,12.1,,,,EARLY VC,,False,0.0,unverified,,,https://www.ecap-partner.com/news/research/synthese-des-levees-de-fonds-du-numerique-en-mars-2022/,2025-03-11 21:37:29
+Maison Stella & Suzie,2.75,,,,SEED,,False,0.0,unverified,,,https://www.ecap-partner.com/news/research/synthese-des-levees-de-fonds-du-numerique-en-avril-2022/,2025-03-11 21:37:29
+Rubypayeur,0.44,,,,EARLY VC,,False,0.0,unverified,,,https://www.ecap-partner.com/news/research/synthese-des-levees-de-fonds-du-numerique-en-avril-2022/,2025-03-11 21:37:29
+Insert Coin,5.445545,4.3,1.1455450000000003,21.036370097024268,SEED,Not specified,False,0.0,unverified,,"amount, round_type",https://bit.ly/3PW1wl3,2025-03-11 21:37:29
+LottieLab,4.0,,,,SEED,,False,0.0,unverified,,,https://businesscloud.co.uk/news/gifs-of-the-future-firm-backed-by-vcs-and-angels/,2025-03-11 21:37:29
+Tech5,10.5,10.0,0.5,4.761904761904762,EARLY VC,Not specified,False,0.5,unverified,amount,round_type,https://www.startupticker.ch/en/news/additional-us-10-million-for-tech5,2025-03-11 21:37:29
+Virtuagym,3.3,,,,EARLY VC,,False,0.0,unverified,,,https://www.healthclubmanagement.co.uk/health-club-management-news/Virtuagym-raises-3-million-Euro-investment-to-fuel-innovation-in-health-and-fitness-technology/349447,2025-03-11 21:37:29
+Lawtech Software Group,1.0,,,,SEED,Seed Funding,False,0.0,unverified,,round_type,https://www.thebusinessdesk.com/westmidlands/your-news/lawtech-365-closes-oversubscribed-seed-funding-round-for-technology-to-revolutionise-the-legal-sector,2025-03-11 21:37:29
+RDS,6.6,5.0,1.5999999999999996,24.24242424242424,EARLY VC,Not specified,False,0.0,unverified,,"amount, round_type",https://realdeals.eu.com/article/bgf-invests-5m-in-rds,2025-03-11 21:37:29
+IPOR,5.6,5.55,0.04999999999999982,0.8928571428571397,EARLY VC,Strategic Funding,False,0.5,unverified,amount,round_type,https://medium.com/ipor-labs/announcing-5-55m-in-funding-for-the-ipor-protocol-109470d9e5a2,2025-03-11 21:37:29
+Maison Sport,0.58344,442.0,441.41656,75657.57575757576,SEED,Not specified,False,0.0,unverified,,"amount, round_type",https://www.insider.co.uk/news/maison-sport-secures-442000-funding-26627997,2025-03-11 21:37:29
+Optimate,3.52,10.0,6.48,184.0909090909091,SEED,Not specified,False,0.0,unverified,,"amount, round_type",https://www.deutsche-startups.de/2022/04/07/dealmonitor-grover-productsup/,2025-03-11 21:37:29
+GoodsForecast,3.095629,206.0,202.904371,6554.544197641255,LATE VC,Not specified,False,0.0,unverified,,"amount, round_type",https://rb.ru/news/goodsforecast/,2025-03-11 21:37:29
+Violet,0.0,,,,SEED,,False,0.0,unverified,,,https://www.deutsche-startups.de/2022/04/08/startupticker-14-2022/,2025-03-11 21:37:29
+AGORA images,2.42,2.2,0.21999999999999975,9.090909090909081,SEED,Not specified,False,0.5,unverified,amount,round_type,https://www.finsmes.com/2022/04/agora-awards-raises-2-2m-in-funding.html,2025-03-11 21:37:29
+Meet5,1.21,,,,SEED,,False,0.0,unverified,,,https://www.deutsche-startups.de/2022/04/21/dealmonitor-gotiger-artnight/,2025-03-11 21:37:29
+Audyo,1.0,,,,SEED,,False,0.0,unverified,,,https://serfly.net/news/2160/audyo-raises-1-million-seed-funding-round/,2025-03-11 21:37:29
+White Sands,8.0,,,,SEED,,False,0.0,unverified,,,https://explode.africa/white-sands-raises-8m-for-its-island-metaverse/,2025-03-11 21:37:29
+Operance,0.33,0.25,0.08000000000000002,24.242424242424246,SEED,Seed,True,0.5,unverified,round_type,amount,https://www.businessupnorth.co.uk/innovative-building-information-management-business-raises-250000-to-develop-audit-trail-software/,2025-03-11 21:37:29
+Freshflow,1.87,,,,SEED,,False,0.0,unverified,,,https://www.deutsche-startups.de/2022/06/14/freshflow-food-waste/,2025-03-11 21:37:29
+Freshflow,1.87,,,,SEED,,False,0.0,unverified,,,https://www.deutsche-startups.de/2022/06/14/freshflow-food-waste/,2025-03-11 21:37:29
+Freshflow,0.0,,,,SEED,,False,0.0,unverified,,,https://techcrunch.com/2022/04/21/freshflow-seed/,2025-03-11 21:37:29
+Freshflow,0.0,,,,SEED,,False,0.0,unverified,,,https://techcrunch.com/2022/04/21/freshflow-seed/,2025-03-11 21:37:29
+Standard Gas,3.0,,,,EARLY VC,,False,0.0,unverified,,,https://bebeez.it/private-equity-breakfast/notizie-da-tiger-infrastructure-partners-coral-tree-management-ares-management-venturi-partners-peugeot-invest-hig-capital-thomas-h-lee-partner-e-altri/,2025-03-11 21:37:29
+MedicubeX,0.341,,,,SEED,,False,0.0,unverified,,,https://www.foundme.io/uudised/2022/05/04/investorid-toetasid-soome-idu-400-miljoni-eurosele-turule-purgimist,2025-03-11 21:37:29
+MyMove,3.52,,,,SERIES A,,False,0.0,unverified,,,https://siliconcanals.com/news/startups/travel-mobility/mymove-has-secured-3-2m/,2025-03-11 21:37:29
+Gripable,11.0,11.0,0.0,0.0,SERIES A,Series A,True,1.0,verified,"amount, round_type",,https://www.finsmes.com/2022/04/gripable-raises-11m-in-series-a-funding.html,2025-03-11 21:37:29
+Beacon Power Services,0.1,,,,SEED,,False,0.0,unverified,,,https://kaleo.vc/portfolio/,2025-03-11 21:37:29
+AugmentedCISO,2.75,,,,SEED,,False,0.0,unverified,,,https://www.ecap-partner.com/news/research/synthese-des-levees-de-fonds-du-numerique-en-mars-2022/,2025-03-11 21:37:29
+Wanda Fish,3.0,7.0,4.0,133.33333333333331,SEED,Seed Funding,False,0.0,unverified,,"amount, round_type",https://www.prnewswire.com/news-releases/wanda-fish-raises-usd-7m-in-seed-funding-to-accelerate-pilot-production-of-cultivated-bluefin-tuna-301950831.html,2025-03-11 21:37:29
+Sensible Biotechnologies,0.0,,,,SEED,,False,0.0,unverified,,,https://www.ffvcnc.org/new-blog/introducing-first-flights-inaugural-wheelsup-cohort,2025-03-11 21:37:29
+Spark+ Africa Fund,2.64,,,,EARLY VC,,False,0.0,unverified,,,https://www.bio-invest.be/en/investments/spark-africa-fund,2025-03-11 21:37:29
+DOOD,2.75,,,,EARLY VC,,False,0.0,unverified,,,https://www.ecap-partner.com/news/research/synthese-des-levees-de-fonds-du-numerique-en-mars-2022/,2025-03-11 21:37:29
+Sileon,1.7,,,,EARLY VC,,False,0.0,unverified,,,https://sileon.com/investors/press-releases/visa-to-invest-further-in-sileons-bnpl-saas-platform/,2025-03-11 21:37:29
+Zelt,3.8,,,,SEED,Not mentioned,False,0.0,unverified,,round_type,https://www.mushaventures.com/global#/zelt/,2025-03-11 21:37:29
+Elevien,2.2,,,,SEED,,False,0.0,unverified,,,https://www.debug.hr/bornfightov-sportsko-tehnoloski-startup-grabi-prema-globalnoj-ekspanziji-i-povecava-svoj-tim/,2025-03-11 21:37:29
+Eggmented Reality,1.2,,,,SEED,,False,0.0,unverified,,,https://fresh-start.co.il/portfolio/,2025-03-11 21:37:29
+TANKU,8.0,8.0,0.0,0.0,EARLY VC,Not specified,False,0.5,unverified,amount,round_type,https://www.calcalistech.com/ctechnews/article/syjdtdlx9,2025-03-11 21:37:29
+CHILI publish,11.0,11.0,0.0,0.0,EARLY VC,Not specified,False,0.5,unverified,amount,round_type,http://ow.ly/T1UL50IA9vj,2025-03-11 21:37:29
+Freyapharmasolutions,8.5,8.5,0.0,0.0,SEED,Not specified,False,0.5,unverified,amount,round_type,https://freyapharmasolutions.com/freya-pharma-solutions-secures-us8-5-million-enabling-the-start-of-a-pivotal-phase-3-trial-with-lybrido-against-female-sexual-interest-arousal-disorder-fsiad/,2025-03-11 21:37:29
+cuvama,1.452,1.1,0.35199999999999987,24.242424242424235,SEED,Not specified,False,0.0,unverified,,"amount, round_type",https://www.newswire.com/news/cuvama-the-first-native-customer-value-management-platform-raises-1-1m-21669214,2025-03-11 21:37:29
+Equinox Kombucha,1.452,,,,SEED,,False,0.0,unverified,,,http://dlvr.it/SMlg8D,2025-03-11 21:37:29
+Medical Templates AG,2.75,3.0,0.25,9.090909090909092,SEED,Seed,True,1.0,verified,"amount, round_type",,https://www.venturekick.ch/Medical-Templates-secures-CHF-3-million-seed-funding-round,2025-03-11 21:37:29
+Caplena,0.0,7.0,7.0,,SEED,Seed,True,1.0,verified,round_type,,https://www.startupticker.ch/en/news/saas-startup-caplena-raises-7-figure-seed-round#.YkcekCmdiPw.twitter,2025-03-11 21:37:29
+SafetyNet Technologies,2.376,,,,SEED,,False,0.0,unverified,,,http://ow.ly/QKUq103S7s6,2025-03-11 21:37:29
+Nibble Technology,3.3,,,,SEED,,False,0.0,unverified,,,https://serfly.net/investment/nibble-technology-raises-3-3-million/,2025-03-11 21:37:29
+2mee,0.66,,,,EARLY VC,,False,0.0,unverified,,,https://www.thebusinessdesk.com/yorkshire/news/2091495-major-funding-round-completed-at-hologram-messaging-company,2025-03-11 21:37:29
+2mee,0.66,,,,EARLY VC,,False,0.0,unverified,,,https://www.thebusinessdesk.com/yorkshire/news/2091495-major-funding-round-completed-at-hologram-messaging-company,2025-03-11 21:37:29
+2mee,0.526284,,,,SEED,,False,0.0,unverified,,,https://files.syndicateroom.com/fund-docs/F28-2017-portfolio-6MARCH2019.pdf,2025-03-11 21:37:29
+2mee,0.526284,,,,SEED,,False,0.0,unverified,,,https://files.syndicateroom.com/fund-docs/F28-2017-portfolio-6MARCH2019.pdf,2025-03-11 21:37:29
+Zortify,3.41,3.05,0.3600000000000003,10.557184750733146,SEED,Seed Funding,False,0.0,unverified,,"amount, round_type",https://www.corporatenews.lu/en/archives-shortcut/archives/article/2022/04/zortify-s-a-announces-the-closing-of-its-seed-funding?author=Zortify+S.A.,2025-03-11 21:37:29
+BoldBooks,0.0,,,,SEED,,False,0.0,unverified,,,https://shifter.no/nyheter/bok-grnderen-var-klar-for-et-nytt-kapittel-men-historien-tok-en-uventet-vending/243086,2025-03-11 21:37:29
+Rice in Action,0.48125,0.4375,0.04375000000000001,9.090909090909092,SEED,Not specified,False,0.5,unverified,amount,round_type,https://elreferente.es/inversiones/la-foodtech-arroces-la-bomba-logra-437-500e-a-traves-de-startupxplore/,2025-03-11 21:37:29
+MaaS Global,0.0,,,,SERIES C,,False,0.0,unverified,,,https://arcticstartup.com/maas-global-is-acquiring-quicko/,2025-03-11 21:37:29
+Amplication,6.6,6.6,0.0,0.0,SEED,Not specified,False,0.5,unverified,amount,round_type,https://www.prnewswire.com/news-releases/amplication-raises-6-6-million-to-automate-backend-development-301478303.html,2025-03-11 21:37:29
+auticon,4.0,,,,EARLY VC,,False,0.0,unverified,,,https://www.prweb.com/releases/autism-impact-fund-leads-investment-round-in-auticon-a-global-technology-consulting-firm-that-employs-neurodiverse-adults-825391710.html,2025-03-11 21:37:29
+SAM Seamless Network,0.0,,,,SERIES B,Series B,True,1.0,verified,round_type,,https://securingsam.com/sam-and-ericsson-ventures/,2025-03-11 21:37:29
+Learnlife,1.43,1.0,0.42999999999999994,30.069930069930066,SEED,Not specified,False,0.0,unverified,,"amount, round_type",https://www.facebook.com/128620753865770/posts/learnlife-has-raised-over-1m-lets-give-it-up-for-their-community-of-investors-ca/5070463463014783/?locale=ms_MY,2025-03-11 21:37:29
+Fever Energy,0.0,,,,SEED,Seed,True,1.0,verified,round_type,,https://nordic9.com/news/fever-energy-raised-seed-funding/,2025-03-11 21:37:29
+Anonymised,1.21,1.1,0.10999999999999988,9.090909090909081,SEED,Not specified,False,0.5,unverified,amount,round_type,http://ow.ly/nuIu30s9nP6,2025-03-11 21:37:29
+Cordulus,3.19,2.9,0.29000000000000004,9.090909090909092,SEED,Not specified,False,0.5,unverified,amount,round_type,https://www.eu-startups.com/2022/02/danish-agtech-startup-fieldsense-raises-e2-9-million-to-give-farmers-better-weather-insights/,2025-03-11 21:37:29
+OakTree Power,3.3,,,,SEED,Scaleup program,False,0.0,unverified,,round_type,https://dynamicbusiness.com/topics/news/energylabs-scaleup-program-welcomes-ten-climate-tech-start-ups.html,2025-03-11 21:37:29
+RegTick,1.32,1.0,0.32000000000000006,24.242424242424246,SEED,Seed,True,0.5,unverified,round_type,amount,https://syncni.com/article/8772/regtick-secures-1m-in-seed-funding-and-announces-plans-for-30-new-jobs,2025-03-11 21:37:29
+Strike Pharma,5.445545,45.0,39.554455,726.3635687520716,LATE VC,Financing Round,False,0.0,unverified,,"amount, round_type",https://strikepharma.com/news/strike-pharma-completes-45-msek-financing-round/,2025-03-11 21:37:29
+Moroxite F,1.210121,,,,EARLY VC,Not specified in the news article,False,0.0,unverified,,round_type,"https://news.cision.com/se/almi-invest-ab/r/almi-invest-investerar-i-moroxite-f-som-forbattrar-behandlingen-av-benskora,c3509875",2025-03-11 21:37:29
+Saveggy,0.968097,,,,SEED,,False,0.0,unverified,,,https://www.almi.se/almi-invest/nyheter/almi-invest-greentech-investerar-i-saveggys-atbara-alternativ-till-plastfilm/,2025-03-11 21:37:29
+Muse Group,1.5,,,,SEED,Second,False,0.0,unverified,,round_type,https://www.globenewswire.com/en/news-release/2022/07/11/2477607/0/en/New-Web3-Platform-Muse-Group-Opens-Second-Funding-Round-on-July-13.html,2025-03-11 21:37:29
+Redpanda,50.0,50.0,0.0,0.0,SERIES B,Not specified,False,0.5,unverified,amount,round_type,https://redpanda.com/blog/redpanda-series-b-funding-future-of-streaming-data,2025-03-11 21:37:29
+Redpanda,50.0,50.0,0.0,0.0,SERIES B,Not specified,False,0.0,unverified,,"amount, round_type",https://redpanda.com/blog/redpanda-series-b-funding-future-of-streaming-data,2025-03-11 21:37:29
+Redpanda,12.5,15.5,3.0,24.0,SERIES A,Not specified,False,0.5,unverified,amount,round_type,https://techcrunch.com/2021/01/26/vectorized-announces-15-5m-investment-to-build-simpler-streaming-data-tool/,2025-03-11 21:37:29
+Redpanda,12.5,15.5,3.0,24.0,SERIES A,Not specified,False,0.0,unverified,,"amount, round_type",https://techcrunch.com/2021/01/26/vectorized-announces-15-5m-investment-to-build-simpler-streaming-data-tool/,2025-03-11 21:37:29
+KEEY AEROGEL,1.65,18.0,16.35,990.909090909091,SEED,Not specified,False,0.0,unverified,,"amount, round_type",https://presse.bpifrance.fr/keey-aerogel-leve-18-meur-pour-fabriquer-de-laerogel-vert-a-lechelle-industrielle-grace-a-un-procede-de-rupture,2025-03-11 21:37:29
+Char.gy,77.352,6.4,70.952,91.72613507084496,SERIES B,Not specified,False,0.0,unverified,,"amount, round_type",https://zouk.com/infrastructure-news/255-zouk-capital-backs-on-street-ev-charging-company-char-gy,2025-03-11 21:37:29
+Sad Cat Studios,0.0,,,,SEED,,False,0.0,unverified,,,https://naavik.co/digest/love-and-pies-merge2/,2025-03-11 21:37:29
+Spectaflow,1.9,1.9,0.0,0.0,SEED,Seed,True,1.0,verified,"amount, round_type",,https://northstack.is/2022/01/05/spectaflow-closes-a-1-9m-funding-round-led-by-frumtak-ventures/,2025-03-11 21:37:29
+InSoma Bio,1.8,,,,SEED,,False,0.0,unverified,,,https://www.bizjournals.com/triangle/inno/stories/fundings/2024/05/16/duke-spinout-insoma-bio-clinical-trials.html,2025-03-11 21:37:29
+Natix Network,0.12,3.5,3.38,2816.666666666667,SEED,Seed Round,False,0.0,unverified,,"amount, round_type",https://www.natix.network/blog/natix-network-raised-3-5-million-seed-round-for-development,2025-03-11 21:37:29
+Piggy,0.0,,,,SEED,Not specified,False,0.0,unverified,,round_type,https://www.av.vc/portfolio,2025-03-11 21:37:29
+End Game,0.0,,,,SEED,,False,0.0,unverified,,,https://f.inc/portfolio,2025-03-11 21:37:29
+Electrify Video Partners,0.0,,,,SEED,,False,0.0,unverified,,,https://www.equablecapital.com/investments,2025-03-11 21:37:29
+Fruitcast,0.6864,2.8,2.1136,307.9254079254079,SEED,Not specified,False,0.0,unverified,,"amount, round_type",https://businesscloud.co.uk/news/fruitful-ai-tool-launches-to-market-following-2-8m-backing/,2025-03-11 21:37:29
+ManoCap Energy,20.0,,,,LATE VC,,False,0.0,unverified,,,https://inspiredevolution.co.za/funds,2025-03-11 21:37:29
+Bobbee,1.21,1.2,0.010000000000000009,0.8264462809917362,SEED,Not specified,False,0.5,unverified,amount,round_type,https://www.maddyness.com/2023/09/06/comptabilite-bobbee/,2025-03-11 21:37:29
+ARX Alliance Ltd.,0.0,,,,SEED,,False,0.0,unverified,,,https://www.muus.com/portfolio,2025-03-11 21:37:29
+Meatly,1.32,,,,SEED,Not specified in the news article,False,0.0,unverified,,round_type,https://www.just-food.com/news/funding-for-uk-cell-based-pet-food-firm-good-dog-food/,2025-03-11 21:37:29
+Picosats,0.55,,,,SEED,,False,0.0,unverified,,,https://www.liftt.com/portfolio-item/picosats/,2025-03-11 21:37:29
+Kynda,1.98,,,,SEED,,False,0.0,unverified,,,https://www.deutsche-startups.de/2023/02/20/super-angels-lemcke-2023/,2025-03-11 21:37:29
+ai|coustics,0.1595,,,,SEED,,False,0.0,unverified,,,https://www.linkedin.com/feed/update/urn:li:activity:6953367852875718656,2025-03-11 21:37:29
+Above Surveying,3.168,2.4,0.7680000000000002,24.24242424242425,SERIES A,Not specified,False,0.0,unverified,,"amount, round_type",https://www.solarpowerportal.co.uk/news/the_clean_growth_fund_leads_2.4m_funding_round_into_above,2025-03-11 21:37:29
+Above Surveying,3.168,2.4,0.7680000000000002,24.24242424242425,SERIES A,Not specified,False,0.0,unverified,,round_type,https://www.solarpowerportal.co.uk/news/the_clean_growth_fund_leads_2.4m_funding_round_into_above,2025-03-11 21:37:29
+Above Surveying,1.056,,,,SEED,Not specified,False,0.0,unverified,,"amount, round_type",https://www.abovesurveying.com/above-takes-to-the-skies-with-investment-round-to-boost-global-ambitions/,2025-03-11 21:37:29
+Above Surveying,1.056,,,,SEED,Not specified,False,0.0,unverified,,round_type,https://www.abovesurveying.com/above-takes-to-the-skies-with-investment-round-to-boost-global-ambitions/,2025-03-11 21:37:29
+Vinden,3.630363,30.0,26.369637,726.3636446272728,LATE VC,Not specified,False,0.0,unverified,,"amount, round_type",https://nordic9.com/news/vinden-raises-sek-30-million-in-a-round-led-by-proptech-farm/,2025-03-11 21:37:29
+Chilowé,2.75,,,,EARLY VC,,False,0.0,unverified,,,https://www.ecap-partner.com/news/research/synthese-des-levees-de-fonds-du-numerique-en-janvier-2022/,2025-03-11 21:37:29
+Just Wont Die,7.5,,,,EARLY VC,,False,0.0,unverified,,,https://www.ft.com/content/aaa4a42c-efcc-4c60-9dc6-ba6cccb599e6,2025-03-11 21:37:29
+Groundcover,4.5,24.5,20.0,444.44444444444446,SEED,Seed and Series A,False,0.0,unverified,,"amount, round_type",https://www.finsmes.com/2022/09/groundcover-raises-24-5m-in-seed-and-series-a-funding.html,2025-03-11 21:37:29
+Hypernative,0.5,,,,SEED,,False,0.0,unverified,,,https://www.ft.com/content/aaa4a42c-efcc-4c60-9dc6-ba6cccb599e6,2025-03-11 21:37:29
+Vosbor,0.4866,,,,SEED,,False,0.0,unverified,,,https://www.ft.com/content/aaa4a42c-efcc-4c60-9dc6-ba6cccb599e6,2025-03-11 21:37:29
+OVEX,5.0,25.0,20.0,400.0,EARLY VC,Not specified,False,0.0,unverified,,"amount, round_type",https://bitcoinke.io/2022/12/aza-finance-included-as-ftx-investment-portfolio/,2025-03-11 21:37:29
+Pheon Therapeutics,0.0,68.0,68.0,,SEED,Seed funding,False,0.0,unverified,,round_type,https://pheontx.com/pheon-therapeutics-launches-with-68-million-in-financing-to-advance-novel-antibody-drug-conjugates-for-treatment-of-solid-tumors/,2025-03-11 21:37:29
+Immortal Game,3.85,15.5,11.65,302.5974025974026,SEED,Not specified,False,0.0,unverified,,"amount, round_type",https://tech.eu/2022/09/21/immortal-game-does-a-winning-move-raises-155-million-to-build-online-chess-experience,2025-03-11 21:37:29
+AVEA,2.291666,2.43,0.13833399999999996,6.036394483314756,SEED,Not specified,False,0.5,unverified,amount,round_type,https://tech.eu/2022/06/03/swiss-longevity-startup-avea-gets-eur243-million-booster,2025-03-11 21:37:29
+Roof,3.3,3.0,0.2999999999999998,9.090909090909086,SEED,Seed,True,1.0,verified,"amount, round_type",,https://www.frenchweb.fr/seed-logement-etudiant-roof-leve-3-millions-deuros-aupres-de-xange-et-founders-future/431733,2025-03-11 21:37:29
+SMAFO,0.7612,0.6915,0.06969999999999998,9.156594850236468,SEED,Seed Investment,False,0.5,unverified,amount,round_type,https://www.seedmatch.de/investmentchancen/smafo,2025-03-11 21:37:29
+Vesto,1.21,1.1,0.10999999999999988,9.090909090909081,SEED,Not specified,False,0.5,unverified,amount,round_type,https://vesto.fr/2023/02/01/societe-tech-vesto-levee-de-fonds-de-110-millions-deuros-12-2021/,2025-03-11 21:37:29
+Kovalee,1.76,,,,SEED,,False,0.0,unverified,,,https://www.ecap-partner.com/news/research/synthese-des-levees-de-fonds-du-numerique-en-decembre-2021/,2025-03-11 21:37:29
+Dhp,1.375,,,,SEED,,False,0.0,unverified,,,https://www.startupticker.ch/en/news/crowdinvesting-fuer-buendner-solarfaltdach-gut-gestartet,2025-03-11 21:37:29
+PainDrainer,1.512652,,,,EARLY VC,,False,0.0,unverified,,,https://www.almi.se/almi-invest/nyheter/almi-invest-investerar-i-paindrainers-digitala-smartcoach/,2025-03-11 21:37:29
+Walliance,2.31,,,,SERIES A,,False,0.0,unverified,,,https://www.ilsole24ore.com/art/seac-fin-e-botzen-invest-scommettono-portale-walliance-AEaqNrY,2025-03-11 21:37:29
+Classified Cycling,5.5,5.0,0.5,9.090909090909092,EARLY VC,Not specified,False,0.5,unverified,amount,round_type,https://openmanufacturingcampus.com/nl/2021/01/classified-cycling-haalt-vijf-miljoen-euro-op-en-lanceert-eigen-classified-carbonwielen/,2025-03-11 21:37:29
+Molecular Attraction,0.302531,,,,EARLY VC,Not specified in the news article,False,0.0,unverified,,round_type,"https://news.cision.com/se/almi-invest-ab/r/almi-invest-investerar-i-molecular-attractions-miljovanliga-myggbekampning,c3467266",2025-03-11 21:37:29
+Sylndr,0.0,35.0,35.0,,SEED,Series A,False,0.0,unverified,,round_type,https://incubees.com/loftyinc-capital-management-a-nigerian-venture-capital-firm-made-65-african-investments-in-2021/,2025-03-11 21:37:29
+ATRO Medical B.V.,2.09,,,,EARLY VC,,False,0.0,unverified,,,https://static1.squarespace.com/static/5be44aae31d4df0da1842b0a/t/61b88a43718b052a1c0bed13/1639483971735/ATRO+Medical+financing+round+dec+2021.pdf,2025-03-11 21:37:29
+PayAnalytics,3.4,3.4,0.0,0.0,SERIES A,Not specified,False,0.5,unverified,amount,round_type,https://northstack.is/2021/12/30/payanalytics-raises-3-4m-from-eyrir-voxtur-and-nsa-ventures/,2025-03-11 21:37:29
+Kuunda,2.3,,,,SEED,,False,0.0,unverified,,,https://www.microcapital.org/microcapital-brief-kuunda-raises-2m-in-equity-to-expand-short-term-financing-model-for-mobile-money-agents-retailers-consumers-into-7-countries-in-africa/,2025-03-11 21:37:29
+Exorde,1.2,1.2,0.0,0.0,SEED,Private token sale first round,False,0.5,unverified,amount,round_type,https://www.exorde.network/blog/exorde-labs-raises-1-2-million,2025-03-11 21:37:29
+Namastay,2.31,2.1,0.20999999999999996,9.09090909090909,SEED,Seed,True,1.0,verified,"amount, round_type",,https://www.namastay.io/journal/namastay-announces-eur-2-1-million-seed-funding-round,2025-03-11 21:37:29
+Tax Sketches,1.0,1.0,0.0,0.0,SEED,Not specified,False,0.5,unverified,amount,round_type,https://hackernoon.com/tax-sketches-raises-$1m-in-funding-to-build-the-future-of-legal-tech,2025-03-11 21:37:29
+MailTrack,2.4,2.4,0.0,0.0,SEED,Seed,True,1.0,verified,"amount, round_type",,https://techmoran.com/2021/12/09/ivorian-fintech-startup-cinetpay-secures-2-4m-seed-round-from-4dx-ventures-and-flutterwave-for-expansion/,2025-03-11 21:37:29
+Zeitgeist,14.0,14.0,0.0,0.0,SEED,Not specified,False,0.5,unverified,amount,round_type,https://blog.zeitgeist.pm/zeitgeist-secures-14m-in-funding-to-build-prediction-market-ecosystem/,2025-03-11 21:37:29
+Akewatu,1.65,,,,SEED,,False,0.0,unverified,,,https://www.leparisien.fr/economie/business/akewatu-la-plate-forme-en-ligne-qui-vend-les-planches-de-surf-des-champions-29-07-2021-IACASQSNABCJTL37JQDNG4FSVQ.php,2025-03-11 21:37:29
+Popsa,11.88,,,,SERIES A,,False,0.0,unverified,,,https://www.maddyness.com/uk/2022/02/04/sustainable-activewear-rapid-delivery-and-web3-gaming-make-the-billing-on-this-weeks-maddymoney/,2025-03-11 21:37:29
+Marefa Digital,0.0,,,,SEED,,False,0.0,unverified,,,https://mystartupworld.com/eight-startups-graduate-flat6labs-ignite-programme-in-abu-dhabi/,2025-03-11 21:37:29
+KWOTA,1.65,1.5,0.1499999999999999,9.090909090909086,SEED,Pre-seed,False,0.5,unverified,amount,round_type,https://www.estvca.ee/news/change-ventures-leads-the-eur1-5m-pre-seed-investment-round-to-kwota,2025-03-11 21:37:29
+Findependent,0.1375,,,,SEED,,False,0.0,unverified,,,https://www.startupticker.ch/en/news/die-hoehle-der-loewen-zwei-finanzierungen-unter-dach-und-fach,2025-03-11 21:37:29
+Onex,0.12,,,,SEED,Pre-accelerator,False,0.0,unverified,,round_type,https://www.techstars.com/newsroom/announcing-techstars-riyadh-2022-the-12-companies,2025-03-11 21:37:29
+Granode Materials,1.452145,,,,EARLY VC,,False,0.0,unverified,,,https://www.almi.se/almi-invest/nyheter/almi-invest-investerar-i-granode-materials-som-gor-batterierna-billigare-och-battre/,2025-03-11 21:37:29
+ChargeNode,13.916392,115.0,101.083608,726.3636149369751,LATE VC,Not specified,False,0.0,unverified,,"amount, round_type",https://www.prnewswire.co.uk/news-releases/formica-capital-invests-115-msek-in-chargenode-887811317.html,2025-03-11 21:37:29
+WineSpark,0.33,3.1,2.77,839.3939393939395,SEED,Seed,True,0.5,unverified,round_type,amount,https://www.irishtimes.com/business/2022/12/03/irish-online-wine-start-up-winespark-worth-31m-after-first-18-months/,2025-03-11 21:37:29
+Leanspace,2.2,,,,SEED,,False,0.0,unverified,,,https://leanspace.io/blog/leanspace-emerges-from-stealth-to-digitalize-the-space-industry-via-the-cloud/,2025-03-11 21:37:29
+OSHI,12.5,12.45,0.05000000000000071,0.40000000000000563,SEED,Seed Funding,False,0.5,unverified,amount,round_type,https://www.finsmes.com/2022/03/plantish-raises-12-45m-in-seed-funding.html,2025-03-11 21:37:29
+Ento Labs,0.0,,,,SEED,,False,0.0,unverified,,,https://ento.ai/news/ento-labs-raises-3-6m/,2025-03-11 21:37:29
+Magicave,0.0,6.4,6.4,,SEED,Not specified,False,0.0,unverified,,round_type,https://magicave.io/magicave-raises-6-4m-to-build-the-next-generation-of-digital-toys,2025-03-11 21:37:29
+SeniorDomo,0.396,,,,SEED,,False,0.0,unverified,,,https://www.plantadoce.com/empresa/seniordomo-gana-musculo-para-crecer-abre-su-capital-a-invergy-b-side-y-archipelago-next.html,2025-03-11 21:37:29
+Mtek,0.0,1.52,1.52,,SEED,Collaboration,False,0.0,unverified,,round_type,https://www.trustgro.com/news/press-release-1,2025-03-11 21:37:29
+Mooevo,0.88,,,,SEED,Not specified,False,0.0,unverified,,round_type,https://elreferente.es/startups/mooevo-abre-ronda-financiacion-fellow-funders-recaudar-800000/,2025-03-11 21:37:29
+Fairown,4.62,4.2,0.41999999999999993,9.09090909090909,EARLY VC,Not specified,False,0.5,unverified,amount,round_type,https://www.eu-startups.com/2021/11/estonian-fintech-startup-fairown-secures-e4-2million-empowering-companies-to-contribute-to-waste-reduction-and-conscious-consumption/,2025-03-11 21:37:29
+kokono.green,0.85,,,,SEED,,False,0.0,unverified,,,https://www.thelabventures.com/portfolio/kokono,2025-03-11 21:37:29
+Copresence,1.833334,,,,SEED,,False,0.0,unverified,,,https://www.venturelab.swiss/index.cfm?CFID=146549687&CFTOKEN=590cad05e0e147fb-F5990220-F9AC-C9F4-187B79F74EB3472F&page=137441,2025-03-11 21:37:29
+Xaga Surgical,0.484048,4.0,3.515952,726.3643275047103,EARLY VC,Private offering,False,0.0,unverified,,"amount, round_type",https://news.smileincubator.com/posts/pressreleases/xaga-surgical-raises-sek-4-million,2025-03-11 21:37:29
+CombinedX,15.0055,124.0,108.9945,726.3636666555597,LATE VC,Pre-IPO,False,0.0,unverified,,"amount, round_type",https://nordic9.com/news/combined-x-in-a-pre-ipo-sek-124-million-investment-deal-backed-by-spiltan-edastra-et-al/,2025-03-11 21:37:29
+Proactive,2.933334,,,,SERIES C,Strategic alliance,False,0.0,unverified,,round_type,https://www.globenewswire.com/news-release/2021/10/25/2320039/0/en/Proactive-Group-Holdings-enters-strategic-alliance-with-Canaccord-Genuity-Group-Inc.html,2025-03-11 21:37:29
+Youdge,5.5,,,,SERIES A,,False,0.0,unverified,,,https://www.ecap-partner.com/news/research/synthese-des-levees-de-fonds-du-numerique-en-fevrier-2022/,2025-03-11 21:37:29
+deskbird,1.5,,,,SEED,,False,0.0,unverified,,,https://www.deutsche-startups.de/2021/10/19/dealmonitor-19-10-2021/,2025-03-11 21:37:29
+VersTrade,2.2,,,,SERIES A,,False,0.0,unverified,,,https://www.emerce.nl/nieuws/postnl-neemt-belang-online-foodmarktplaats-verstrade,2025-03-11 21:37:29
+Floe Oral Care,0.468468,,,,SEED,,False,0.0,unverified,,,https://newsdirect.com/news/holland-and-barrett-backs-floe-oral-care-to-tackle-gum-disease-via-salivary-biomarkers-957473175,2025-03-11 21:37:29
+ANKA marketplace,0.0,,,,SERIES A,,False,0.0,unverified,,,https://www.pymnts.com/news/b2b-payments/2021/anka-marketplace-shows-power-of-digital-to-take-african-businesses-global/,2025-03-11 21:37:29
+NodThera,0.0,55.0,55.0,,SERIES B,Series B,True,1.0,verified,round_type,,https://european-biotechnology.com/up-to-date/latest-news/news/nodthera-bags-us55m-in-series-b-round.html,2025-03-11 21:37:29
+Versantis,16.0,16.0,0.0,0.0,SERIES B,Series B,True,1.0,verified,"amount, round_type",,https://european-biotechnology.com/up-to-date/latest-news/news/versantis-raises-chf16m-in-series-b-financing.html,2025-03-11 21:37:29
+Raspberry Pi,43.56,45.0,1.4399999999999977,3.3057851239669365,LATE VC,Not specified,False,0.5,unverified,amount,round_type,https://rb.ru/news/raspberry-pi/,2025-03-11 21:37:29
+Paretos GmbH,3.5,,,,SEED,,False,0.0,unverified,,,https://www.deutsche-startups.de/2021/11/08/paretos-analyseprozesse/,2025-03-11 21:37:29
+Vocsens,2.75,2.5,0.25,9.090909090909092,SEED,Not specified,False,0.5,unverified,amount,round_type,https://www.industrya.com/news/industryas-first-investment-vocsens-raises-eu2-5-million-to-deploy-its-environmental-camera-that-reveals-invisible-gas-molecules,2025-03-11 21:37:29
+BeZero Carbon,2.64,17.0,14.36,543.9393939393939,SEED,Series A,False,0.0,unverified,,"amount, round_type",https://bezerocarbon.com/insights/scaling-carbon-markets,2025-03-11 21:37:29
+Linearity,20.0,,,,SERIES A,EQT Ventures investment,False,0.0,unverified,,round_type,https://www.deutsche-startups.de/2021/07/01/dealmonitor-01-07-2021/,2025-03-11 21:37:29
+Linearity,20.0,,,,SERIES A,EQT Ventures investment,False,1.0,verified,"amount, round_type",,https://www.deutsche-startups.de/2021/07/01/dealmonitor-01-07-2021/,2025-03-11 21:37:29
+Linearity,20.0,,,,SERIES A,EQT Ventures investment,False,0.0,unverified,,round_type,https://www.deutsche-startups.de/2021/07/01/dealmonitor-01-07-2021/,2025-03-11 21:37:29
+Linearity,5.5,5.0,0.5,9.090909090909092,SEED,Seed,True,0.0,unverified,,round_type,https://medium.com/vectornator/linearity-raises-5m-seed-round-led-by-hv-ventures-4854a48b80bf,2025-03-11 21:37:29
+Linearity,5.5,5.0,0.5,9.090909090909092,SEED,Seed,True,1.0,verified,"amount, round_type",,https://medium.com/vectornator/linearity-raises-5m-seed-round-led-by-hv-ventures-4854a48b80bf,2025-03-11 21:37:29
+Linearity,5.5,5.0,0.5,9.090909090909092,SEED,Seed,True,0.0,unverified,,round_type,https://medium.com/vectornator/linearity-raises-5m-seed-round-led-by-hv-ventures-4854a48b80bf,2025-03-11 21:37:29
+Linearity,0.7,,,,SEED,Second financing round,False,0.0,unverified,,round_type,https://medium.com/vectornator/linearity-investment-cb282c660cb5,2025-03-11 21:37:29
+Linearity,0.7,,,,SEED,Second financing round,False,1.0,verified,"amount, round_type",,https://medium.com/vectornator/linearity-investment-cb282c660cb5,2025-03-11 21:37:29
+Linearity,0.7,,,,SEED,Second financing round,False,0.0,unverified,,round_type,https://medium.com/vectornator/linearity-investment-cb282c660cb5,2025-03-11 21:37:29
+Infrascreen,0.1,,,,SEED,,False,0.0,unverified,,,https://www.photonics.com/Articles/Finalists_Announced_for_Round_4_of_Luminate_NY/a66802,2025-03-11 21:37:29
+Jibu,0.1,,,,EARLY VC,,False,0.0,unverified,,,https://kepple-africa-ventures.com/home_eng#portfolio_eng,2025-03-11 21:37:29
+Kvix,1.331133,11.0,9.668867,726.3637067069933,EARLY VC,Not specified,False,0.0,unverified,,"amount, round_type",https://newsroom.notified.com/partnerinvest-press/posts/pressreleases/kvix-sakrar-finansiering-om-11-msek,2025-03-11 21:37:29
+predge,4.235424,,,,LATE VC,Not specified,False,0.0,unverified,,round_type,https://fairpoint.se/predge-raises-new-capital-for-continued-growth/,2025-03-11 21:37:29
+Joystream,0.1,,,,SEED,,False,0.0,unverified,,,https://arcticstartup.com/joystream-raised-d-5-85-m/,2025-03-11 21:37:29
+Clearpool,3.0,,,,SEED,,False,0.0,unverified,,,https://www.hashkey.com/clearpool-raises-3m-to-build-decentralized-capital-markets-on-ethereum/,2025-03-11 21:37:29
+Mines of Dalarnia,2.7,2.7,0.0,0.0,EARLY VC,Not specified,False,0.5,unverified,amount,round_type,https://minesofdalarnia.medium.com/mines-of-dalarnia-raises-2-7m-usd-94e295fc721d,2025-03-11 21:37:29
+ubloquity,2.376,,,,SEED,,False,0.0,unverified,,,https://syncni.com/article/10631/establishing-the-building-blocks-of-success,2025-03-11 21:37:29
+Stepler,1.210121,10.0,8.789878999999999,726.3636446272727,EARLY VC,Angel investment round,False,0.0,unverified,,"amount, round_type",https://nordic9.com/news/stepler-in-a-sek-10-million-investment-round-backed-by-angel-investors-from-sweden/,2025-03-11 21:37:29
+Oversonic,0.0,14.0,14.0,,SEED,Not specified,False,0.0,unverified,,round_type,https://bebeez.it/venture-capital/oversonic-robotics-chiude-aumento-di-capitale-guidato-da-fintel-e-vale-14-mln-euro/,2025-03-11 21:37:29
+Sane,0.0,,,,SEED,,False,0.0,unverified,,,https://human.vc/portfolio/,2025-03-11 21:37:29
+EFC Uganda,0.81873,,,,EARLY VC,,False,0.0,unverified,,,https://www.bio-invest.be/en/investments/efc-uganda-2,2025-03-11 21:37:29
+EFC Uganda,0.81873,,,,EARLY VC,,False,0.0,unverified,,,https://www.bio-invest.be/en/investments/efc-uganda-2,2025-03-11 21:37:29
+EFC Uganda,0.81873,,,,EARLY VC,,False,0.0,unverified,,,https://www.bio-invest.be/en/investments/efc-uganda-2,2025-03-11 21:37:29
+EFC Uganda,0.81873,,,,EARLY VC,,False,0.0,unverified,,,https://www.bio-invest.be/en/investments/efc-uganda-2,2025-03-11 21:37:29
+EFC Uganda,0.01771,,,,EARLY VC,,False,0.0,unverified,,,https://www.bio-invest.be/en/investments/efc-uganda-ta,2025-03-11 21:37:29
+EFC Uganda,0.01771,,,,EARLY VC,,False,0.0,unverified,,,https://www.bio-invest.be/en/investments/efc-uganda-ta,2025-03-11 21:37:29
+EFC Uganda,0.01771,,,,EARLY VC,,False,0.0,unverified,,,https://www.bio-invest.be/en/investments/efc-uganda-ta,2025-03-11 21:37:29
+EFC Uganda,0.01771,,,,EARLY VC,,False,0.0,unverified,,,https://www.bio-invest.be/en/investments/efc-uganda-ta,2025-03-11 21:37:29
+EFC Uganda,1.1,,,,EARLY VC,,False,0.0,unverified,,,https://www.bio-invest.be/en/investments/efc-uganda,2025-03-11 21:37:29
+EFC Uganda,1.1,,,,EARLY VC,,False,0.0,unverified,,,https://www.bio-invest.be/en/investments/efc-uganda,2025-03-11 21:37:29
+EFC Uganda,1.1,,,,EARLY VC,,False,0.0,unverified,,,https://www.bio-invest.be/en/investments/efc-uganda,2025-03-11 21:37:29
+EFC Uganda,1.1,,,,EARLY VC,,False,0.0,unverified,,,https://www.bio-invest.be/en/investments/efc-uganda,2025-03-11 21:37:29
+EFC Uganda,0.31449,,,,EARLY VC,,False,0.0,unverified,,,https://www.bio-invest.be/en/investments/efc-uganda-1,2025-03-11 21:37:29
+EFC Uganda,0.31449,,,,EARLY VC,,False,0.0,unverified,,,https://www.bio-invest.be/en/investments/efc-uganda-1,2025-03-11 21:37:29
+EFC Uganda,0.31449,,,,EARLY VC,,False,0.0,unverified,,,https://www.bio-invest.be/en/investments/efc-uganda-1,2025-03-11 21:37:29
+EFC Uganda,0.31449,,,,EARLY VC,,False,0.0,unverified,,,https://www.bio-invest.be/en/investments/efc-uganda-1,2025-03-11 21:37:29
+alicia,0.0,,,,SEED,,False,0.0,unverified,,,https://mtsprout.nl/startups-scaleups/alicia-verzekert-zzpers-embedded-via-temper-knab-en-andere-platformen,2025-03-11 21:37:29
+Redzinc Services,0.40117,,,,SEED,,False,0.0,unverified,,,https://www.sparkcrowdfunding.com/campaign/redzinc,2025-03-11 21:37:29
+Biotangents,1.584,2.2,0.6160000000000001,38.88888888888889,EARLY VC,Not specified,False,0.0,unverified,,"amount, round_type",https://www.scottish-enterprise-mediacentre.com/news/scottish-biotech-company-secures-gbp-2-2m-to-accelerate-rapid-disease-detection-technology,2025-03-11 21:37:29
+Ella,0.726073,,,,SEED,,False,0.0,unverified,,,https://arcticstartup.com/ella-closed-over-e-450-k/,2025-03-11 21:37:29
+Carmoola,2.904,27.0,24.096,829.7520661157025,SEED,Not specified,False,0.0,unverified,,"amount, round_type",https://www.finextra.com/pressarticle/92224/motor-finance-startup-carmoola-fuels-up-with-27-million-in-funding,2025-03-11 21:37:29
+Sona,2.2,2.2,0.0,0.0,EARLY VC,Not specified,False,0.5,unverified,amount,round_type,https://www.uktech.news/news/sona-raises-2-2m-for-its-next-gen-employee-app-dedicated-to-frontline-workers-20210810,2025-03-11 21:37:29
+Time-travelling Milkman,0.6105,,,,SEED,,False,0.0,unverified,,,https://www.foodingredientsfirst.com/news/alt-dairy-time-travelling-milkman-laps-up-funding-poised-to-scale-plant-based-fat-ingredient.html,2025-03-11 21:37:29
+Endel,0.0,,,,SERIES B,,False,0.0,unverified,,,https://www.aboutamazon.com/news/devices/creating-a-new-world-of-personalized-music-through-ai,2025-03-11 21:37:29
+Conte.ai (Formerly Contenive or Postoplan),1.5,20.0,18.5,1233.3333333333335,SEED,Not specified,False,0.0,unverified,,"amount, round_type",https://rb.ru/news/ocenka-postoplan-20-mln/,2025-03-11 21:37:29
+KONTA,0.22,2.0,1.78,809.0909090909091,SEED,Not specified,False,0.0,unverified,,"amount, round_type",https://leseco.ma/business/startups-konta-leve-2mdh-aupres-de-witamax-one.html,2025-03-11 21:37:29
+21bitcoin,0.3245,,,,SEED,,False,0.0,unverified,,,https://brutkasten.com/21bitcoin-wir-moechten-nicht-das-naechste-krypto-casino-werden/,2025-03-11 21:37:29
+seventhings,0.0,,,,SEED,,False,0.0,unverified,,,https://blog.itexia.com/de/press-releases/erfolgreiche-finanzierungsrunde-f%C3%BCr-itexia-11-2021,2025-03-11 21:37:29
+BTP,2.64,2.0,0.6400000000000001,24.242424242424246,SEED,Seed,True,0.5,unverified,round_type,amount,https://medium.com/blockchaintp/blockchain-technology-partners-raises-2-million-seed-round-led-by-force-over-mass-and-signature-865e346ece10,2025-03-11 21:37:29
+Icoatmedical,4.840484,40.0,35.159515999999996,726.3636446272727,LATE VC,Pre-IPO,False,0.0,unverified,,"amount, round_type",https://www.icoatmedical.com/en/icoat-medical-has-successfully-raised-40-msek-in-a-pre-ipo-to-fund-its-upcoming-first-in-human-trial/,2025-03-11 21:37:29
+Linkup,0.594,445.0,444.406,74815.82491582492,SEED,Seed,True,0.5,unverified,round_type,amount,https://www.uktech.news/tech-hubs/the-north-of-england/manchester/linkup-funding-pre-seed-20220729,2025-03-11 21:37:29
+ServisSoft,4.125,4.1,0.025000000000000355,0.6060606060606146,SEED,Follow-on investment,False,0.5,unverified,amount,round_type,https://egirisim.com/2021/07/26/servissoft-yeni-turda-hande-enes-ve-mert-utancaktan-4-1-milyon-dolar-degerleme-uzerinden-devam-yatirim-aldi/,2025-03-11 21:37:29
+Simusolar,1.5,,,,EARLY VC,,False,0.0,unverified,,,https://www.electrifi.eu/project/simusolar-inc/,2025-03-11 21:37:29
+Faveeo,0.0,,,,SERIES B,Series B,True,1.0,verified,round_type,,https://www.vischer.com/en/knowledge/deals-cases/faveeo-sa-schliesst-serie-b-finanzierungsrunde-ab-39081/,2025-03-11 21:37:29
+Nanolyze,1.331133,,,,EARLY VC,,False,0.0,unverified,,,https://www.almi.se/almi-invest/nyheter/almi-invest-investerar-i-nanoanalysforetaget-nanolyze/,2025-03-11 21:37:29
+Myrspoven,6.292629,52.0,45.707371,726.3636708917688,LATE VC,Not specified,False,0.0,unverified,,"amount, round_type",https://nordic9.com/news/myrspoven-raised-sek-52-million-from-m2-asset-management-and-angel-investors-johan-dennelind-and-carl-aspenberg/,2025-03-11 21:37:29
+Myrspoven,6.292629,52.0,45.707371,726.3636708917688,LATE VC,Not specified,False,0.0,unverified,,round_type,https://nordic9.com/news/myrspoven-raised-sek-52-million-from-m2-asset-management-and-angel-investors-johan-dennelind-and-carl-aspenberg/,2025-03-11 21:37:29
+Myrspoven,1.452145,,,,EARLY VC,Capital investment,False,0.0,unverified,,"amount, round_type",https://nordic9.com/news/myrspoven-added-capital-investment-from-klovern-ab-news4653463637/,2025-03-11 21:37:29
+Myrspoven,1.452145,,,,EARLY VC,Capital investment,False,0.0,unverified,,round_type,https://nordic9.com/news/myrspoven-added-capital-investment-from-klovern-ab-news4653463637/,2025-03-11 21:37:29
+Mindmore,1.39164,11.5,10.10836,726.3631398925008,EARLY VC,Not specified,False,0.0,unverified,,"amount, round_type",https://nordic9.com/news/mindmore-secures-sek-115-million-from-svanberg-co-almi-and-laurent-leksell/,2025-03-11 21:37:29
+Froots,0.88,,,,SEED,,False,0.0,unverified,,,https://www.fondsprofessionell.at/news/unternehmen/headline/ex-erste-chef-treichl-beteiligt-sich-an-wertpapierfirma-208906/,2025-03-11 21:37:29
+Bumbee Labs,2.541254,21.0,18.458746,726.3636771452205,SERIES A,Not specified,False,0.0,unverified,,"amount, round_type",https://finansavisen.no/nyheter/teknologi/2021/06/20/7691233/norske-tungvektere-inn-i-svensk-dataanalyse-selskapet-bumbee-labs,2025-03-11 21:37:29
+African Guarantee Fund,20.0,20.0,0.0,0.0,LATE VC,Not specified,False,0.5,unverified,amount,round_type,https://www.agenceecofin.com/finance/1905-88343-le-fonds-africain-de-garantie-obtient-une-facilite-de-20-millions-pour-des-entreprises-vertes-en-afrique,2025-03-11 21:37:29
+Hilltop Leaf,2.64,2.0,0.6400000000000001,24.242424242424246,SEED,Not specified,False,0.0,unverified,,"amount, round_type",https://www.eladvertiser.co.uk/cannabis-oil-company-raises-2m-to-sell-shares/,2025-03-11 21:37:29
+Cypher Coders,1.04016,492.0,490.95984,47200.41532071989,SEED,Seed,True,0.5,unverified,round_type,amount,https://www.eu-startups.com/2021/09/coding-school-cypher-raises-e492k-to-help-kids-learn-coding-and-understand-healthy-screen-time/,2025-03-11 21:37:29
+PeekMed,3.3,3.0,0.2999999999999998,9.090909090909086,SERIES A,Series A,True,1.0,verified,"amount, round_type",,https://blog.peekmed.com/peekmed-series-a,2025-03-11 21:37:29
+MoonLake Immunotherapeutics,0.0,,,,SERIES A,,False,0.0,unverified,,,https://www.startupticker.ch/en/news/a-newly-launched-biotech-start-up-with-impressive-study-results-in-the-lancet,2025-03-11 21:37:29
+Elstor,4.4,,,,SEED,Climate Fund investment decision,False,0.0,unverified,,round_type,https://www.ilmastorahasto.fi/en/funding-targets/elstor/,2025-03-11 21:37:29
+Hopon,4.5,4.5,0.0,0.0,EARLY VC,Not specified,False,0.5,unverified,amount,round_type,"https://www.calcalistech.com/ctech/articles/0,7340,L-3908606,00.html",2025-03-11 21:37:29
+SPCE,3.5,,,,SEED,,False,0.0,unverified,,,https://www.di.se/digital/kanda-investerarna-hoppar-pa-virtuella-saljrum-dagens-losningar-gynnar-inte-b2b/,2025-03-11 21:37:29
+bloXmove,0.11,50.0,49.89,45354.545454545456,SEED,Blockchain-Funds,False,0.0,unverified,,"amount, round_type",https://www.btc-echo.de/news/blockwall-lanciert-50-millionen-euro-blockchain-fonds-121512/,2025-03-11 21:37:29
+Bijles Aan Huis,0.55,,,,SEED,,False,0.0,unverified,,,https://bit.ly/37jYnKt,2025-03-11 21:37:29
+QDI-Systems,0.0,1.3,1.3,,SEED,Not specified,False,0.0,unverified,,round_type,https://siliconcanals.com/crowdfunding/qdi-systems-secures-1-3m/,2025-03-11 21:37:29
+Scramjet,0.5,,,,SEED,,False,0.0,unverified,,,https://mamstartup.pl/bezserwerowa-rewolucja-speedup-venture-capital-group-inwestuje-w-scramjet/,2025-03-11 21:37:29
+Neurobrave,1.9,,,,SEED,Not mentioned,False,0.0,unverified,,round_type,https://www.prnewswire.com/news-releases/ventureisrael-invests-in-israeli-startup-neurobrave-a-software-platform-for-analyzing-neural-biomarkers-and-insights-301451074.html,2025-03-11 21:37:29
+Glycanostics,0.341,,,,SEED,,False,0.0,unverified,,,https://glycanostics.com/important-step-for-glycanostics-with-cbim/,2025-03-11 21:37:29
+ANKA,0.5,10.0,9.5,1900.0,SEED,Third fund,False,0.0,unverified,,"amount, round_type",https://www.techgistafrica.com/venture-capital/loftyinc-capital-a-pan-african-venture-capital-firm-has-launched-its-third-fund-valued-at-10-million-for-african-tech-startups/,2025-03-11 21:37:29
+RBL Labs,1.2,,,,SEED,,False,0.0,unverified,,,https://crypto.news/rbl-labs-announces-locgame-genesis-nft-edition-sale-and-marketplace-launch/,2025-03-11 21:37:29
+Outrun Therapeutics,0.0,,,,SEED,,False,0.0,unverified,,,https://www.mp-healthcare.com/portfolio,2025-03-11 21:37:29
+Nexoya,1.401287,1.4,0.0012870000000000381,0.09184414042234304,SEED,Not specified,False,0.5,unverified,amount,round_type,https://www.startupticker.ch/en/news/may-2021/1-4-millionen-franken-fur-ki-marketing-startup-nexoya,2025-03-11 21:37:29
+Scout Drone Inspection,2.8,3.2,0.40000000000000036,14.285714285714299,SEED,Not specified,False,0.0,unverified,,"amount, round_type",https://dronedj.com/2021/03/22/scout-drone-inspection-secures-3-2-million-in-funding-round/,2025-03-11 21:37:29
+PresenceKit,7.260726,60.0,52.739274,726.3636446272728,SERIES A,Not specified,False,0.0,unverified,,"amount, round_type","https://news.cision.com/omborigrid-ab/r/ombori-apps-ab-raise-sek-60-million,c3308278",2025-03-11 21:37:29
+House of Math,1.331133,,,,EARLY VC,,False,0.0,unverified,,,https://shifter.no/nyheter/house-of-math-verdsettes-til-300-millioner-kroner/235523,2025-03-11 21:37:29
+APWine,1.0,2.6,1.6,160.0,SEED,Not specified,False,0.0,unverified,,"amount, round_type",https://tech.eu/2022/11/10/apwine-raises-2-6-million-as-it-builds-a-modular-interest-market-in-defi,2025-03-11 21:37:29
+PreVet,1.815182,15.0,13.184818,726.3634170017111,EARLY VC,Not specified,False,0.0,unverified,,"amount, round_type",https://nordic9.com/news/prevet-in-a-sek-15m-funding-round-backed-by-linnea-capital-slu-holding-and-almi-invest/,2025-03-11 21:37:29
+Sea2Cell,1.2,,,,SEED,,False,0.0,unverified,,,https://fresh-start.co.il/portfolio/,2025-03-11 21:37:29
+SessionStack,3.2,3.2,0.0,0.0,SEED,Not specified,False,0.5,unverified,amount,round_type,https://egirisim.com/2021/03/23/insan-kaynaklari-cozumleri-ureten-yerli-girisim-sorwe-3-2-milyon-dolar-degerleme-ile-yatirim-aldi/,2025-03-11 21:37:29
+ShiraTech Knowtion,5.0,,,,SERIES A,Not specified in the news article,False,0.0,unverified,,round_type,https://www.pressebox.com/inactive/shiratech-solutions-ltd/Shiratech-attracts-major-investment-and-reveals-IPO-strategy/boxid/1050269,2025-03-11 21:37:29
+Wisesight Technologies,4.0,4.0,0.0,0.0,SERIES A,Series A,True,1.0,verified,"amount, round_type",,"https://www.calcalistech.com/ctech/articles/0,7340,L-3911739,00.html#:~:text=Wisesight%2C%20an%20Israeli%20startup%20that,and%20expand%20its%20international%20operations.",2025-03-11 21:37:29
+Florence Finance,3.0,,,,SEED,,False,0.0,unverified,,,https://medium.com/florencefinance/florence-roadmap-46a9e648b3d1,2025-03-11 21:37:29
+Floatpays,0.0,,,,SEED,,False,0.0,unverified,,,https://kepple-africa-ventures.com/home_eng#portfolio_eng,2025-03-11 21:37:29
+ThankUCash,5.2,,,,SEED,Not specified,False,0.0,unverified,,round_type,https://innovation-village.com/connected-analytics-thankucash-secures-undisclosed-funding/,2025-03-11 21:37:29
+Purecontrol,1.87,7.0,5.13,274.331550802139,EARLY VC,Not specified,False,0.0,unverified,,"amount, round_type",https://www.purecontrol.com/specialiste-ia-pour-l-industrie-leve-7m-de/,2025-03-11 21:37:29
+Mawingu,1.0,,,,EARLY VC,,False,0.0,unverified,,,https://kepple-africa-ventures.com/home_eng,2025-03-11 21:37:29
+LINKBY,3.235294,5.0,1.7647059999999999,54.54546016528945,SEED,Not specified,False,0.0,unverified,,"amount, round_type",https://www.afr.com/technology/former-young-rich-lister-scores-5m-for-adtech-venture-linkby-20220215-p59wqc,2025-03-11 21:37:29
+Sport Buff,0.0,,,,SEED,Seed,True,1.0,verified,round_type,,https://sportbuff.com/news/sport-buff-secures-significant-seed-investment/,2025-03-11 21:37:29
+Aligned Bio,3.509351,23.0,19.490649,555.3918374081134,SERIES A,Not specified,False,0.0,unverified,,"amount, round_type",https://rapidus.se/aligned-bio-far-23-miljoner-och-tunga-delagare/,2025-03-11 21:37:29
+STRATOSFAIR,1.43,,,,SEED,,False,0.0,unverified,,,https://www.bretagne-economique.com/actualites/startup-stratosfair-realise-sa-premiere-levee-de-fonds,2025-03-11 21:37:29
+OTO,0.0,,,,SEED,,False,0.0,unverified,,,https://www.msn.com/en-us/money/other/oto-raises-8-million-from-series-a-funding/ar-BB,2025-03-11 21:37:29
+Catalyco,0.275,,,,SEED,,False,0.0,unverified,,,https://labsoflatvia.com/en/inspirational-stories/catalyco-aims-to-revolutionise-the-rubber-and-tyre-market,2025-03-11 21:37:29
+Faddom,1.2,8.0,6.8,566.6666666666667,SEED,Series A,False,0.0,unverified,,"amount, round_type",https://www.calcalistech.com/ctechnews/article/sjhi500x3p,2025-03-11 21:37:29
+Mysphera,0.0,,,,SEED,,False,0.0,unverified,,,https://www.sushivp.com/portfolio,2025-03-11 21:37:29
+Argonaute RNA,0.0,,,,SEED,,False,0.0,unverified,,,https://www.scienceangelsyndicate.com/portfolio,2025-03-11 21:37:29
+Paceup,0.0,,,,SEED,,False,0.0,unverified,,,https://cur8.capital/startups/,2025-03-11 21:37:29
+Doctaly,0.0,,,,SEED,,False,0.0,unverified,,,https://www.harbr.io/portfolio,2025-03-11 21:37:29
+Poptop Event Planning Concierge,0.5808,440.0,439.4192,75657.57575757576,SEED,Seed Follow On,False,0.0,unverified,,"amount, round_type",https://www.uktechnews.info/2021/01/13/poptop-uk-secures-440k-seed-follow-on-investment-from-dsw-ventures-and-northstar-ventures/,2025-03-11 21:37:29
+Poptop Event Planning Concierge,0.5808,440.0,439.4192,75657.57575757576,SEED,Seed Follow On,False,1.0,verified,"amount, round_type",,https://www.uktechnews.info/2021/01/13/poptop-uk-secures-440k-seed-follow-on-investment-from-dsw-ventures-and-northstar-ventures/,2025-03-11 21:37:29
+Poptop Event Planning Concierge,0.7535,0.685,0.0684999999999999,9.090909090909078,SEED,Seed,True,0.0,unverified,,"amount, round_type",https://www.eu-startups.com/2018/12/events-marketplace-poptop-uk-secures-615k-from-numerous-business-angels/,2025-03-11 21:37:29
+Poptop Event Planning Concierge,0.7535,0.685,0.0684999999999999,9.090909090909078,SEED,Seed,True,1.0,verified,"amount, round_type",,https://www.eu-startups.com/2018/12/events-marketplace-poptop-uk-secures-615k-from-numerous-business-angels/,2025-03-11 21:37:29
+Hark Technologies,0.605061,,,,SEED,,False,0.0,unverified,,,https://www.shifter.no/nyheter/grnderen-vil-hjelpe-stromselskapene-a-gjore-strommen-smartere-og-billigere-for-kundene/199872,2025-03-11 21:37:29
+TOLV,3.3,6.5,3.2,96.96969696969698,EARLY VC,Not specified,False,0.0,unverified,,"amount, round_type",https://www.maddyness.com/2023/07/04/tolv-electrification-vehicules/,2025-03-11 21:37:29
+Trustmi,4.0,17.0,13.0,325.0,SEED,Not specified,False,0.0,unverified,,"amount, round_type",https://www.calcalistech.com/ctechnews/article/sjg5npc9h,2025-03-11 21:37:29
+Credable,0.0,250.0,250.0,,SEED,Seed,True,1.0,verified,round_type,,https://36kr.com/p/2179968048609794,2025-03-11 21:37:29
+Lanetalk,2.783278,23.0,20.216722,726.363733698179,LATE VC,Not specified,False,0.0,unverified,,"amount, round_type",https://nordic9.com/news/lanetalk-to-raise-sek-23-million-from-wit-ventures-and-other-investors-from-sweden/,2025-03-11 21:37:29
+Meatafora,1.0,5.0,4.0,400.0,EARLY VC,Not specified,False,0.0,unverified,,"amount, round_type",https://vegconomist.com/investments-finance/meatafora-5m-cultivated-meat-vegetable-fat/,2025-03-11 21:37:29
+DoctorApp,0.0,,,,SEED,,False,0.0,unverified,,,https://socialfare.org/en/start-up/doctorapp/,2025-03-11 21:37:29
+ROADHOW,0.66,500.0,499.34,75657.57575757575,SEED,MEIF investment,False,0.0,unverified,,"amount, round_type",https://www.angelnews.co.uk/blog/venture-capital/road-safety-app-roadhow-gains-500000-meif-investment-/,2025-03-11 21:37:29
+Yummy,1.65,,,,SEED,,False,0.0,unverified,,,https://depoventures.com/latest/startup-yummy-which-solves-all-cooking-worries-is-heading-over-to-the-czech-market,2025-03-11 21:37:29
+Rise,3.0,,,,SEED,,False,0.0,unverified,,,https://techcrunch.com/2022/01/28/rise-is-a-new-calendar-app-with-a-scheduling-engine-for-teams/,2025-03-11 21:37:29
+Budibase,1.8,,,,SEED,,False,0.0,unverified,,,https://techcrunch.com/2022/11/04/meet-budibase-a-low-code-open-source-web-app-builder-with-automations/,2025-03-11 21:37:29
+Roofit.Solar,3.52,7.85,4.33,123.01136363636364,SEED,Series A,False,0.0,unverified,,"amount, round_type",https://ecosummit.net/articles/roofit-solar-raises-series-a-led-by-baywa-re-energy-ventures,2025-03-11 21:37:29
+Maplerad,0.0,6.0,6.0,,SEED,Not specified,False,0.0,unverified,,round_type,https://techcrunch.com/2022/10/17/nigerian-banking-as-a-service-platform-maplerad-raises-6m-led-by-peter-theils-valar-ventures/,2025-03-11 21:37:29
+MediCrops,18.333334,,,,LATE VC,,False,0.0,unverified,,,https://www.startupticker.ch/en/news/medicrops-3rd-financing-round-off-to-flying-start,2025-03-11 21:37:29
+Chatfood,5.0,3.0,2.0,40.0,SEED,Bridge round,False,0.0,unverified,,"amount, round_type",https://www.wamda.com/2022/07/chatfood-raises-3-million-bridge-round-led-antler,2025-03-11 21:37:29
+Thabor Therapeutics,0.0,2.0,2.0,,SEED,Not specified,False,0.0,unverified,,round_type,https://www.pharmiweb.com/press-release/2022-07-06/thabor-therapeutics-secures-2-million-in-deep-tech-financing-from-bpifrance,2025-03-11 21:37:29
+Mission Zero Technologies,0.0,5.0,5.0,,SEED,Seed,True,1.0,verified,round_type,,https://www.missionzero.tech/news/mzt-raises-usd-5m-seed-round-from-bev-5-2022,2025-03-11 21:37:29
+Spirea,0.0,,,,SEED,,False,0.0,unverified,,,https://www.labmate-online.com/news/news-and-views/5/spirea/investment-boosts-adc-therapeutics-development/54174,2025-03-11 21:37:29
+Zeal,0.0,,,,SEED,Not specified,False,0.0,unverified,,round_type,https://ventureburn.com/2020/12/egyptian-payment-app-receives-a-six-figure-investment/,2025-03-11 21:37:29
+8power,2.64,2.0,0.6400000000000001,24.242424242424246,SERIES A,Growth funding round,False,0.0,unverified,,"amount, round_type",https://8power.com/8power-completes-2m-growth-funding-round-welcomes-low-carbon-innovation-fund-2/,2025-03-11 21:37:29
+HAKKI AFRICA,0.230996,,,,SEED,Not mentioned,False,0.0,unverified,,round_type,https://spvfund.com/tag/hakki-africa/,2025-03-11 21:37:29
+Nimbl'Bot,0.275,2.0,1.725,627.2727272727273,SEED,Not specified,False,0.0,unverified,,"amount, round_type",https://www.maddyness.com/2023/06/12/nimblbot-levee-de-fonds/?utm_medium=Social&utm_source=LinkedIn#Echobox=1686564733-2,2025-03-11 21:37:29
+Twelve,0.0,,,,SERIES A,,False,0.0,unverified,,,https://www.techstars.com/the-line/startup-profile/opus-12-a-profitable-solution-to-carbon-emissions-climate-change-sustainability,2025-03-11 21:37:29
+Twelve,0.0,,,,SERIES A,,False,0.0,unverified,,round_type,https://www.techstars.com/the-line/startup-profile/opus-12-a-profitable-solution-to-carbon-emissions-climate-change-sustainability,2025-03-11 21:37:29
+Twelve,0.0,,,,SEED,Not specified,False,0.0,unverified,,,https://www.equinor.com/news/archive/ten-companies-selected-for-techstars-energy-accelerator-in-partnership-with-equinor,2025-03-11 21:37:29
+Twelve,0.0,,,,SEED,Not specified,False,0.0,unverified,,round_type,https://www.equinor.com/news/archive/ten-companies-selected-for-techstars-energy-accelerator-in-partnership-with-equinor,2025-03-11 21:37:29
+Bioman,8.8,8.0,0.8000000000000007,9.090909090909099,EARLY VC,Not specified,False,0.5,unverified,amount,round_type,https://www.ansa.it/friuliveneziagiulia/notizie/2020/12/04/imprese-friulia-investe-8-mln-ed-entra-in-capitale-bioman_6e050f04-dbb1-41d1-8558-d7e6872d2b2e.html,2025-03-11 21:37:29
+AC Bioscience,0.733334,,,,SEED,Not mentioned,False,0.0,unverified,,round_type,https://www.ac-bioscience.com/news,2025-03-11 21:37:29
+Tay Therapeutics,0.0,,,,SEED,Not specified in the provided news snippet,False,0.0,unverified,,round_type,https://o2hventures.com/press-releases/o2h-ventures-leads-investment-round-into-in4derm,2025-03-11 21:37:29
+Kubos Semiconductors,0.0,,,,SEED,,False,0.0,unverified,,,https://www.kubos-semi.com/wp-content/uploads/2020/11/LCIF2-Kubos-press-release-25th-Nov-2020.pdf,2025-03-11 21:37:29
+Gebeya,1.0,1.0,0.0,0.0,EARLY VC,Seed,False,0.5,unverified,amount,round_type,https://www.linkedin.com/pulse/1-million-funding-pan-african-startup-gebeya-inc-build-becky-tsadik/,2025-03-11 21:37:29
+Nextory,19.966997,165.0,145.033003,726.3636239340349,LATE VC,Not specified,False,0.0,unverified,,"amount, round_type",https://nordic9.com/news/nextory-to-raise-sek-165-million-from-cni-and-erik-selin-news9726561860/,2025-03-11 21:37:29
+Datia,0.605061,,,,SEED,Not specified,False,0.0,unverified,,round_type,https://nordic9.com/news/datia-secured-funding-from-soderberg-partners-news3454444592/,2025-03-11 21:37:29
+Easycom,1.694169,14.0,12.305831,726.3638397349969,EARLY VC,Not specified,False,0.0,unverified,,"amount, round_type",https://nordic9.com/news/easycom-secures-sek-14-million-from-new-and-existing-investors-news4837726641/,2025-03-11 21:37:29
+ProntoPiso,1.76,,,,SEED,,False,0.0,unverified,,,https://angelgate.ch/2020/10/07/prontopiso-expands-its-funding-with-1-6m-of-capital/,2025-03-11 21:37:29
+Agdata,1.32,,,,EARLY VC,,False,0.0,unverified,,,https://forbes.cz/jiri-hlavenka-jde-do-chytreho-zemedelstvi-po-boku-pale-fire-capital-investuje-do-startupu-agdata/,2025-03-11 21:37:29
+Solsten,8.0,8.0,0.0,0.0,SERIES A,Not specified,False,0.5,unverified,amount,round_type,https://techcrunch.com/2020/10/29/slingshot-aerospace-raises-8-million-to-help-it-expand-to-new-verticals-beyond-aerospace-and-defense/,2025-03-11 21:37:29
+Tendmill,0.979864,,,,SEED,Acquisition,False,0.0,unverified,,round_type,https://www.breakit.se/artikel/42527/startupen-tendmill-vill-kapa-upphandlingskrangel-kops-av-matilda-foodtech,2025-03-11 21:37:29
+Xertified,1.210121,10.0,8.789878999999999,726.3636446272727,EARLY VC,Not specified,False,0.0,unverified,,"amount, round_type",https://nordic9.com/news/xertified-announced-raising-sek-10m-from-krolina-ventures-almi-invest-and-angel-investors-from-swede-news2122149642/,2025-03-11 21:37:29
+Biopix-T,1.595,1.45,0.14500000000000002,9.090909090909092,SEED,Seed,True,1.0,verified,"amount, round_type",,https://therecursive.com/the-greek-alexa-of-molecular-diagnostics-closes-a-e1-45m-seed-round/,2025-03-11 21:37:29
+Kuldea,2.376,3.4,1.024,43.0976430976431,SEED,Seed,True,0.5,unverified,round_type,amount,https://www.rte.ie/news/business/2023/0308/1360896-ufurnish-raises-further-l3-4m-in-seed-funding/,2025-03-11 21:37:29
+Ufurnish,2.376,3.4,1.024,43.0976430976431,SEED,Seed,True,0.5,unverified,round_type,amount,https://www.rte.ie/news/business/2023/0308/1360896-ufurnish-raises-further-l3-4m-in-seed-funding/,2025-03-11 21:37:29
+RFISee,2.8,,,,SERIES A,,False,0.0,unverified,,,https://en.globes.co.il/en/article-israeli-auto-tech-co-rfisee-unveils-4d-imaging-radar-chip-1001338487,2025-03-11 21:37:29
+Equity for Tanzania,12.0,,,,EARLY VC,,False,0.0,unverified,,,https://www.linkedin.com/posts/michiel-timmerman-33a0693_efag-press-release-activity-6704051096383434752-UfX7/,2025-03-11 21:37:29
+Digicust,0.0,,,,SEED,,False,0.0,unverified,,,https://startupwiseguys.com/portfolio/#digicust,2025-03-11 21:37:29
+StockRepublic,0.677668,0.62,0.05766800000000005,8.509771746637004,SEED,Seed,True,1.0,verified,"amount, round_type",,https://nordic9.com/news/stockrepublic-in-a-620k-investment-round-backed-by-swedish-angel-investors-and-almi-invest-news8722785986/,2025-03-11 21:37:29
+Brinja AB,1.210121,1.0,0.210121,17.36363553727272,EARLY VC,Capital funding,False,0.0,unverified,,"amount, round_type",https://nordic9.com/news/brinja-announced-securing-1-million-in-capital-funding-news5355714016/,2025-03-11 21:37:29
+Finch 3D,0.605061,,,,SEED,,False,0.0,unverified,,,https://www.almi.se/almi-invest/nyheter/almi-invest-investerar-i-mjukvarubolaget-finch-3d-som-ska-hjalpa-arkitekter-att-fatta-mer-informerade-beslut-med-ai/,2025-03-11 21:37:29
+Ars Ingenii,0.0,,,,SEED,,False,0.0,unverified,,,https://www.linkedin.com/posts/audrius-milukas_venturecapital-startups-techinvesting-activity-6854656122628911105-CRtg/?trk=public_profile_like_view&originalSubdomain=lt,2025-03-11 21:37:29
+Transferchain,0.0,10.0,10.0,,SEED,Not specified,False,0.0,unverified,,round_type,https://webrazzi.com/2021/12/13/transferchain-10-milyon-dolar-degerleme-uzerinden-yatirim-aldi,2025-03-11 21:37:29
+Apotekamo,0.605061,,,,SEED,,False,0.0,unverified,,,https://epti.com/epti-venture-apotekamo-successfully-closes-pre-seed-funding-round-of-5m-sek/,2025-03-11 21:37:29
+Binary Brains,0.338834,0.31,0.028834000000000026,8.509771746637004,EARLY VC,Seed,False,0.5,unverified,amount,round_type,https://nordic9.com/news/binary-brains-secured-310k-from-almi-invest-and-private-investors-from-sweden-news5347457934/,2025-03-11 21:37:29
+Binary Brains,0.338834,0.31,0.028834000000000026,8.509771746637004,EARLY VC,Seed,False,0.0,unverified,,,https://nordic9.com/news/binary-brains-secured-310k-from-almi-invest-and-private-investors-from-sweden-news5347457934/,2025-03-11 21:37:29
+Binary Brains,0.0,,,,SEED,,False,0.5,unverified,amount,round_type,https://gorillacapital.fi/portfolio/,2025-03-11 21:37:29
+Binary Brains,0.0,,,,SEED,,False,0.0,unverified,,,https://gorillacapital.fi/portfolio/,2025-03-11 21:37:29
+Cinnamon Agency,2.5,,,,SEED,Not specified,False,0.0,unverified,,round_type,https://www.lupa.cz/clanky/novy-pokus-o-zpoplatneni-obsahu-na-webu-cesky-startup-ziskal-miliony-dolaru-od-ripplu-a-coilu/,2025-03-11 21:37:29
+Loopfront,1.452145,,,,SEED,undisclosed,False,0.0,unverified,,round_type,https://shifter.no/nyheter/trondersk-gjenbruks-startup-sikret-millioninvestering/183131,2025-03-11 21:37:29
+Idana,0.671,,,,SEED,,False,0.0,unverified,,,https://idana.com/idana-kunden-investieren-in-tomesgmbh/,2025-03-11 21:37:29
+Idana,0.671,,,,SEED,,False,1.0,verified,"amount, round_type",,https://idana.com/idana-kunden-investieren-in-tomesgmbh/,2025-03-11 21:37:29
+Idana,0.55,0.5,0.050000000000000044,9.090909090909099,SEED,Seed,True,0.0,unverified,,,https://www.mynewsdesk.com/de/companisto-gmbh/pressreleases/ehealth-companisten-investieren-halbe-million-euro-in-idana-2525922,2025-03-11 21:37:29
+Idana,0.55,0.5,0.050000000000000044,9.090909090909099,SEED,Seed,True,1.0,verified,"amount, round_type",,https://www.mynewsdesk.com/de/companisto-gmbh/pressreleases/ehealth-companisten-investieren-halbe-million-euro-in-idana-2525922,2025-03-11 21:37:29
+Brumbrum,3.3,,,,EARLY VC,,False,0.0,unverified,,,https://www.cbtnews.com/ford-has-acquired-which-ev-charging-startup-which-auto-ai-company-is-now-valued-at-1b/,2025-03-11 21:37:29
+ViraSoft,1.9,1.9,0.0,0.0,SEED,Not specified,False,0.5,unverified,amount,round_type,https://www.dailysabah.com/business/tech/19-million-invested-in-digital-pathology-intelligence,2025-03-11 21:37:29
+Biodelta Nutraceuticals,1.375,20.0,18.625,1354.5454545454545,LATE VC,Not specified,False,0.0,unverified,,"amount, round_type",https://techfinancials.co.za/2020/04/07/anuva-investments-injects-r20-m-into-company-providing-covid-19-health-products/,2025-03-11 21:37:29
+Boneprox,0.5,,,,SEED,Not specified in the news article,False,0.0,unverified,,round_type,https://www.breakit.se/artikel/24704/boneprox-har-skapat-ett-kry-for-tandlakare-nu-backas-de-av-backing-minds,2025-03-11 21:37:29
+betteries,0.0,2.1,2.1,,SEED,Seed funding,False,0.0,unverified,,round_type,https://www.prnewswire.com/news-releases/betteries-secures-2-1m-seed-funding-to-upcycle-electric-vehicle-ev-batteries-and-to-avert-climate-change-301257643.html,2025-03-11 21:37:29
+Pawprint,0.46464,,,,EARLY VC,,False,0.0,unverified,,,http://dlvr.it/RmMswm,2025-03-11 21:37:29
+Pawprint,0.46464,,,,EARLY VC,,False,0.0,unverified,,"amount, round_type",http://dlvr.it/RmMswm,2025-03-11 21:37:29
+Pawprint,0.7656,700.0,699.2344,91331.55694879834,EARLY VC,Crowdfunding,False,0.0,unverified,,,http://ow.ly/75gP50H12KE,2025-03-11 21:37:29
+Pawprint,0.7656,700.0,699.2344,91331.55694879834,EARLY VC,Crowdfunding,False,0.0,unverified,,"amount, round_type",http://ow.ly/75gP50H12KE,2025-03-11 21:37:29
+Agrorobotica Srl,0.33,,,,EARLY VC,Investment by Fondazione Social Venture Giordano Dell’Amore,False,0.0,unverified,,round_type,https://www.agrorobotica.it/2020/02/24/fondazione-social-venture-giordano-dell-amore-investe-in-agrorobotica/,2025-03-11 21:37:29
+NeuroServo,0.733334,,,,SEED,,False,0.0,unverified,,,https://www.desjardinscapital.com/en/portfolio/our-partner-businesses/neuroservo/,2025-03-11 21:37:29
+Adline,0.70187,,,,SEED,Not specified in the news article,False,0.0,unverified,,round_type,https://shifter.no/nyheter/konkurs-med-milliongjeld-i-november-na-satser-adline-pa-ny-med-frisk-kapital-i-banken/173991,2025-03-11 21:37:29
+BlueTree Technologies,0.0,,,,SEED,,False,0.0,unverified,,,https://fresh-start.co.il/portfolio/,2025-03-11 21:37:29
+PMD Solutions,1.54,1.4,0.14000000000000012,9.090909090909099,EARLY VC,Not specified,False,0.5,unverified,amount,round_type,https://fora.ie/pmd-medtech-funding-4961018-Jan2020/,2025-03-11 21:37:29
+MyWorkpapers,4.488,3.4,1.0880000000000005,24.242424242424253,SERIES A,Series A,True,0.5,unverified,round_type,amount,https://www.quantuma.com/insights/quantuma-advises-myworkpapers-ps34m-series-funding-round,2025-03-11 21:37:29
+Xoltar,0.0,,,,SEED,,False,0.0,unverified,,,https://www.97212.vc/portfolio,2025-03-11 21:37:29
+Alchemy Global Solutions,2.5,,,,SEED,,False,0.0,unverified,,,https://www.phonearena.com/news/how-apple-devices-get-another-life_id149779,2025-03-11 21:37:29
+superscale,0.0,5.4,5.4,,SEED,Series A,False,0.0,unverified,,round_type,https://www.prnewswire.com/news-releases/superscale-raises-5-4m-series-a-to-grow-revenue-for-game-developers-and-publishers-301862970.html,2025-03-11 21:37:29
+Trone,2.2,260.5,258.3,11740.90909090909,EARLY VC,Not specified,False,0.0,unverified,,"amount, round_type",https://www.maddyness.com/2023/06/16/maddymoney-260-millions-euros-startup/,2025-03-11 21:37:29
+Moby Bikes,1.32,4.0,2.6799999999999997,203.03030303030297,SEED,Not specified,False,0.0,unverified,,"amount, round_type",https://www.independent.ie/business/irish/moby-bikes-raises-4m-for-central-europe-push-42423621.html,2025-03-11 21:37:29
+BonusX,0.0,,,,SEED,,False,0.0,unverified,,,https://socialfare.org/en/start-up/bonusx/,2025-03-11 21:37:29
+Flow Living,0.0,,,,SEED,,False,0.0,unverified,,,https://ventureburn.com/2020/01/sa-proptech-flow-set-to-close-new-funding-round-at-end-of-month-says-ceo/,2025-03-11 21:37:29
+Drexcode,0.4015,,,,SEED,,False,0.0,unverified,,,https://www.cdpventurecapital.it/cdp-venture-capital/en/portafoglio.page?item=2,2025-03-11 21:37:29
+Connexa Insurance,2.53,,,,SEED,,False,0.0,unverified,,,https://www.cdpventurecapital.it/cdp-venture-capital/en/portafoglio.page?item=2,2025-03-11 21:37:29
+FineCell,0.0,,,,SEED,,False,0.0,unverified,,,https://kthholding.se/project/finecell/,2025-03-11 21:37:29
+Train Alliance,6.050605,50.0,43.949395,726.3636446272728,LATE VC,Not specified,False,0.0,unverified,,"amount, round_type",https://www.infrastrukturnyheter.se/20200127/22802/train-alliance-tar-50-miljoner-kronor-fran-spiltan,2025-03-11 21:37:29
+Curoflow,1.125412,,,,EARLY VC,,False,0.0,unverified,,,https://www.almi.se/en/almi-invest/portfolio/curoflow/,2025-03-11 21:37:29
+AISPECO,0.0,0.15,0.15,,SEED,Not specified,False,0.0,unverified,,round_type,https://www.delfi.lv/bizness/tehnologijas/capitalia-kopa-ar-somijas-riska-kapitala-fondu-investejusi-150-000-eiro-lietuvas-jaunuznemuma.d?id=54816620,2025-03-11 21:37:29
+core sensing,0.0,,,,SEED,Series A,False,0.0,unverified,,round_type,https://core-sensing.de/en/know-how/blog/overview/core-sensing-schliesst-series-a-finanzierungsrunde-erfolgreich-ab/,2025-03-11 21:37:29
+MyMOWO,0.726073,6.0,5.2739270000000005,726.3631893762749,EARLY VC,Not specified,False,0.0,unverified,,"amount, round_type",https://nordic9.com/news/mymowo-secured-sek-6-million-from-e14-invest-and-aggregate-media-news8606748491/,2025-03-11 21:37:29
+Barnebys,7.865787,65.0,57.134213,726.363592098286,LATE VC,Not specified (assumed as a capital round),False,0.0,unverified,,"amount, round_type",https://nordic9.com/news/barnebys-raised-a-sek-65m-capital-round-from-existing-investors-news0761001889/,2025-03-11 21:37:29
+Vaderis Therapeutics,16.5,,,,SERIES A,,False,0.0,unverified,,,https://worldbusinessoutlook.com/vaderis-therapeutics-ag-announces-initiation-of-clinical-poc-trial-in-hht/,2025-03-11 21:37:29
+RoboDeck,0.5,,,,SEED,,False,0.0,unverified,,,https://techcrunch.com/2021/09/21/robodeck-is-a-robot-that-keeps-your-houses-deck-looking-good/,2025-03-11 21:37:29
+Xyall,5.5,5.0,0.5,9.090909090909092,SERIES A,Series A,True,1.0,verified,"amount, round_type",,https://xyall.com/news/medtech-innovator-xyall-wins-5m-series-a-financing-for-its-unique-high-tech-molecular-pathology-laboratory-solution/,2025-03-11 21:37:29
+BulutKlinik,0.175,1.0,0.825,471.42857142857144,SEED,Not specified,False,0.0,unverified,,"amount, round_type",https://webrazzi.com/2020/09/02/bulutklinik-teknogirisim-girisim-sermayesi-yatirim-fonu-ndan-1-milyon-tl-yatirim-aldi/,2025-03-11 21:37:29
+WHOSSA,0.363036,3.0,2.636964,726.3643275047102,SEED,Pre-seed,False,0.0,unverified,,"amount, round_type",https://nordic9.com/news/whossa-secured-sek-3m-in-pre-seed-capital-news6255177413/,2025-03-11 21:37:29
+Moonee,0.0,,,,SEED,Lead investment,False,0.0,unverified,,round_type,https://tayaventures.com/2688-2/,2025-03-11 21:37:29
+Danalto,2.2,,,,SEED,,False,0.0,unverified,,,https://www.elkstonepartners.com/news/eiis-changes-having-a-real-impact,2025-03-11 21:37:29
+TolerogenixX,4.51,,,,SERIES A,,False,0.0,unverified,,,https://www.tolerogenixx.com/aktuelles/,2025-03-11 21:37:29
+Apollo Agriculture,0.0,6.0,6.0,,SERIES A,Series A,True,1.0,verified,round_type,,https://techcrunch.com/2020/05/19/kenyas-apollo-agriculture-raises-6m-series-a-led-by-anthemis/,2025-03-11 21:37:29
+WatchHouse,2.1,10.0,7.9,376.1904761904762,SEED,Series A,False,0.0,unverified,,"amount, round_type",https://www.propelinfonews.com/pi-Newsletter.php?datetime=2023-12-22%2008:00:00,2025-03-11 21:37:29
+MachinaWare,0.916666,,,,SEED,Seed,True,1.0,verified,round_type,,https://www.reichlinhess.ch/en/2019/10/31/successful-closure-of-seed-financing-round-for-a-startup-in-the-blockchain-industry/,2025-03-11 21:37:29
+Liquidity Capital,4.0,,,,SEED,Not specified,False,0.0,unverified,,round_type,https://www.ip.mufg.jp/news/mufg-innovation-partners-invested-in-liquidity-capital/,2025-03-11 21:37:29
+Liquidity Capital,4.0,,,,SEED,Not specified,False,0.0,unverified,,round_type,https://www.ip.mufg.jp/news/mufg-innovation-partners-invested-in-liquidity-capital/,2025-03-11 21:37:29
+Liquidity Capital,0.0,40.0,40.0,,SEED,Not specified,False,0.0,unverified,,round_type,https://www.calcalistech.com/ctechnews/article/rjhmtaeco,2025-03-11 21:37:29
+Liquidity Capital,0.0,40.0,40.0,,SEED,Not specified,False,0.0,unverified,,round_type,https://www.calcalistech.com/ctechnews/article/rjhmtaeco,2025-03-11 21:37:29
+I-TES,0.0,,,,SEED,,False,0.0,unverified,,,https://socialfare.org/en/start-up/i-tes/,2025-03-11 21:37:29
+WOO,3.3,3.0,0.2999999999999998,9.090909090909086,SERIES A,Not specified,False,0.5,unverified,amount,round_type,https://www.elevation-cp.com/communiques/capital-investissement/00265/woo-leve-3-millions-d-euros-aupres-d-inter-invest-capital,2025-03-11 21:37:29
+Boositifed,0.847085,0.8,0.04708499999999993,5.558474061044634,EARLY VC,Seed,False,0.5,unverified,amount,round_type,https://nordic9.com/news/boostified-raised-800k-in-capital-investment-news1334743088/,2025-03-11 21:37:29
+GOMECANO,0.462,,,,SEED,,False,0.0,unverified,,,https://tribuca.net/numerique_54854232-video-go-mecano-roule-des-mecaniques,2025-03-11 21:37:29
+Empower New Energy,3.2,,,,EARLY VC,,False,0.0,unverified,,,https://www.electrifi.eu/project/empower-new-energy/,2025-03-11 21:37:29
+Weavr,0.0,500.0,500.0,,SEED,Seed,True,1.0,verified,round_type,,https://www.finextra.com/pressarticle/81551/weavrio-closes-500000-seed-round,2025-03-11 21:37:29
+student tribe,2.64,,,,EARLY VC,,False,0.0,unverified,,,https://www.connectioncapital.co.uk/portfolio/student-tribe/,2025-03-11 21:37:29
+Aprao - Development Appraisal Software,0.0,,,,SEED,,False,0.0,unverified,,,https://placetech.net/news/aprao-launches-development-appraisal-tool/,2025-03-11 21:37:29
+Banjo Robinson,0.0,,,,SEED,,False,0.0,unverified,,,https://www.techstars.com/newsroom/meet-the-companies-techstars-london-2019-starts-here,2025-03-11 21:37:29
+Adepto,2.64,2.0,0.6400000000000001,24.242424242424246,EARLY VC,Not specified,False,0.0,unverified,,"amount, round_type",https://tech.eu/2019/07/18/talent-saas-company-adepto-scored-2-million-in-investment,2025-03-11 21:37:29
+ProGrow,0.0,,,,SEED,,False,0.0,unverified,,,http://www.finsmes.com/2016/10/progrow-receives-investment-from-portugal-ventures.html,2025-03-11 21:37:29
+PeptiSystems,0.726073,0.65,0.07607299999999995,10.477321150903553,EARLY VC,Seed,False,0.0,unverified,,"amount, round_type",https://nordic9.com/news/peptisystems-secured-650k-from-almi-invest-and-private-investors-news7555723163/,2025-03-11 21:37:29
+VEOWARE,0.0,,,,SEED,Mission 3 accelerator programme,False,0.0,unverified,,round_type,https://www.fieldhouseassociates.com/2019/05/16/seraphim-space-camp-launches-mission-3/,2025-03-11 21:37:29
+Hawa Dawa,0.0,,,,SEED,Mission 3 accelerator programme,False,0.0,unverified,,round_type,https://www.fieldhouseassociates.com/2019/05/16/seraphim-space-camp-launches-mission-3/,2025-03-11 21:37:29
+Albacross,1.210121,10.0,8.789878999999999,726.3636446272727,EARLY VC,Not specified,False,0.0,unverified,,"amount, round_type",https://nordic9.com/news/albacross-secured-sek-10m-from-cni-news4750253567/,2025-03-11 21:37:29
+PlayerMaker,0.0,,,,SERIES A,Not specified in the news article,False,0.0,unverified,,round_type,https://tech.eu/2019/05/24/playermaker-arsene-wenger,2025-03-11 21:37:29
+Whistle Punks Urban Axe Throwing,1.5,,,,EARLY VC,Not specified in the news article,False,0.0,unverified,,round_type,https://www.editioncapital.co.uk/news/edition-invests-in-whistle-punks,2025-03-11 21:37:29
+WizeCare,0.0,,,,SEED,,False,0.0,unverified,,,https://www.prweb.com/releases/upward_labs_announces_inaugural_aged_care_and_smart_building_cohort/prweb16274676.htm,2025-03-11 21:37:29
+Xcademy,0.3,,,,EARLY VC,Not specified in the news article,False,0.0,unverified,,round_type,https://www.icandy.io/ici-to-take-20-stake-in-uk-based-video-influencer-platform/,2025-03-11 21:37:29
+Abraham,6.395348,6.9,0.5046520000000001,7.890923214811768,LATE VC,Not specified,False,0.5,unverified,amount,round_type,"https://www.calcalistech.com/ctech/articles/0,7340,L-3758723,00.html",2025-03-11 21:37:29
+Arksen,0.0,,,,SEED,,False,0.0,unverified,,,https://www.valacap.com/insights/first-look-at-arksens-incredible-new-adventure-yachts/,2025-03-11 21:37:29
+Keelham Food Hall,11.22,8.5,2.7200000000000006,24.242424242424246,EARLY VC,Not specified,False,0.0,unverified,,"amount, round_type",https://www.thetelegraphandargus.co.uk/news/17409961.new-stores-plan-keelham-farm-shop-8-5m-investment/,2025-03-11 21:37:29
+Elementor,15.0,15.0,0.0,0.0,SERIES A,Not specified,False,0.5,unverified,amount,round_type,https://techcrunch.com/2020/02/26/elementor-raises-15m-for-its-wordpress-website-builder/,2025-03-11 21:37:29
+Kashier,0.0,,,,SEED,,False,0.0,unverified,,,https://lateralfrontiers.com/portfolio/,2025-03-11 21:37:29
+SolarAfrica Energy,24.0625,,,,LATE VC,,False,0.0,unverified,,,https://inspiredevolution.co.za/funds,2025-03-11 21:37:29
+ThrustMe,0.0,,,,SEED,Not mentioned,False,0.0,unverified,,round_type,https://www.globalspaceventures.com/portfolio,2025-03-11 21:37:29
+Lynxter,1.65,,,,SEED,,False,0.0,unverified,,,https://ift.tt/p9lxgCV,2025-03-11 21:37:29
+PxE Holographic Imaging ( Formerly PxE Computational Imaging ),0.0,5.4,5.4,,SEED,Not specified,False,0.0,unverified,,round_type,https://www.calcalistech.com/ctechnews/article/hjm8lbxwn,2025-03-11 21:37:29
+Triply,0.0,,,,SEED,,False,0.0,unverified,,,https://www.tech2b.at/start-up/triply-gmbh,2025-03-11 21:37:29
+StreamTV,0.0,,,,SEED,,False,0.0,unverified,,,https://www.tech2b.at/start-up/own3d-media-gmbh,2025-03-11 21:37:29
+ClimateView,0.0,,,,SEED,,False,0.0,unverified,,,https://www.almi.se/en/almi-invest/portfolio/climateview/,2025-03-11 21:37:29
+Fresh The Good Food Market,11.0,,,,EARLY VC,,False,0.0,unverified,,,https://m-a-worldwide.com/fresh-bwg/,2025-03-11 21:37:29
+KidsBrandStore,4.453246,,,,LATE VC,,False,0.0,unverified,,,"https://news.cision.com/se/cni-nordic-5/r/cni-nordic-5-ab-investerar-i-tva-nya-portfoljbolag,c2706292",2025-03-11 21:37:29
+Roobeo,0.825,,,,SEED,,False,0.0,unverified,,,https://www.deutsche-startups.de/2019/07/15/berliner-volksbank-ventures-portfolio-2019/,2025-03-11 21:37:29
+Nu Quantum,0.0,,,,SEED,Mission 2,False,0.0,unverified,,round_type,https://medium.com/seraphim-space-camp/welcome-to-space-camp-mission-2-start-ups-revealed-ebe73ebc9d64,2025-03-11 21:37:29
+Sofant Technologies,0.0,,,,SEED,,False,0.0,unverified,,,https://medium.com/seraphim-space-camp/welcome-to-space-camp-mission-2-start-ups-revealed-ebe73ebc9d64,2025-03-11 21:37:29
+Market Beyond,0.0,,,,SEED,Acquisition,False,0.0,unverified,,round_type,https://www.calcalistech.com/ctechnews/article/rj9dqxpgs,2025-03-11 21:37:29
+Actimed Therapeutics,1.716,1.25,0.46599999999999997,27.15617715617715,SEED,Seed A,False,0.0,unverified,,"amount, round_type",https://actimedtherapeutics.com/news/2/54/Actimed-Therapeutics-the-Cachexia-Company-Raises-1.25m-in-Seed-A-Round.html,2025-03-11 21:37:29
+Bringo,2.1,,,,EARLY VC,,False,0.0,unverified,,,https://axessventures.com/fr/nos-startups,2025-03-11 21:37:29
+Power Ledger,1.941177,23.0,21.058823,1084.8481617080772,SEED,Seed capital fund,False,0.0,unverified,,"amount, round_type",https://rac.com.au/about-rac/media/media-releases/january-2020/betterlabs-ventures-expands-seed-capital-fund-to-$23-million-to-become-largest-in-the-state,2025-03-11 21:37:29
+Numida,0.05,,,,SEED,,False,0.0,unverified,,,https://www.prweb.com/releases/beyond_capital_continues_mission_to_support_small_businesses_with_latest_investment/prweb15708365.htm,2025-03-11 21:37:29
+Recycla,0.726073,0.66,0.06607299999999994,9.10004916860976,EARLY VC,Seed,False,0.5,unverified,amount,round_type,https://nordic9.com/news/recycla-raises-660k-in-funding-from-gu-ventures-gokap-and-almi-invest-news4850892510/,2025-03-11 21:37:29
+Re-Flow,0.0,,,,SEED,,False,0.0,unverified,,,https://re-flow.co.uk/news/re-flow-receives-international-investment,2025-03-11 21:37:29
+mozzeno,1.1,,,,SEED,,False,0.0,unverified,,,https://www.mozzeno.com/nl/over-ons/ons-verhaal/,2025-03-11 21:37:29
+Groundwork BioAg,1.1,,,,EARLY VC,,False,0.0,unverified,,,https://axessventures.com/fr/nos-startups,2025-03-11 21:37:29
+Lending Works,3.696,,,,EARLY VC,Not specified in the news article,False,0.0,unverified,,round_type,https://realdeals.eu.com/news/2018/07/12/maven-leads-investment-peer-peer-finance-platform-lending-works/?utm_source=dlvr.it&utm_medium=twitter,2025-03-11 21:37:29
+4Fun,1.375,,,,SEED,,False,0.0,unverified,,,https://www.capitalnuts.com/news/,2025-03-11 21:37:29
+Pera,2.2,,,,SEED,Crowdfunding,False,0.0,unverified,,round_type,https://intellinews.com/romania-s-seedblink-crowdfunding-platform-to-raise-funds-for-european-expansion-211490/,2025-03-11 21:37:29
+Solugate,0.0,,,,SEED,,False,0.0,unverified,,,http://t117.ndsoftnews.com/news/articleView.html?idxno=19672,2025-03-11 21:37:29
+Cyance,0.419232,,,,SEED,,False,0.0,unverified,,,https://files.syndicateroom.com/fund-docs/F28-2017-portfolio-6MARCH2019.pdf,2025-03-11 21:37:29
+Pass the Keys,1.716,,,,SEED,,False,0.0,unverified,,,https://files.syndicateroom.com/fund-docs/F28-2017-portfolio-6MARCH2019.pdf,2025-03-11 21:37:29
+Ambicare Health Limited,0.653796,,,,EARLY VC,,False,0.0,unverified,,,https://files.syndicateroom.com/fund-docs/F28-2017-portfolio-6MARCH2019.pdf,2025-03-11 21:37:29
+Pekama,0.5346,,,,SEED,,False,0.0,unverified,,,https://files.syndicateroom.com/fund-docs/F28-2017-portfolio-6MARCH2019.pdf,2025-03-11 21:37:29
+Molecular Warehouse,1.32,,,,SERIES A,,False,0.0,unverified,,,https://files.syndicateroom.com/fund-docs/F28-2017-portfolio-6MARCH2019.pdf,2025-03-11 21:37:29
+Bockatech,1.153152,,,,SEED,,False,0.0,unverified,,,https://files.syndicateroom.com/fund-docs/F28-2017-portfolio-6MARCH2019.pdf,2025-03-11 21:37:29
+LuckyTrip,0.790284,,,,SEED,,False,0.0,unverified,,,https://files.syndicateroom.com/fund-docs/F28-2017-portfolio-6MARCH2019.pdf,2025-03-11 21:37:29
+AlbaCo,0.0,,,,SEED,Not mentioned,False,0.0,unverified,,round_type,https://www.clydeblowerscapital.com/news-insights/posts/2020/may/cbc-plays-leading-role-in-the-creation-of-new-scottish-business-bank/,2025-03-11 21:37:29
+Moodify,0.7,1.6,0.9000000000000001,128.5714285714286,SEED,Not specified,False,0.0,unverified,,"amount, round_type",https://www.prweb.com/releases/moodify_raises_1_6m_funding_for_advanced_functional_scents/prweb16557378.htm,2025-03-11 21:37:29
+BreezoMeter,1.9,,,,EARLY VC,,False,0.0,unverified,,,https://axessventures.com/fr/nos-startups,2025-03-11 21:37:29
+CyberVadis,0.0,7.0,7.0,,SEED,Series-A,False,0.0,unverified,,round_type,https://fintech.global/2023/05/23/cybervadis-locks-down-e7m-in-series-a-funding-led-by-zobito/,2025-03-11 21:37:29
+Coyotta,1.3,8.5,7.2,553.8461538461538,SEED,Not specified,False,0.0,unverified,,"amount, round_type","https://www.calcalistech.com/ctech/articles/0,7340,L-3883496,00.html",2025-03-11 21:37:29
+Storyblok,0.0,,,,SEED,,False,0.0,unverified,,,https://www.tech2b.at/start-up/storyblok-gmbh,2025-03-11 21:37:29
+Grips Intelligence,0.0,,,,SEED,,False,0.0,unverified,,,https://www.iagcapitalpartners.com/portfolio/,2025-03-11 21:37:29
+Dropit Shopping,12.5,25.0,12.5,100.0,SERIES B,Not specified,False,0.0,unverified,,"amount, round_type",https://techcrunch.com/2022/11/03/dropit-picks-up-25m-to-unify-retailers-inventories-and-digitize-brick-and-mortar-stores/,2025-03-11 21:37:29
+Dropit Shopping,12.5,25.0,12.5,100.0,SERIES B,Not specified,False,0.0,unverified,,"amount, round_type",https://techcrunch.com/2022/11/03/dropit-picks-up-25m-to-unify-retailers-inventories-and-digitize-brick-and-mortar-stores/,2025-03-11 21:37:29
+Dropit Shopping,12.5,25.0,12.5,100.0,SERIES A,Not specified,False,0.0,unverified,,"amount, round_type",https://techcrunch.com/2022/11/03/dropit-picks-up-25m-to-unify-retailers-inventories-and-digitize-brick-and-mortar-stores/,2025-03-11 21:37:29
+Dropit Shopping,12.5,25.0,12.5,100.0,SERIES A,Not specified,False,0.0,unverified,,"amount, round_type",https://techcrunch.com/2022/11/03/dropit-picks-up-25m-to-unify-retailers-inventories-and-digitize-brick-and-mortar-stores/,2025-03-11 21:37:29
+Cambri,0.0,,,,SEED,,False,0.0,unverified,,,https://gorillacapital.fi/portfolio/,2025-03-11 21:37:29
+SNIPR Biome,2.933334,,,,SEED,,False,0.0,unverified,,,https://finans.dk/tech/ECE11747931/flyttede-fra-england-til-danmark-snipr-biome-er-paa-vej-med-banebrydende-afloeser-for-penicillin/,2025-03-11 21:37:29
+Ideal of Sweden,9.680968,80.0,70.31903199999999,726.3636446272727,LATE VC,Not specified,False,0.0,unverified,,"amount, round_type",https://nordic9.com/news/ideal-of-sweden-raises-sek-80m-adds-cni-as-new-investor-in-the-company-news8370906295/,2025-03-11 21:37:29
+Kura,5.016,,,,EARLY VC,,False,0.0,unverified,,,https://www.coachhire.com/blog/investment-from-stagecoach-founder,2025-03-11 21:37:29
+Little Green Pharma,2.5,,,,EARLY VC,,False,0.0,unverified,,,https://bwequities.com.au/transactions/,2025-03-11 21:37:29
+Flixxo,4.8,,,,EARLY VC,,False,0.0,unverified,,,https://www.prnewswire.com/news-releases/icofunding-launches-flixxo-can-blockchain-challenge-youtube-and-netflix-300542354.html,2025-03-11 21:37:29
+East Africa Fruits,0.05,,,,SEED,Not mentioned,False,0.0,unverified,,round_type,https://www.fledge.co/2017/beyond-capital-invests-in-east-africa-fruit/,2025-03-11 21:37:29
+ROXi,14.256,14.0,0.2560000000000002,1.795735129068464,SEED,Not specified,False,0.5,unverified,amount,round_type,https://www.businessinsider.com/electric-jukebox-raises-14-million-plans-go-public-2018-2017-8?r=US&IR=T,2025-03-11 21:37:29
+Igetnow,0.0275,16.0,15.9725,58081.818181818184,SEED,Not specified,False,0.0,unverified,,"amount, round_type",https://www.deutsche-startups.de/2022/04/06/dealmonitor-avi-medical-garden/,2025-03-11 21:37:29
+Cytrox Software,2.0,,,,SEED,Not specified in the news article,False,0.0,unverified,,round_type,https://en.globes.co.il/en/article-israel-aerospace-invests-in-two-cybersecurity-startups-1001195073,2025-03-11 21:37:29
+Flock,0.0,,,,SEED,,False,0.0,unverified,,,https://www.lbbonline.com/news/rga-ventures-hosts-exclusive-demo-day-to-celebrate-iot-venture-studio-uk-graduates,2025-03-11 21:37:29
+Axis Spine Technologies,0.0,,,,SEED,Not specified,False,0.0,unverified,,round_type,https://www.sharecast.com/news/news-and-announcements/mercia-asset-management-makes-two-new-direct-invesments--11031432.html,2025-03-11 21:37:29
+EpiCura,0.0,,,,SEED,,False,0.0,unverified,,,https://socialfare.org/en/start-up/epicura/,2025-03-11 21:37:29
+Zoovu,5.5,169.0,163.5,2972.7272727272725,SERIES A,Series C,False,0.0,unverified,,"amount, round_type",https://www.beringea.com/news/exits/beringea-completes-partial-exit-from-zoovu-as-part-of-usd169-million-series-c-led-by-ftv-capital,2025-03-11 21:37:29
+Log'S,9.24,8.4,0.8399999999999999,9.09090909090909,EARLY VC,Not specified,False,0.5,unverified,amount,round_type,https://www.fusacq.com/buzz/le-prestataire-logistique-log-solutions-cloture-un-tour-de-table-de-8-4-m-a67338_fr_,2025-03-11 21:37:29
+Qiriness,1.87,,,,SERIES A,,False,0.0,unverified,,,https://www.cfnews.net/L-actualite/Capital-innovation-developpement/Operations/Augmentation-de-capital/Qiriness-s-embellit-au-cote-d-un-investisseur-231437,2025-03-11 21:37:29
+Plotagon,0.968097,8.0,7.031903,726.3634739080898,EARLY VC,Not specified,False,0.0,unverified,,"amount, round_type",http://digital.di.se/artikel/svensk-snapchat-utmanare-drar-in-8-mkr,2025-03-11 21:37:29
+Cimagine,0.0,,,,SEED,,False,0.0,unverified,,,https://fortune.com/2016/02/19/super-ventures-augmented-reality/,2025-03-11 21:37:29
+Adabra,0.0,1.0,1.0,,SEED,Seed,True,1.0,verified,round_type,,https://www.economyup.it/startup/club-acceleratori-primo-investimento-da-un-milione-in-7-startup/,2025-03-11 21:37:29
+Advanced Sport Instruments,0.0,,,,SEED,,False,0.0,unverified,,,https://ventures.arcanys.com/portfolio,2025-03-11 21:37:29
+Mo,0.0,,,,SEED,,False,0.0,unverified,,,https://www.wearecreative.uk/support/creative-enterprise/investment/equity-portfolio/,2025-03-11 21:37:29
+WaystoCap,0.0,,,,SEED,,False,0.0,unverified,,,https://mena.500.co/companies,2025-03-11 21:37:29
+Beach Bum,3.0,,,,SEED,,False,0.0,unverified,,,https://www.sabanventures.com/portfolio,2025-03-11 21:37:29
+Orangogo,0.0,,,,SEED,,False,0.0,unverified,,,https://socialfare.org/en/start-up/sport-grand-tour/,2025-03-11 21:37:29
+Wint,0.315,,,,EARLY VC,Almi investment,False,0.0,unverified,,round_type,https://nordic9.com/news/almi-invests-in-accounting-company-wint-news9472032204/,2025-03-11 21:37:29
+Pila Pharma,0.120976,,,,SEED,,False,0.0,unverified,,,https://www.almi.se/Almi-Invest/Aktuellt/Pila-Pharma/,2025-03-11 21:37:29
+Vector Watch,0.0,2017.0,2017.0,,SERIES A,,False,0.0,unverified,,round_type,https://octavianpat21.medium.com/life-lessons-i-learned-from-investing-in-vector-watch-ebdd3cbbaf28,2025-03-11 21:37:29
+Eneza education,0.0,,,,SEED,,False,0.0,unverified,,,https://enezaeducation.com/eneza-education-founding-story-a-tale-of-passion-for-under-served-learners/,2025-03-11 21:37:29
+ULEMCo,0.198,150.0,149.802,75657.57575757575,SEED,Seed,True,0.5,unverified,round_type,amount,https://www.liverpoolecho.co.uk/news/business/hydrogen-fuel-firm-ulemco-secures-7366535,2025-03-11 21:37:29
+Laccure AB,1.488449,,,,EARLY VC,,False,0.0,unverified,,,https://www.aqilion.com/en/puls-bolagen-laccure-och-glactone-tar-in-nytt-kapital/,2025-03-11 21:37:29
+Komaza,0.53713,,,,EARLY VC,,False,0.0,unverified,,,https://www.hrsv.info/project/komaza/,2025-03-11 21:37:29
+Chameleon Technology,0.99,,,,EARLY VC,Not mentioned,False,0.0,unverified,,round_type,https://www.finance-yorkshire.com/news-and-events/no-disguising-business-success-for-chameleon-after-investment,2025-03-11 21:37:29
+4energy Ltd.,9.24,7.0,2.24,24.242424242424242,EARLY VC,Not specified,False,0.0,unverified,,"amount, round_type",https://www.businessgreen.com/news/2270602/british-gas-leads-gbp7m-financing-of-energy-efficiency-startup,2025-03-11 21:37:29
+Bornfight,1.65,,,,SEED,,False,0.0,unverified,,,https://novac.jutarnji.hr/novac/aktualno/tomislav-grubisic-osnivac-bornfighta-u-poduzetnickom-mindsetu-mi-smo-firma-koja-gradi-druge-firme-15251552,2025-03-11 21:37:29
+AddBIO AB,1.137513,,,,EARLY VC,Not specified,False,0.0,unverified,,round_type,https://www.mynewsdesk.com/se/acceleratorab/pressreleases/almi-invest-investerar-i-addbio-751194,2025-03-11 21:37:29
+Safetica,0.88825,,,,EARLY VC,Not specified in the news article,False,0.0,unverified,,round_type,https://www.lupa.cz/clanky/ondrej-tomek-investuje-do-spolecnosti-safetica-technologies/,2025-03-11 21:37:29
+CelluComp,1.1,,,,SEED,,False,0.0,unverified,,,https://www.ecologic.eu/sites/default/files/publication/2018/3513-bio-based-products-15-success-stories.pdf,2025-03-11 21:37:29
+CelluComp,1.1,,,,SEED,,False,0.0,unverified,,,https://www.ecologic.eu/sites/default/files/publication/2018/3513-bio-based-products-15-success-stories.pdf,2025-03-11 21:37:29
+CelluComp,0.0,,,,SEED,,False,0.0,unverified,,,https://www.ecologic.eu/sites/default/files/publication/2018/3513-bio-based-products-15-success-stories.pdf,2025-03-11 21:37:29
+CelluComp,0.0,,,,SEED,,False,0.0,unverified,,,https://www.ecologic.eu/sites/default/files/publication/2018/3513-bio-based-products-15-success-stories.pdf,2025-03-11 21:37:29
+Prototool Manufacturing Limited,10.0,,,,SEED,,False,0.0,unverified,,,https://prototool.com/led-lamp-parts-manufacturing/,2025-03-11 21:37:29
+Robart,0.0,,,,SEED,,False,0.0,unverified,,,https://www.tech2b.at/start-up/robart,2025-03-11 21:37:29
+TCX,7.81,,,,EARLY VC,,False,0.0,unverified,,,https://www.bio-invest.be/en/investments/the-currency-exchange-fund-n-v,2025-03-11 21:37:29
+Displaydata,3.96,,,,SERIES C,,False,0.0,unverified,,,https://web.archive.org/web/20180805160442/http://www.silverpeakib.com/transactions,2025-03-11 21:37:29
+Symcel,0.0,,,,SEED,,False,0.0,unverified,,,https://sting.co/companies/symcel/,2025-03-11 21:37:29
+SILIOS Technologies,1.43,1.3,0.1299999999999999,9.090909090909085,SEED,First round,False,0.5,unverified,amount,round_type,https://www.lightwaveonline.com/business/market-research/article/16657467/ion-beam-spinoff-silios-technologies-raises-eur13m-in-first-round-funding,2025-03-11 21:37:29
+SILIOS Technologies,1.43,1.3,0.1299999999999999,9.090909090909085,SEED,First round,False,0.0,unverified,,round_type,https://www.lightwaveonline.com/business/market-research/article/16657467/ion-beam-spinoff-silios-technologies-raises-eur13m-in-first-round-funding,2025-03-11 21:37:29
+SILIOS Technologies,0.0,1.0,1.0,,SEED,Not specified,False,0.5,unverified,amount,round_type,https://www.creditmutuel-equity.eu/en/portfolio/silios-technologies.html,2025-03-11 21:37:29
+SILIOS Technologies,0.0,1.0,1.0,,SEED,Not specified,False,0.0,unverified,,round_type,https://www.creditmutuel-equity.eu/en/portfolio/silios-technologies.html,2025-03-11 21:37:29
+Neuro3d,11.0,,,,EARLY VC,,False,0.0,unverified,,,https://web.archive.org/web/20040604164004/http://www.neuro3d.fr/history.html,2025-03-11 21:37:29
+Neuro3d,11.0,,,,EARLY VC,,False,0.0,unverified,,,https://web.archive.org/web/20040604164004/http://www.neuro3d.fr/history.html,2025-03-11 21:37:29
+Neuro3d,0.0,,,,SEED,,False,0.0,unverified,,,https://web.archive.org/web/20040604164004/http://www.neuro3d.fr/history.html,2025-03-11 21:37:29
+Neuro3d,0.0,,,,SEED,,False,0.0,unverified,,,https://web.archive.org/web/20040604164004/http://www.neuro3d.fr/history.html,2025-03-11 21:37:29
+Witbe,7.37,6.7,0.6699999999999999,9.09090909090909,SEED,Not specified,False,0.5,unverified,amount,round_type,https://www.clubic.com/actualite-43154-.html,2025-03-11 21:37:29
+Presence Online,7.5,7.5,0.0,0.0,SERIES A,Not specified,False,0.5,unverified,amount,round_type,http://web.archive.org/web/20021118203410/http://www.presenceusa.com/presenceweb/pressreleases_28072000.htm,2025-03-11 21:37:29
