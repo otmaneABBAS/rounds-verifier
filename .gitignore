@@ -37,7 +37,6 @@ env/
 *.log
 .env
 reports/
-results/
 data/*.csv
 data/*.json
 
